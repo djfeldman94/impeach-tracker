@@ -1,0 +1,233 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import StatsBar from '../components/StatsBar.astro';
+import HouseMap from '../components/maps/HouseMap.svelte';
+import SenateMap from '../components/maps/SenateMap.svelte';
+import GovernorMap from '../components/maps/GovernorMap.svelte';
+import { STANCE_CATEGORIES, type StanceCategory } from '../styles/colors';
+import type { MemberData } from '../components/maps/map-utils';
+
+const representatives = await getCollection('representatives');
+const senators = await getCollection('senators');
+const governors = await getCollection('governors');
+
+// Serialize member data for map components
+function toMemberData(collection: typeof representatives): MemberData[] {
+  return collection.map(m => ({
+    id: m.data.id,
+    slug: m.data.slug,
+    fullName: m.data.fullName,
+    party: m.data.party,
+    state: m.data.state,
+    district: m.data.district,
+    fipsCode: m.data.fipsCode,
+    stance: m.data.stance,
+    stanceSummary: m.data.stanceSummary,
+    phone: m.data.phone,
+  }));
+}
+
+const houseMembers = toMemberData(representatives);
+const senateMembers = toMemberData(senators);
+const governorMembers = toMemberData(governors);
+
+function countStances(members: { data: { stance: StanceCategory } }[]) {
+  const counts = Object.fromEntries(STANCE_CATEGORIES.map(c => [c, 0])) as Record<StanceCategory, number>;
+  for (const m of members) {
+    counts[m.data.stance]++;
+  }
+  return counts;
+}
+
+const houseCounts = countStances(representatives);
+const senateCounts = countStances(senators);
+const governorCounts = countStances(governors);
+---
+
+<BaseLayout title="Home">
+  <section class="hero">
+    <div class="container">
+      <h1 class="hero-title">Where Does Your Rep Stand on Impeachment?</h1>
+      <p class="hero-subtitle">
+        Track where every member of Congress and governor stands on impeaching Donald Trump.
+        Click any district to learn more and take action.
+      </p>
+    </div>
+  </section>
+
+  <section class="stats-section">
+    <div class="container">
+      <StatsBar counts={houseCounts} total={representatives.length} label="House of Representatives" />
+      <StatsBar counts={senateCounts} total={senators.length} label="Senate" />
+      <StatsBar counts={governorCounts} total={governors.length} label="Governors" />
+    </div>
+  </section>
+
+  <section class="map-section">
+    <div class="container">
+      <div class="map-block map-block--primary">
+        <h2>House of Representatives</h2>
+        <p class="text-secondary">435 congressional districts, colored by impeachment stance</p>
+        <HouseMap members={houseMembers} compact client:visible />
+        <a href="/house" class="map-link">View full House map &rarr;</a>
+      </div>
+
+      <div class="map-grid">
+        <div class="map-block">
+          <h2>Senate</h2>
+          <p class="text-secondary">100 senators across 50 states</p>
+          <SenateMap members={senateMembers} compact client:visible />
+          <a href="/senate" class="map-link">View full Senate map &rarr;</a>
+        </div>
+
+        <div class="map-block">
+          <h2>Governors</h2>
+          <p class="text-secondary">50 state governors</p>
+          <GovernorMap members={governorMembers} compact client:visible />
+          <a href="/governors" class="map-link">View full Governor map &rarr;</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="cta-section">
+    <div class="container">
+      <div class="cta-box">
+        <h2>Take Action</h2>
+        <p>Find your representative and call them today. Every voice matters.</p>
+        <div class="cta-buttons">
+          <a href="/house" class="cta-btn cta-btn--primary">Find Your Rep</a>
+          <a href="/senate" class="cta-btn cta-btn--secondary">Find Your Senators</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    padding: var(--space-3xl) 0 var(--space-xl);
+    text-align: center;
+  }
+
+  .hero-title {
+    font-size: 2.5rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin-bottom: var(--space-md);
+  }
+
+  .hero-subtitle {
+    color: var(--color-text-secondary);
+    font-size: 1.1rem;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+
+  .stats-section {
+    padding: var(--space-xl) 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .map-section {
+    padding: var(--space-2xl) 0;
+  }
+
+  .map-block {
+    background: var(--color-bg-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: var(--space-lg);
+    margin-bottom: var(--space-lg);
+  }
+
+  .map-block h2 {
+    margin-bottom: var(--space-xs);
+  }
+
+  .map-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-lg);
+  }
+
+  .map-link {
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+
+  .cta-section {
+    padding: var(--space-2xl) 0;
+  }
+
+  .cta-box {
+    background: var(--color-bg-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: var(--space-2xl);
+    text-align: center;
+  }
+
+  .cta-box h2 {
+    margin-bottom: var(--space-sm);
+  }
+
+  .cta-box p {
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-lg);
+  }
+
+  .cta-buttons {
+    display: flex;
+    gap: var(--space-md);
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .cta-btn {
+    display: inline-block;
+    padding: 0.75rem 1.5rem;
+    border-radius: 6px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: background 0.15s, transform 0.1s;
+    text-decoration: none;
+  }
+
+  .cta-btn:hover {
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+
+  .cta-btn--primary {
+    background: var(--color-accent);
+    color: #fff;
+  }
+
+  .cta-btn--primary:hover {
+    background: var(--color-accent-hover);
+    color: #fff;
+  }
+
+  .cta-btn--secondary {
+    background: var(--color-bg-elevated);
+    color: var(--color-text);
+    border: 1px solid var(--color-border);
+  }
+
+  .cta-btn--secondary:hover {
+    background: var(--color-border);
+    color: var(--color-text);
+  }
+
+  @media (max-width: 768px) {
+    .hero-title {
+      font-size: 1.75rem;
+    }
+
+    .map-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>

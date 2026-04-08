@@ -1,0 +1,212 @@
+---
+import StanceBadge from './StanceBadge.astro';
+import { PARTY_LABELS, STANCE_LABELS, STANCE_CATEGORIES, type StanceCategory } from '../styles/colors';
+
+interface Member {
+  slug: string;
+  fullName: string;
+  party: 'D' | 'R' | 'I';
+  state: string;
+  district?: number | null;
+  stance: StanceCategory;
+  stanceSummary: string;
+  phone?: string | null;
+}
+
+interface Props {
+  members: Member[];
+  chamber: 'house' | 'senate' | 'governors';
+}
+
+const { members, chamber } = Astro.props;
+
+// Get unique states for filter
+const states = [...new Set(members.map(m => m.state))].sort();
+---
+
+<div class="member-list-controls" id="list-controls">
+  <div class="filter-row">
+    <select id="filter-stance" class="filter-select" aria-label="Filter by stance">
+      <option value="">All stances</option>
+      {STANCE_CATEGORIES.map(cat => (
+        <option value={cat}>{STANCE_LABELS[cat]}</option>
+      ))}
+    </select>
+
+    <select id="filter-party" class="filter-select" aria-label="Filter by party">
+      <option value="">All parties</option>
+      <option value="D">Democrat</option>
+      <option value="R">Republican</option>
+      <option value="I">Independent</option>
+    </select>
+
+    <select id="filter-state" class="filter-select" aria-label="Filter by state">
+      <option value="">All states</option>
+      {states.map(s => (
+        <option value={s}>{s}</option>
+      ))}
+    </select>
+
+    <span class="filter-count" id="filter-count">{members.length} members</span>
+  </div>
+</div>
+
+<div class="member-list" id="member-list">
+  {members.map(member => (
+    <a
+      href={`/${chamber}/${member.slug}`}
+      class="member-row"
+      data-stance={member.stance}
+      data-party={member.party}
+      data-state={member.state}
+    >
+      <div class="member-row-info">
+        <span class="member-row-name">{member.fullName}</span>
+        <span class="member-row-meta">
+          <span class={`party-tag party-${member.party.toLowerCase()}`}>{member.party}</span>
+          {member.state}{chamber === 'house' && member.district != null ? `-${member.district}` : ''}
+        </span>
+      </div>
+      <div class="member-row-stance">
+        <StanceBadge stance={member.stance} size="sm" />
+      </div>
+    </a>
+  ))}
+</div>
+
+<script>
+  const stanceFilter = document.getElementById('filter-stance') as HTMLSelectElement;
+  const partyFilter = document.getElementById('filter-party') as HTMLSelectElement;
+  const stateFilter = document.getElementById('filter-state') as HTMLSelectElement;
+  const countEl = document.getElementById('filter-count');
+  const rows = document.querySelectorAll<HTMLElement>('.member-row');
+
+  function applyFilters() {
+    const stance = stanceFilter?.value || '';
+    const party = partyFilter?.value || '';
+    const state = stateFilter?.value || '';
+    let visible = 0;
+
+    rows.forEach(row => {
+      const matchStance = !stance || row.dataset.stance === stance;
+      const matchParty = !party || row.dataset.party === party;
+      const matchState = !state || row.dataset.state === state;
+      const show = matchStance && matchParty && matchState;
+      row.style.display = show ? '' : 'none';
+      if (show) visible++;
+    });
+
+    if (countEl) countEl.textContent = `${visible} member${visible !== 1 ? 's' : ''}`;
+  }
+
+  stanceFilter?.addEventListener('change', applyFilters);
+  partyFilter?.addEventListener('change', applyFilters);
+  stateFilter?.addEventListener('change', applyFilters);
+</script>
+
+<style>
+  .member-list-controls {
+    margin-bottom: var(--space-lg);
+  }
+
+  .filter-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-sm);
+    align-items: center;
+  }
+
+  .filter-select {
+    padding: 6px 12px;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    background: var(--color-bg-surface);
+    color: var(--color-text);
+    font-size: 0.85rem;
+    font-family: inherit;
+    cursor: pointer;
+  }
+
+  .filter-select:focus {
+    outline: none;
+    border-color: var(--color-accent);
+  }
+
+  .filter-count {
+    color: var(--color-text-muted);
+    font-size: 0.85rem;
+    margin-left: auto;
+  }
+
+  .member-list {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+
+  .member-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: var(--space-sm) var(--space-md);
+    text-decoration: none;
+    color: var(--color-text);
+    border-bottom: 1px solid var(--color-border);
+    transition: background 0.1s;
+  }
+
+  .member-row:last-child {
+    border-bottom: none;
+  }
+
+  .member-row:hover {
+    background: var(--color-bg-surface);
+    text-decoration: none;
+  }
+
+  .member-row-info {
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+    min-width: 0;
+  }
+
+  .member-row-name {
+    font-weight: 500;
+    font-size: 0.95rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .member-row-meta {
+    font-size: 0.8rem;
+    color: var(--color-text-secondary);
+    display: flex;
+    align-items: center;
+    gap: var(--space-xs);
+  }
+
+  .party-tag {
+    font-weight: 600;
+    font-size: 0.75rem;
+  }
+
+  .party-d { color: var(--color-democrat); }
+  .party-r { color: var(--color-republican); }
+  .party-i { color: var(--color-independent); }
+
+  .member-row-stance {
+    flex-shrink: 0;
+  }
+
+  @media (max-width: 600px) {
+    .filter-count {
+      width: 100%;
+      margin-left: 0;
+      margin-top: var(--space-xs);
+    }
+  }
+</style>

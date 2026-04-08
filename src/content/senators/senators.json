@@ -1,0 +1,4666 @@
+[
+  {
+    "id": "M001153",
+    "slug": "lisa-murkowski",
+    "firstName": "Lisa",
+    "lastName": "Murkowski",
+    "fullName": "Lisa Murkowski",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M001153.jpg",
+    "state": "AK",
+    "fipsCode": "02",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6665",
+    "email": "https://www.murkowski.senate.gov/public/index.cfm/contact",
+    "website": "https://www.murkowski.senate.gov",
+    "officeAddress": "522 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Anchorage",
+        "address": "510 L St., Suite 600, Anchorage, AK 99501",
+        "phone": "907-271-3735"
+      },
+      {
+        "city": "Juneau",
+        "address": "800 Glacier Ave., Suite 101, Juneau, AK 99801",
+        "phone": "907-586-7277"
+      },
+      {
+        "city": "Ketchikan",
+        "address": "1900 First Ave., Suite 225, Ketchikan, AK 99901",
+        "phone": "907-225-6880"
+      },
+      {
+        "city": "Soldotna",
+        "address": "44539 Sterling Hwy., Suite 203, Soldotna, AK 99669",
+        "phone": "907-262-4220"
+      },
+      {
+        "city": "Wasilla",
+        "address": "851 E. Westpoint Dr., Suite 307, Wasilla, AK 99654",
+        "phone": "907-376-7665"
+      },
+      {
+        "city": "Fairbanks",
+        "address": "101 12th Avenue, Suite 172, Fairbanks Federal Building, Fairbanks, AK 99701",
+        "phone": "907-456-0233"
+      }
+    ],
+    "twitter": "LisaMurkowski",
+    "facebook": "SenLisaMurkowski",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "S001198",
+    "slug": "dan-sullivan",
+    "firstName": "Dan",
+    "lastName": "Sullivan",
+    "fullName": "Dan Sullivan",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001198.jpg",
+    "state": "AK",
+    "fipsCode": "02",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3004",
+    "email": "https://www.sullivan.senate.gov/contact/email",
+    "website": "https://www.sullivan.senate.gov",
+    "officeAddress": "706 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Anchorage",
+        "address": "510 L St., Suite 750, Anchorage, AK 99501",
+        "phone": "907-271-5915"
+      },
+      {
+        "city": "Fairbanks",
+        "address": "101 12th Ave., Suite 328, Federal Building, Fairbanks, AK 99701",
+        "phone": "907-456-0261"
+      },
+      {
+        "city": "Juneau",
+        "address": "800 Glacier Ave., Suite 101, Juneau, AK 99801",
+        "phone": "907-205-3767"
+      },
+      {
+        "city": "Ketchikan",
+        "address": "1900 First Ave., Suite 225, Ketchikan, AK 99901",
+        "phone": "907-225-6880"
+      },
+      {
+        "city": "Soldotna",
+        "address": "44539 Sterling Highway, Suite 204, Soldotna, AK 99669",
+        "phone": "907-262-4040"
+      },
+      {
+        "city": "Wasilla",
+        "address": "851 E. Westpoint Dr., Suite 309, Wasilla, AK 99654",
+        "phone": "907-357-9956"
+      }
+    ],
+    "twitter": "SenDanSullivan",
+    "facebook": "SenDanSullivan",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "B001319",
+    "slug": "katie-boyd-britt",
+    "firstName": "Katie",
+    "lastName": "Britt",
+    "fullName": "Katie Boyd Britt",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001319.jpg",
+    "state": "AL",
+    "fipsCode": "01",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5744",
+    "email": "https://www.britt.senate.gov/contact/",
+    "website": "https://www.britt.senate.gov",
+    "officeAddress": "416 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Birmingham",
+        "address": "1800 5th Avenue North, 321 Federal Building, Birmingham, AL 35203",
+        "phone": "205-731-1384"
+      },
+      {
+        "city": "Tuscaloosa",
+        "address": "2005 University Boulevard, Suite 2100, Tuscaloosa, AL 35401",
+        "phone": "659-251-2880"
+      },
+      {
+        "city": "Huntsville",
+        "address": "660 Gallatin St SW, Suite 1400, Huntsville, AL 35801",
+        "phone": "256-429-3450"
+      },
+      {
+        "city": "Montgomery",
+        "address": "One Church Street, Suite F-401, United States Federal Courthouse, Montgomery, AL 36104",
+        "phone": "334-777-1150"
+      },
+      {
+        "city": "Dothan",
+        "address": "100 W. Troy St, Suite 101, Dothan Courthouse and Federal Building, Dothan, AL 36303",
+        "phone": "334-500-4097"
+      },
+      {
+        "city": "Mobile",
+        "address": "113 Saint Joseph Street, Room 365, Mobile, AL 36602",
+        "phone": "251-662-9990"
+      }
+    ],
+    "twitter": "SenKatieBritt",
+    "facebook": "senkatiebritt",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "T000278",
+    "slug": "tommy-tuberville",
+    "firstName": "Tommy",
+    "lastName": "Tuberville",
+    "fullName": "Tommy Tuberville",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/T/T000278.jpg",
+    "state": "AL",
+    "fipsCode": "01",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4124",
+    "email": "https://www.tuberville.senate.gov/contact/contact-form/",
+    "website": "https://www.tuberville.senate.gov",
+    "officeAddress": "455 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Mobile",
+        "address": "41 West I-65, Service Rd. N., Suite 2300-A, 3BB&T Centre, Mobile, AL 36608",
+        "phone": "251-308-7233"
+      },
+      {
+        "city": "Huntsville",
+        "address": "2101 Clinton Ave. W., Suite 300, Huntsville, AL 35805",
+        "phone": "256-692-7500"
+      },
+      {
+        "city": "Birmingham",
+        "address": "3000 Riverchase Galleria, Suite 915, Birmingham, AL 35244",
+        "phone": "205-760-7307"
+      },
+      {
+        "city": "Montgomery",
+        "address": "One Church St., Suite 500-B, Frank M Johnson Jr. Annex, Montgomery, AL 36104",
+        "phone": "334-523-7424"
+      },
+      {
+        "city": "Dothan",
+        "address": "100 West Troy St., Dothan, AL 36303",
+        "phone": "334-547-7441"
+      }
+    ],
+    "twitter": "SenTuberville",
+    "facebook": "RogerMarshallMD",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "B001236",
+    "slug": "john-boozman",
+    "firstName": "John",
+    "lastName": "Boozman",
+    "fullName": "John Boozman",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001236.jpg",
+    "state": "AR",
+    "fipsCode": "05",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4843",
+    "email": "https://www.boozman.senate.gov/public/index.cfm/contact",
+    "website": "https://www.boozman.senate.gov/public",
+    "officeAddress": "555 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "El Dorado",
+        "address": "106 W. Main St., Suite 104, El Dorado, AR 71730",
+        "phone": "870-863-4641"
+      },
+      {
+        "city": "Fort Smith",
+        "address": "1120 Garrison Ave., Suite 2B, Fort Smith, AR 72901",
+        "phone": "479-573-0189"
+      },
+      {
+        "city": "Jonesboro",
+        "address": "300 S. Church St., Suite 400, Jonesboro, AR 72401",
+        "phone": "870-268-6925"
+      },
+      {
+        "city": "Little Rock",
+        "address": "1401 W. Capitol Ave., Suite 155, Little Rock, AR 72201",
+        "phone": "501-372-7153"
+      },
+      {
+        "city": "Lowell",
+        "address": "213 W. Monroe, Suite N, Lowell, AR 72745",
+        "phone": "479-725-0400"
+      },
+      {
+        "city": "Mountain Home",
+        "address": "1001 Hwy 62 East, Suite 11, Mountain Home, AR 72653",
+        "phone": "870-424-0129"
+      },
+      {
+        "city": "Stuttgart",
+        "address": "620 E. 22nd St., Suite 204, Stuttgart, AR 72160",
+        "phone": "870-672-6941"
+      }
+    ],
+    "twitter": "JohnBoozman",
+    "facebook": "JohnBoozman",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "C001095",
+    "slug": "tom-cotton",
+    "firstName": "Tom",
+    "lastName": "Cotton",
+    "fullName": "Tom Cotton",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001095.jpg",
+    "state": "AR",
+    "fipsCode": "05",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2353",
+    "email": "https://www.cotton.senate.gov/contact/contact-tom",
+    "website": "https://www.cotton.senate.gov",
+    "officeAddress": "326 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "El Dorado",
+        "address": "106 W. Main St., Suite 410, El Dorado, AR 71730",
+        "phone": "870-864-8582"
+      },
+      {
+        "city": "Jonesboro",
+        "address": "300 S. Church, Suite 338, Jonesboro, AR 72401",
+        "phone": "870-933-6223"
+      },
+      {
+        "city": "Little Rock",
+        "address": "1401 W. Capitol Ave., Suite 235, Little Rock, AR 72201",
+        "phone": "501-223-9081"
+      },
+      {
+        "city": "Rogers",
+        "address": "3333 S. Pinnacle Hills Pkwy, Suite 425, Rogers, AR 72758",
+        "phone": "479-751-0879"
+      }
+    ],
+    "twitter": "SenTomCotton",
+    "facebook": "SenatorTomCotton",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "G000574",
+    "slug": "ruben-gallego",
+    "firstName": "Ruben",
+    "lastName": "Gallego",
+    "fullName": "Ruben Gallego",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/G/G000574.jpg",
+    "state": "AZ",
+    "fipsCode": "04",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4521",
+    "email": null,
+    "website": "https://www.gallego.senate.gov",
+    "officeAddress": "302 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Phoenix",
+        "address": "3333 E. Camelback Rd, Suite 200, Phoenix, AZ 85018",
+        "phone": "480-697-3600"
+      },
+      {
+        "city": "Tucson",
+        "address": "20 East Ochoa Street, Tucson, AZ 85701",
+        "phone": "520-777-0400"
+      }
+    ],
+    "twitter": "RepRubenGallego",
+    "facebook": "RepRubenGallego",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "K000377",
+    "slug": "mark-kelly",
+    "firstName": "Mark",
+    "lastName": "Kelly",
+    "fullName": "Mark Kelly",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/K/K000377.jpg",
+    "state": "AZ",
+    "fipsCode": "04",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2235",
+    "email": "https://www.kelly.senate.gov/contact/contact-form/",
+    "website": "https://www.kelly.senate.gov",
+    "officeAddress": "516 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Phoenix",
+        "address": "2201 E. Camelback Rd, Suite 115, Camelback Plaza, Phoenix, AZ 85016",
+        "phone": "602-671-7901"
+      },
+      {
+        "city": "Tucson",
+        "address": "100 North Stone Avenue, Suite 600, Tucson, AZ 85701",
+        "phone": "520-475-5177"
+      }
+    ],
+    "twitter": "SenMarkKelly",
+    "facebook": "SenMarkKelly",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "P000145",
+    "slug": "alex-padilla",
+    "firstName": "Alejandro",
+    "lastName": "Padilla",
+    "fullName": "Alex Padilla",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/P/P000145.jpg",
+    "state": "CA",
+    "fipsCode": "06",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3553",
+    "email": "https://www.padilla.senate.gov/contact/",
+    "website": "https://www.padilla.senate.gov",
+    "officeAddress": "331 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Fresno",
+        "address": "2500 Tulare Street, Suite 5290, Fresno, CA 93721",
+        "phone": "559-497-5109"
+      },
+      {
+        "city": "San Francisco",
+        "address": "333 Bush Street, Suite 3225, San Francisco, CA 94104",
+        "phone": "415-981-9369"
+      },
+      {
+        "city": "Sacramento",
+        "address": "501 I Street, Suite 7-800, Sacramento, CA 95814",
+        "phone": "916-448-2787"
+      },
+      {
+        "city": "San Diego",
+        "address": "600 B Street, Suite 2240, San Diego, CA 92101",
+        "phone": "619-239-3884"
+      },
+      {
+        "city": "Los Angeles",
+        "address": "255 E. Temple St., Suite 1860, Los Angeles, CA 90012",
+        "phone": "310-231-4494"
+      }
+    ],
+    "twitter": "SenAlexPadilla",
+    "facebook": "SenAlexPadilla",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "S001150",
+    "slug": "adam-b-schiff",
+    "firstName": "Adam",
+    "lastName": "Schiff",
+    "fullName": "Adam B. Schiff",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001150.jpg",
+    "state": "CA",
+    "fipsCode": "06",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3841",
+    "email": null,
+    "website": "https://www.schiff.senate.gov",
+    "officeAddress": "112 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "San Francisco",
+        "address": "1 Post St, Suite 2450, San Francisco, CA 94104",
+        "phone": "415-393-0707"
+      },
+      {
+        "city": "Fresno",
+        "address": "2500 Tulare Street, Suite 4290, Fresno, CA 93721",
+        "phone": "559-485-7430"
+      },
+      {
+        "city": "San Diego",
+        "address": "880 Front Street, Suite 4236, San Diego, CA 92101",
+        "phone": "619-231-9712"
+      }
+    ],
+    "twitter": "SenAdamSchiff",
+    "facebook": "SenAdamSchiff",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "B001267",
+    "slug": "michael-f-bennet",
+    "firstName": "Michael",
+    "lastName": "Bennet",
+    "fullName": "Michael F. Bennet",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001267.jpg",
+    "state": "CO",
+    "fipsCode": "08",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5852",
+    "email": "https://www.bennet.senate.gov/public/index.cfm/contact",
+    "website": "https://www.bennet.senate.gov",
+    "officeAddress": "261 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Colorado Springs",
+        "address": "409 N. Tejon St., Suite 107, Colorado Springs, CO 80903",
+        "phone": "719-328-1100"
+      },
+      {
+        "city": "Denver",
+        "address": "1244 Speer Blvd., Cesar E. Chavez Memorial Building, Denver, CO 80204",
+        "phone": "303-455-7600"
+      },
+      {
+        "city": "Fort Collins",
+        "address": "1200 S. College Ave., Suite 211, Fort Collins, CO 80524",
+        "phone": "970-224-2200"
+      },
+      {
+        "city": "Grand Junction",
+        "address": "225 N. 5th St., Suite 511, Grand Junction, CO 81501",
+        "phone": "970-241-6631"
+      },
+      {
+        "city": "Pueblo",
+        "address": "129 W. B St., Pueblo, CO 81003",
+        "phone": "719-542-7550"
+      },
+      {
+        "city": "Alamosa",
+        "address": "609 Main Street, Suite 206, Alamosa, CO 81101",
+        "phone": "719-587-0096"
+      },
+      {
+        "city": "Durango",
+        "address": "1309 East 3rd Avenue, Suite 101, Smiley Building, Durango, CO 81301",
+        "phone": "970-259-1710"
+      }
+    ],
+    "twitter": "SenatorBennet",
+    "facebook": "senbennetco",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "H000273",
+    "slug": "john-w-hickenlooper",
+    "firstName": "John",
+    "lastName": "Hickenlooper",
+    "fullName": "John W. Hickenlooper",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H000273.jpg",
+    "state": "CO",
+    "fipsCode": "08",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5941",
+    "email": "https://www.hickenlooper.senate.gov/contact/",
+    "website": "https://www.hickenlooper.senate.gov",
+    "officeAddress": "316 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Denver",
+        "address": "1961 Stout St., Suite 12-300, Byron Rogers Federal Building, Denver, CO 80294",
+        "phone": "303-244-1628"
+      },
+      {
+        "city": "Colorado Springs",
+        "address": "102 South Tejon St., Suite 930, Colorado Springs, CO 80903",
+        "phone": "719-632-6706"
+      },
+      {
+        "city": "Grand Junction",
+        "address": "400 Rood Ave., Suite 220, Wayne Aspinall Federal Building, Grand Junction, CO 81501",
+        "phone": "970-822-4530"
+      },
+      {
+        "city": "Durango",
+        "address": "1309 East 3rd Ave., Suite 104, The Smiley Building, Durango, CO 81301",
+        "phone": "970-880-7236"
+      },
+      {
+        "city": "Greeley",
+        "address": "801 8th St., Suite 140A, Greeley, CO 80631",
+        "phone": "970-352-5546"
+      },
+      {
+        "city": "Fort Collins",
+        "address": "201 S College Ave., Suite 200, Fort Collins, CO 80524",
+        "phone": "970-484-3502"
+      },
+      {
+        "city": "Glenwood Springs",
+        "address": "1402 Blake Ave., Suite 109A, Glenwood Springs, CO 81601",
+        "phone": "970-989-7075"
+      }
+    ],
+    "twitter": "SenatorHick",
+    "facebook": "SenatorHick",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "B001277",
+    "slug": "richard-blumenthal",
+    "firstName": "Richard",
+    "lastName": "Blumenthal",
+    "fullName": "Richard Blumenthal",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001277.jpg",
+    "state": "CT",
+    "fipsCode": "09",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2823",
+    "email": "https://www.blumenthal.senate.gov/contact/",
+    "website": "https://www.blumenthal.senate.gov",
+    "officeAddress": "503 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Bridgeport",
+        "address": "915 Lafayette Blvd., Suite 304, Bridgeport, CT 06604",
+        "phone": "203-330-0598"
+      },
+      {
+        "city": "Hartford",
+        "address": "90 State House Sq., 10th Floor, Hartford, CT 06103",
+        "phone": "860-258-6940"
+      }
+    ],
+    "twitter": "SenBlumenthal",
+    "facebook": "SenBlumenthal",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "M001169",
+    "slug": "christopher-murphy",
+    "firstName": "Christopher",
+    "lastName": "Murphy",
+    "fullName": "Christopher Murphy",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M001169.jpg",
+    "state": "CT",
+    "fipsCode": "09",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4041",
+    "email": "https://www.murphy.senate.gov/contact",
+    "website": "https://www.murphy.senate.gov",
+    "officeAddress": "136 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Hartford",
+        "address": "120 Huyshope Ave., Suite 401, Colt Gateway, Hartford, CT 06106",
+        "phone": "860-549-8463"
+      }
+    ],
+    "twitter": "SenMurphyOffice",
+    "facebook": "chrismurphyct",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "B001303",
+    "slug": "lisa-blunt-rochester",
+    "firstName": "Lisa",
+    "lastName": "Blunt Rochester",
+    "fullName": "Lisa Blunt Rochester",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001303.jpg",
+    "state": "DE",
+    "fipsCode": "10",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2441",
+    "email": null,
+    "website": "https://www.bluntrochester.senate.gov",
+    "officeAddress": "513 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Georgetown",
+        "address": "12 The Circle, Georgetown, DE 19947",
+        "phone": "302-856-7690"
+      },
+      {
+        "city": "Dover",
+        "address": "555 East Loockerman St., Suite 300, Dover, DE 19901",
+        "phone": "302-674-3308"
+      }
+    ],
+    "twitter": "SenLBR",
+    "facebook": "Rep.BluntRochester",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "C001088",
+    "slug": "christopher-a-coons",
+    "firstName": "Christopher",
+    "lastName": "Coons",
+    "fullName": "Christopher A. Coons",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001088.jpg",
+    "state": "DE",
+    "fipsCode": "10",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5042",
+    "email": "https://www.coons.senate.gov/contact",
+    "website": "https://www.coons.senate.gov",
+    "officeAddress": "218 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Wilmington",
+        "address": "1105 N. Market St., Suite 100, Wilmington, DE 19801-1233",
+        "phone": "302-573-6345"
+      },
+      {
+        "city": "Dover",
+        "address": "555 E. Loockerman St., Suite 330, Dover, DE 19901",
+        "phone": "302-736-5601"
+      }
+    ],
+    "twitter": "ChrisCoons",
+    "facebook": "senatorchriscoons",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "M001244",
+    "slug": "ashley-moody",
+    "firstName": "Ashley",
+    "lastName": "Moody",
+    "fullName": "Ashley Moody",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M001244.jpg",
+    "state": "FL",
+    "fipsCode": "12",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3041",
+    "email": null,
+    "website": "https://www.moody.senate.gov",
+    "officeAddress": "387 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Tallahassee",
+        "address": "402 S. Monroe St., Suite 2105, Tallahassee, FL 32399-6526",
+        "phone": "850-599-9100"
+      },
+      {
+        "city": "Palm Beach Gardens",
+        "address": "4822 Northlake Boulevard, Suite B-1, Palm Beach Gardens, FL 33418-3920",
+        "phone": "561-775-3360"
+      },
+      {
+        "city": "Jacksonville",
+        "address": "300 North Hogan Street, Suite 8-111, Jacksonville, FL 32202",
+        "phone": "904-354-4300"
+      },
+      {
+        "city": "Miami",
+        "address": "9130 S Dadeland Blvd., 1510, Miami, FL 33156-7850",
+        "phone": "305-596-4224"
+      },
+      {
+        "city": "Orlando",
+        "address": "201 S Orange Av., Suite 350, Orlando, FL 32801-3499",
+        "phone": "407-254-2573"
+      },
+      {
+        "city": "Fort Myers",
+        "address": "2120 Main Street, Suite 200, Fort Myers, FL 33901",
+        "phone": "239-318-6464"
+      }
+    ],
+    "twitter": null,
+    "facebook": null,
+    "termStart": "2025-01-21",
+    "termEnd": "2026-11-03"
+  },
+  {
+    "id": "S001217",
+    "slug": "rick-scott",
+    "firstName": "Rick",
+    "lastName": "Scott",
+    "fullName": "Rick Scott",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001217.jpg",
+    "state": "FL",
+    "fipsCode": "12",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5274",
+    "email": "https://www.rickscott.senate.gov/contact/contact",
+    "website": "https://www.rickscott.senate.gov",
+    "officeAddress": "110 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Pensacola",
+        "address": "221 Palafox Place, Suite 420, Pensacola, FL 32502",
+        "phone": "850-760-5151"
+      },
+      {
+        "city": "Jacksonville",
+        "address": "400 West Bay Street, Suite 289, Jacksonville, FL 32202",
+        "phone": "904-479-7227"
+      },
+      {
+        "city": "Orlando",
+        "address": "225 East Robinson Street, Suite 410, Orlando, FL 32801",
+        "phone": "407-872-7161"
+      },
+      {
+        "city": "Tampa",
+        "address": "801 North Florida Avenue, Suite 421, Tampa, FL 33602",
+        "phone": "813-225-7040"
+      },
+      {
+        "city": "Kissimmee",
+        "address": "1 Courthouse Square, Suite 300, Kissimmee, FL 34741",
+        "phone": "407-586-7879"
+      },
+      {
+        "city": "West Palm Beach",
+        "address": "415 Clematis Street, Suite 201, West Palm Beach, FL 33401",
+        "phone": "561-514-0189"
+      },
+      {
+        "city": "Naples",
+        "address": "3299 Tamiami Trail East, Suite 106, Building F, Naples, FL 34112",
+        "phone": "239-231-7890"
+      },
+      {
+        "city": "Miami",
+        "address": "901 Ponce de Leon Boulevard, Suite 505, Miami, FL 33134",
+        "phone": "786-501-7141"
+      },
+      {
+        "city": "Tallahassee",
+        "address": "111 N. Adams St., Suite 208, Tallahassee, FL 32301",
+        "phone": "850-942-8415"
+      }
+    ],
+    "twitter": "SenRickScott",
+    "facebook": "RickScottSenOffice",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "O000174",
+    "slug": "jon-ossoff",
+    "firstName": "Jon",
+    "lastName": "Ossoff",
+    "fullName": "Jon Ossoff",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/O/O000174.jpg",
+    "state": "GA",
+    "fipsCode": "13",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3521",
+    "email": "https://www.ossoff.senate.gov/contact-us/",
+    "website": "https://www.ossoff.senate.gov",
+    "officeAddress": "317 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Atlanta",
+        "address": "271 17th Street NW, Suite 1510, Atlanta, GA 30363",
+        "phone": "470-786-7800"
+      },
+      {
+        "city": "Augusta",
+        "address": "One Tenth Street, Suite 660, Augusta, GA 30901",
+        "phone": "706-261-5031"
+      },
+      {
+        "city": "Savannah",
+        "address": "532 Stephenson Avenue, Suite 103B, Savannah, GA 31405",
+        "phone": "912-200-9402"
+      },
+      {
+        "city": "Columbus",
+        "address": "18 9th Street, Suite 513, Columbus, GA 31901",
+        "phone": "706-780-7053"
+      }
+    ],
+    "twitter": "SenOssoff",
+    "facebook": "SenOssoff",
+    "termStart": "2021-01-20",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "W000790",
+    "slug": "raphael-g-warnock",
+    "firstName": "Raphael",
+    "lastName": "Warnock",
+    "fullName": "Raphael G. Warnock",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/W/W000790.jpg",
+    "state": "GA",
+    "fipsCode": "13",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3643",
+    "email": "https://www.warnock.senate.gov/contact/",
+    "website": "https://www.warnock.senate.gov",
+    "officeAddress": "717 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Atlanta",
+        "address": "201 17th Street NW, Suite 530, Suite 530, Atlanta, GA 30363",
+        "phone": "770-694-7828"
+      }
+    ],
+    "twitter": "SenatorWarnock",
+    "facebook": "SenatorWarnock",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "H001042",
+    "slug": "mazie-k-hirono",
+    "firstName": "Mazie",
+    "lastName": "Hirono",
+    "fullName": "Mazie K. Hirono",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H001042.jpg",
+    "state": "HI",
+    "fipsCode": "15",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6361",
+    "email": "https://www.hirono.senate.gov/contact",
+    "website": "https://www.hirono.senate.gov",
+    "officeAddress": "109 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Honolulu",
+        "address": "300 Ala Moana Blvd., Rm. 3-106, Prince Kuhio Federal Building, Honolulu, HI 96850",
+        "phone": "808-522-8970"
+      }
+    ],
+    "twitter": "MazieHirono",
+    "facebook": "senatorhirono",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "S001194",
+    "slug": "brian-schatz",
+    "firstName": "Brian",
+    "lastName": "Schatz",
+    "fullName": "Brian Schatz",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001194.jpg",
+    "state": "HI",
+    "fipsCode": "15",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3934",
+    "email": "https://www.schatz.senate.gov/contact",
+    "website": "https://www.schatz.senate.gov",
+    "officeAddress": "722 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Honolulu",
+        "address": "300 Ala Moana Blvd., Room 7-212, Honolulu, HI 96850",
+        "phone": "808-523-2061"
+      }
+    ],
+    "twitter": "SenBrianSchatz",
+    "facebook": "SenBrianSchatz",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "E000295",
+    "slug": "joni-ernst",
+    "firstName": "Joni",
+    "lastName": "Ernst",
+    "fullName": "Joni Ernst",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/E/E000295.jpg",
+    "state": "IA",
+    "fipsCode": "19",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3254",
+    "email": "https://www.ernst.senate.gov/public/index.cfm/contact",
+    "website": "https://www.ernst.senate.gov",
+    "officeAddress": "260 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Cedar Rapids",
+        "address": "111 Seventh Ave. SE, Suite 480, Cedar Rapids, IA 52401",
+        "phone": "319-365-4504"
+      },
+      {
+        "city": "Davenport",
+        "address": "201 W. Second St., Suite 806, Davenport, IA 52801",
+        "phone": "563-322-0677"
+      },
+      {
+        "city": "Des Moines",
+        "address": "210 Walnut Street, Suite 733, 733 Federal Building, Des Moines, IA 50309",
+        "phone": "515-284-4574"
+      },
+      {
+        "city": "Sioux City",
+        "address": "320 Sixth Street, Suite 194, Federal Building, Sioux City, IA 51101",
+        "phone": "712-252-1550"
+      },
+      {
+        "city": "Council Bluffs",
+        "address": "2146 27 th Avenue, Suite 500, Council Bluffs, IA 51501",
+        "phone": "712-352-1167"
+      }
+    ],
+    "twitter": "SenJoniErnst",
+    "facebook": "senjoniernst",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "G000386",
+    "slug": "chuck-grassley",
+    "firstName": "Charles",
+    "lastName": "Grassley",
+    "fullName": "Chuck Grassley",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/G/G000386.jpg",
+    "state": "IA",
+    "fipsCode": "19",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3744",
+    "email": "https://www.grassley.senate.gov/contact",
+    "website": "https://www.grassley.senate.gov",
+    "officeAddress": "135 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Davenport",
+        "address": "201 W. 2nd St., Suite 720, Davenport, IA 52801",
+        "phone": "563-322-4331"
+      },
+      {
+        "city": "Des Moines",
+        "address": "210 Walnut St., 721, Federal Building, Des Moines, IA 50309",
+        "phone": "515-288-1145"
+      },
+      {
+        "city": "Sioux City",
+        "address": "320 6th St., 120, Federal Building, Sioux City, IA 51101",
+        "phone": "712-233-1860"
+      },
+      {
+        "city": "Waterloo",
+        "address": "531 Commercial St., 210, Waterloo Building, Waterloo, IA 50701",
+        "phone": "319-232-6657"
+      },
+      {
+        "city": "Council Bluffs",
+        "address": "2146 27th Avenue, Suite 550, Council Bluffs, IA 51501",
+        "phone": "712-322-7103"
+      },
+      {
+        "city": "Cedar Rapids",
+        "address": "111 7th Avenue SE, Box 13, Suite 6800, Cedar Rapids, IA 52401",
+        "phone": "319-363-6832"
+      }
+    ],
+    "twitter": "ChuckGrassley",
+    "facebook": "grassley",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "C000880",
+    "slug": "mike-crapo",
+    "firstName": "Michael",
+    "lastName": "Crapo",
+    "fullName": "Mike Crapo",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C000880.jpg",
+    "state": "ID",
+    "fipsCode": "16",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6142",
+    "email": "https://www.crapo.senate.gov/contact",
+    "website": "https://www.crapo.senate.gov",
+    "officeAddress": "239 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Boise",
+        "address": "251 E. Front St., Suite 205, Boise, ID 83702",
+        "phone": "208-334-1776"
+      },
+      {
+        "city": "Idaho Falls",
+        "address": "410 Memorial Dr., Suite 204, Idaho Falls, ID 83402",
+        "phone": "208-522-9779"
+      },
+      {
+        "city": "Lewiston",
+        "address": "313 'D' St., Suite 105, Lewiston, ID 83501",
+        "phone": "208-743-1492"
+      },
+      {
+        "city": "Pocatello",
+        "address": "275 S. 5th Ave., Suite 138, Pocatello, ID 83201",
+        "phone": "208-236-6775"
+      },
+      {
+        "city": "Twin Falls",
+        "address": "202 Falls Ave., Suite 2, Twin Falls, ID 83301",
+        "phone": "208-734-2515"
+      },
+      {
+        "city": "Coeur d' Alene",
+        "address": "610 Hubbard Ave, Suite 209, Coeur d' Alene, ID 83814",
+        "phone": "208-664-5490"
+      }
+    ],
+    "twitter": "MikeCrapo",
+    "facebook": "mikecrapo",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "R000584",
+    "slug": "james-e-risch",
+    "firstName": "James",
+    "lastName": "Risch",
+    "fullName": "James E. Risch",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/R/R000584.jpg",
+    "state": "ID",
+    "fipsCode": "16",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2752",
+    "email": "https://www.risch.senate.gov/public/index.cfm?p=Email",
+    "website": "https://www.risch.senate.gov",
+    "officeAddress": "483 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Boise",
+        "address": "350 N. 9th St., Suite 302, Boise, ID 83702",
+        "phone": "208-342-7985"
+      },
+      {
+        "city": "Coeur d'Alene",
+        "address": "610 Hubbard, Suite 213, Harbor Plaza, Coeur d'Alene, ID 83814",
+        "phone": "208-667-6130"
+      },
+      {
+        "city": "Idaho Falls",
+        "address": "901 Pier View Dr., Suite 202A, Idaho Falls, ID 83402",
+        "phone": "208-523-5541"
+      },
+      {
+        "city": "Lewiston",
+        "address": "313 D St., Suite 106, Lewiston, ID 83501",
+        "phone": "208-743-0792"
+      },
+      {
+        "city": "Twin Falls",
+        "address": "1411 Falls Avenue East, Suite 201, Twin Falls, ID 83301",
+        "phone": "208-734-6780"
+      },
+      {
+        "city": "Pocatello",
+        "address": "275 South 5th Avenue, Suite 144, Pocatello, ID 83201",
+        "phone": "208-236-6817"
+      }
+    ],
+    "twitter": "SenatorRisch",
+    "facebook": "senatorjimrisch",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "D000622",
+    "slug": "tammy-duckworth",
+    "firstName": "Tammy",
+    "lastName": "Duckworth",
+    "fullName": "Tammy Duckworth",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/D/D000622.jpg",
+    "state": "IL",
+    "fipsCode": "17",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2854",
+    "email": "https://www.duckworth.senate.gov/content/contact-senator",
+    "website": "https://www.duckworth.senate.gov",
+    "officeAddress": "524 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Belleville",
+        "address": "23 Public Sq, Suite 460, Belleville, IL 62220-1650",
+        "phone": "618-722-7070"
+      },
+      {
+        "city": "Carbondale",
+        "address": "441 E Willow St, Carbondale, IL 62901-1659",
+        "phone": "618-677-7000"
+      },
+      {
+        "city": "Chicago",
+        "address": "230 South Dearborn Street, Suite 3900, Chicago, IL 60604",
+        "phone": "312-886-3506"
+      },
+      {
+        "city": "Rock Island",
+        "address": "1823 2nd Ave, Suite 2, Rock Island, IL 61201-8002",
+        "phone": "309-606-7060"
+      },
+      {
+        "city": "Springfield",
+        "address": "8 South Old State Capitol Plaza, Springfield, IL 62701",
+        "phone": "217-528-6124"
+      }
+    ],
+    "twitter": "SenDuckworth",
+    "facebook": "SenDuckworth",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "D000563",
+    "slug": "richard-j-durbin",
+    "firstName": "Richard",
+    "lastName": "Durbin",
+    "fullName": "Richard J. Durbin",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/D/D000563.jpg",
+    "state": "IL",
+    "fipsCode": "17",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2152",
+    "email": "https://www.durbin.senate.gov/contact/",
+    "website": "https://www.durbin.senate.gov",
+    "officeAddress": "711 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Carbondale",
+        "address": "250 W. Cherry St., Suite 115-D, Carbondale, IL 62901",
+        "phone": "618-351-1122"
+      },
+      {
+        "city": "Chicago",
+        "address": "230 S. Dearborn St., Suite 3892, Chicago, IL 60604",
+        "phone": "312-353-4952"
+      },
+      {
+        "city": "Rock Island",
+        "address": "1504 Third Ave., Suite 227, Rock Island, IL 61201",
+        "phone": "309-786-5173"
+      },
+      {
+        "city": "Springfield",
+        "address": "525 S. 8th St., Springfield, IL 62703",
+        "phone": "217-492-4062"
+      }
+    ],
+    "twitter": "SenatorDurbin",
+    "facebook": "SenatorDurbin",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "B001299",
+    "slug": "jim-banks",
+    "firstName": "Jim",
+    "lastName": "Banks",
+    "fullName": "Jim Banks",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001299.jpg",
+    "state": "IN",
+    "fipsCode": "18",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4814",
+    "email": null,
+    "website": "https://www.banks.senate.gov",
+    "officeAddress": "303 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Fort Wayne",
+        "address": "1300 S. Harrison St., E Ross Adair Federal Building, Fort Wayne, IN 46802",
+        "phone": "260-321-7130"
+      }
+    ],
+    "twitter": "RepJimBanks",
+    "facebook": "RepJimBanks",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "Y000064",
+    "slug": "todd-young",
+    "firstName": "Todd",
+    "lastName": "Young",
+    "fullName": "Todd Young",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/Y/Y000064.jpg",
+    "state": "IN",
+    "fipsCode": "18",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5623",
+    "email": "https://www.young.senate.gov/contact",
+    "website": "https://www.young.senate.gov",
+    "officeAddress": "185 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "New Albany",
+        "address": "3602 Northgate Ct, Suite 15, New Albany, IN 47150",
+        "phone": "812-542-4820"
+      },
+      {
+        "city": "Indianapolis",
+        "address": "310 E. 96th St., Suite 350, Indianapolis, IN 46240",
+        "phone": "317-226-6700"
+      },
+      {
+        "city": "Valparaiso",
+        "address": "212 E. Lincolnway, Suite 205A, Valparaiso, IN 46383",
+        "phone": "219-747-7780"
+      }
+    ],
+    "twitter": "SenToddYoung",
+    "facebook": "SenatorToddYoung",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "M001198",
+    "slug": "roger-marshall",
+    "firstName": "Roger",
+    "lastName": "Marshall",
+    "fullName": "Roger Marshall",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M001198.jpg",
+    "state": "KS",
+    "fipsCode": "20",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4774",
+    "email": "https://www.marshall.senate.gov/contact/",
+    "website": "https://www.marshall.senate.gov",
+    "officeAddress": "479A Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Kansas City",
+        "address": "400 State Ave, Suite 1006, Kansas City, KS 66101",
+        "phone": "913-549-1570"
+      },
+      {
+        "city": "Overland Park",
+        "address": "7011 W. 121st Street, Suite 100, Overland Park, KS 66209",
+        "phone": "913-879-7070"
+      },
+      {
+        "city": "Topeka",
+        "address": "800 SW Jackson Street, Suite 600, Topeka, KS 66612",
+        "phone": "785-414-7501"
+      },
+      {
+        "city": "Pittsburg",
+        "address": "402B North Broadway, Pittsburg, KS 66762",
+        "phone": "620-404-7016"
+      },
+      {
+        "city": "Wichita",
+        "address": "100 S. Market, Suite 102, Wichita, KS 67202",
+        "phone": "316-803-6120"
+      },
+      {
+        "city": "Salina",
+        "address": "204 S. Santa Fe Avenue, Suite 1, Salina, KS 67401",
+        "phone": "785-829-9000"
+      },
+      {
+        "city": "Garden City",
+        "address": "921 Larue Street, Suite C, Garden City, KS 67846",
+        "phone": "620-765-7800"
+      }
+    ],
+    "twitter": "SenatorMarshall",
+    "facebook": "RogerMarshallMD",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "M000934",
+    "slug": "jerry-moran",
+    "firstName": "Jerry",
+    "lastName": "Moran",
+    "fullName": "Jerry Moran",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M000934.jpg",
+    "state": "KS",
+    "fipsCode": "20",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6521",
+    "email": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
+    "website": "https://www.moran.senate.gov",
+    "officeAddress": "521 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Hays",
+        "address": "1200 Main St., Suite 402, Hays, KS 67601",
+        "phone": "785-628-6401"
+      },
+      {
+        "city": "Olathe",
+        "address": "23600 College Blvd., Suite 201, Olathe, KS 66061",
+        "phone": "913-393-0711"
+      },
+      {
+        "city": "Pittsburg",
+        "address": "306 N. Broadway, Suite 125, Pittsburg, KS 66762",
+        "phone": "620-232-2286"
+      },
+      {
+        "city": "Wichita",
+        "address": "100 North Broadway, Suite 210, Wichita, KS 67202",
+        "phone": "316-269-9259"
+      },
+      {
+        "city": "Manhattan",
+        "address": "1880 Kimball Ave, Suite 270, Manhattan, KS 66502",
+        "phone": "785-539-8973"
+      },
+      {
+        "city": "Garden City",
+        "address": "1511 East Fulton Terrace, Suite 1511-2, Garden City, KS 67846",
+        "phone": "620-260-3025"
+      }
+    ],
+    "twitter": "JerryMoran",
+    "facebook": "jerrymoran",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "M000355",
+    "slug": "mitch-mcconnell",
+    "firstName": "Mitch",
+    "lastName": "McConnell",
+    "fullName": "Mitch McConnell",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M000355.jpg",
+    "state": "KY",
+    "fipsCode": "21",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2541",
+    "email": "https://www.mcconnell.senate.gov/public/index.cfm?p=contact",
+    "website": "https://www.mcconnell.senate.gov",
+    "officeAddress": "317 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Bowling Green",
+        "address": "241 E. Main St., Room 102, Federal Building, Bowling Green, KY 42101",
+        "phone": "270-781-1673"
+      },
+      {
+        "city": "Fort Wright",
+        "address": "1885 Dixie Hwy., Suite 345, Fort Wright, KY 41011",
+        "phone": "859-578-0188"
+      },
+      {
+        "city": "Lexington",
+        "address": "771 Corporate Dr., Suite 108, Lexington, KY 40503",
+        "phone": "859-224-8286"
+      },
+      {
+        "city": "London",
+        "address": "300 S. Main St., Suite 310, London, KY 40741",
+        "phone": "606-864-2026"
+      },
+      {
+        "city": "Louisville",
+        "address": "601 W. Broadway, Room 630, Louisville, KY 40202",
+        "phone": "502-582-6304"
+      },
+      {
+        "city": "Paducah",
+        "address": "501 Broadway Street, Suite B36, Paducah, KY 42001",
+        "phone": "270-442-4554"
+      }
+    ],
+    "twitter": "McConnellPress",
+    "facebook": "mitchmcconnell",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "P000603",
+    "slug": "rand-paul",
+    "firstName": "Rand",
+    "lastName": "Paul",
+    "fullName": "Rand Paul",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/P/P000603.jpg",
+    "state": "KY",
+    "fipsCode": "21",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4343",
+    "email": "https://www.paul.senate.gov/connect/email-rand",
+    "website": "https://www.paul.senate.gov",
+    "officeAddress": "295 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Bowling Green",
+        "address": "563 Hub Boulevard, Suite 201, Bowling Green, KY 42103",
+        "phone": "270-782-8303"
+      }
+    ],
+    "twitter": "SenRandPaul",
+    "facebook": "SenatorRandPaul",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "C001075",
+    "slug": "bill-cassidy",
+    "firstName": "Bill",
+    "lastName": "Cassidy",
+    "fullName": "Bill Cassidy",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001075.jpg",
+    "state": "LA",
+    "fipsCode": "22",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5824",
+    "email": "https://www.cassidy.senate.gov/contact",
+    "website": "https://www.cassidy.senate.gov",
+    "officeAddress": "455 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Lafayette",
+        "address": "101 La Rue France, Suite 505, Lafayette, LA 70508",
+        "phone": "337-261-1400"
+      },
+      {
+        "city": "Metairie",
+        "address": "3421 N. Causeway Blvd., Suite 204, Metairie, LA 70002",
+        "phone": "504-838-0130"
+      },
+      {
+        "city": "Monroe",
+        "address": "1651 Louisville Ave., Suite 123, Monroe, LA 70201",
+        "phone": "318-324-2111"
+      },
+      {
+        "city": "Lake Charles",
+        "address": "611 Broad St., Suite 117, Lake Charles, LA 70601",
+        "phone": "337-602-7253"
+      },
+      {
+        "city": "Baton Rouge",
+        "address": "450 Laurel St., Suite 1400, Baton Rouge, LA 70801",
+        "phone": "225-929-7711"
+      },
+      {
+        "city": "Shreveport",
+        "address": "401 Market St, Suite 1018, Shreveport, LA 71101",
+        "phone": "318-798-3215"
+      },
+      {
+        "city": "Alexandria",
+        "address": "1611 Arnold Drive, Suite 112, Alexandria, LA 71303",
+        "phone": "318-448-7176"
+      }
+    ],
+    "twitter": "SenBillCassidy",
+    "facebook": "SenBillCassidy",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "K000393",
+    "slug": "john-kennedy",
+    "firstName": "John",
+    "lastName": "Kennedy",
+    "fullName": "John Kennedy",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/K/K000393.jpg",
+    "state": "LA",
+    "fipsCode": "22",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4623",
+    "email": "https://www.kennedy.senate.gov/public/email-me",
+    "website": "https://www.kennedy.senate.gov/public",
+    "officeAddress": "437 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Alexandria",
+        "address": "1611 Arnold Drive, Suite 126, England Airpark, Alexandria, LA 71303",
+        "phone": "318-445-2892"
+      },
+      {
+        "city": "Baton Rouge",
+        "address": "7932 Wrenwood Blvd, Suite A & B, Baton Rouge, LA 70809",
+        "phone": "225-926-8033"
+      },
+      {
+        "city": "Houma",
+        "address": "8026 Main St, Suite 700, Government Towers, Houma, LA 70360",
+        "phone": "985-851-0956"
+      },
+      {
+        "city": "Mandeville",
+        "address": "21490 Koop Dr., Building A, Mandeville, LA 70471",
+        "phone": "985-809-8153"
+      },
+      {
+        "city": "Monroe",
+        "address": "1651 Louisville Ave., Suite 148, Monroe, LA 71201",
+        "phone": "318-361-1489"
+      },
+      {
+        "city": "New Orleans",
+        "address": "500 Poydras St., Suite 364, New Orleans, LA 70113",
+        "phone": "504-581-6190"
+      },
+      {
+        "city": "Shreveport",
+        "address": "401 Market St., Suite 1050, Shreveport, LA 71101",
+        "phone": "318-670-5192"
+      },
+      {
+        "city": "Lafayette",
+        "address": "315 S. College Road, Suite 140, Lafayette, LA 70503",
+        "phone": "337-269-5980"
+      },
+      {
+        "city": "Lake Charles",
+        "address": "814 West McNeese Street, Suite 213, Lake Charles, LA 70605",
+        "phone": "337-573-6800"
+      }
+    ],
+    "twitter": "SenJohnKennedy",
+    "facebook": "JohnKennedyLouisiana",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "M000133",
+    "slug": "edward-j-markey",
+    "firstName": "Edward",
+    "lastName": "Markey",
+    "fullName": "Edward J. Markey",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M000133.jpg",
+    "state": "MA",
+    "fipsCode": "25",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2742",
+    "email": "https://www.markey.senate.gov/contact",
+    "website": "https://www.markey.senate.gov",
+    "officeAddress": "255 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Springfield",
+        "address": "1550 Main St., 4th Floor, Springfield, MA 01103",
+        "phone": "413-785-4610"
+      },
+      {
+        "city": "Boston",
+        "address": "15 New Sudbury St, Suite 975, JFK Federal Building, Boston, MA 02203",
+        "phone": "617-565-8519"
+      }
+    ],
+    "twitter": "SenMarkey",
+    "facebook": "EdJMarkey",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "W000817",
+    "slug": "elizabeth-warren",
+    "firstName": "Elizabeth",
+    "lastName": "Warren",
+    "fullName": "Elizabeth Warren",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/W/W000817.jpg",
+    "state": "MA",
+    "fipsCode": "25",
+    "stance": "cosponsor",
+    "stanceSummary": "Early advocate for impeachment in the Senate. Has introduced related resolutions.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4543",
+    "email": "https://www.warren.senate.gov/?p=email_senator",
+    "website": "https://www.warren.senate.gov",
+    "officeAddress": "311 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Springfield",
+        "address": "1550 Main St., Suite 406, Springfield, MA 01103",
+        "phone": "413-788-2690"
+      },
+      {
+        "city": "Boston",
+        "address": "15 New Sudbury Street, 2400 JFK Federal Building, Boston, MA 02203",
+        "phone": "617-565-3170"
+      }
+    ],
+    "twitter": "SenWarren",
+    "facebook": "senatorelizabethwarren",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "A000382",
+    "slug": "angela-d-alsobrooks",
+    "firstName": "Angela",
+    "lastName": "Alsobrooks",
+    "fullName": "Angela D. Alsobrooks",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/A/A000382.jpg",
+    "state": "MD",
+    "fipsCode": "24",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4524",
+    "email": "https://alsobrooks.senate.gov/",
+    "website": "https://www.alsobrooks.senate.gov",
+    "officeAddress": "374 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Bowie",
+        "address": "10201 Martin Luther King Jr Hwy, Suite 210, Bowie, MD 20720",
+        "phone": "301-860-0414"
+      }
+    ],
+    "twitter": null,
+    "facebook": "SenatorAlsobrooks",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "V000128",
+    "slug": "chris-van-hollen",
+    "firstName": "Chris",
+    "lastName": "Van Hollen",
+    "fullName": "Chris Van Hollen",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/V/V000128.jpg",
+    "state": "MD",
+    "fipsCode": "24",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4654",
+    "email": "https://www.vanhollen.senate.gov/contact/email",
+    "website": "https://www.vanhollen.senate.gov",
+    "officeAddress": "730 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Rockville",
+        "address": "111 Rockville Pike, Suite 960, Rockville, MD 20850",
+        "phone": "301-545-1500"
+      },
+      {
+        "city": "Hagerstown",
+        "address": "32 West Washington Street, Suite 203, Hagerstown, MD 21740",
+        "phone": "301-797-2826"
+      },
+      {
+        "city": "Baltimore",
+        "address": "1040 Park Ave., Suite 120, Baltimore, MD 21201",
+        "phone": "667-212-4610"
+      },
+      {
+        "city": "Annapolis",
+        "address": "60 West Street, Suite 107, Annapolis, MD 21401",
+        "phone": "410-263-1325"
+      },
+      {
+        "city": "Cambridge",
+        "address": "204 Cedar Street, Suite 200C, Cambridge, MD 21613",
+        "phone": "410-221-2074"
+      },
+      {
+        "city": "Largo",
+        "address": "1101 Mercantile Ln, Suite 210, Largo, MD 20774-5360",
+        "phone": "301-322-6560"
+      }
+    ],
+    "twitter": "ChrisVanHollen",
+    "facebook": "chrisvanhollen",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "C001035",
+    "slug": "susan-m-collins",
+    "firstName": "Susan",
+    "lastName": "Collins",
+    "fullName": "Susan M. Collins",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001035.jpg",
+    "state": "ME",
+    "fipsCode": "23",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2523",
+    "email": "https://www.collins.senate.gov/contact",
+    "website": "https://www.collins.senate.gov",
+    "officeAddress": "413 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Augusta",
+        "address": "68 Sewall St., Room 507, Augusta, ME 04330",
+        "phone": "207-622-8414"
+      },
+      {
+        "city": "Bangor",
+        "address": "202 Harlow St., Room 20100, Bangor, ME 04401",
+        "phone": "207-945-0417"
+      },
+      {
+        "city": "Biddeford",
+        "address": "160 Main St., Biddeford, ME 04005",
+        "phone": "207-283-1101"
+      },
+      {
+        "city": "Caribou",
+        "address": "25 Sweden St., Suite A, Caribou, ME 04736",
+        "phone": "207-493-7873"
+      },
+      {
+        "city": "Lewiston",
+        "address": "55 Lisbon St., Lewiston, ME 04240",
+        "phone": "207-784-6969"
+      },
+      {
+        "city": "Portland",
+        "address": "One Canal Plaza, Suite 802, Portland, ME 04101",
+        "phone": "207-618-5560"
+      }
+    ],
+    "twitter": "SenatorCollins",
+    "facebook": "susancollins",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "K000383",
+    "slug": "angus-s-king-jr",
+    "firstName": "Angus",
+    "lastName": "King",
+    "fullName": "Angus S. King, Jr.",
+    "party": "I",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/K/K000383.jpg",
+    "state": "ME",
+    "fipsCode": "23",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5344",
+    "email": "https://www.king.senate.gov/contact",
+    "website": "https://www.king.senate.gov",
+    "officeAddress": "133 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Bangor",
+        "address": "202 Harlow St., Suite 20350, Bangor, ME 04401",
+        "phone": "207-945-8000"
+      },
+      {
+        "city": "Biddeford",
+        "address": "227 Main Street, Biddeford, ME 04005",
+        "phone": "207-352-5216"
+      },
+      {
+        "city": "Portland",
+        "address": "1 Pleasant Street, Suite 4W, Portland, ME 04101",
+        "phone": "207-245-1565"
+      },
+      {
+        "city": "Augusta",
+        "address": "40 Western Ave, Room 412, E.S. Muskie Federal Building, Augusta, ME 04330",
+        "phone": "207-622-8292"
+      },
+      {
+        "city": "Presque Isle",
+        "address": "167 Academy St., Suite A, Presque Isle, ME 04769",
+        "phone": "207-764-5124"
+      }
+    ],
+    "twitter": "SenAngusKing",
+    "facebook": "SenatorAngusSKingJr",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "P000595",
+    "slug": "gary-c-peters",
+    "firstName": "Gary",
+    "lastName": "Peters",
+    "fullName": "Gary C. Peters",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/P/P000595.jpg",
+    "state": "MI",
+    "fipsCode": "26",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6221",
+    "email": "https://www.peters.senate.gov/contact/email-gary",
+    "website": "https://www.peters.senate.gov",
+    "officeAddress": "724 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Detroit",
+        "address": "477 Michigan Ave., Suite 1837, Patrick V. McNamara Federal Building, Detroit, MI 48226",
+        "phone": "313-226-6020"
+      },
+      {
+        "city": "Grand Rapids",
+        "address": "110 Michigan St. NW, Suite 720, Gerald R. Ford Federal Building, Grand Rapids, MI 49503",
+        "phone": "616-233-9150"
+      },
+      {
+        "city": "Lansing",
+        "address": "124 W. Allegan St., Suite 1400, Lansing, MI 48933",
+        "phone": "517-377-1508"
+      },
+      {
+        "city": "Marquette",
+        "address": "857 W. Washington St., Suite 308, Marquette, MI 49855",
+        "phone": "906-226-4554"
+      },
+      {
+        "city": "Pontiac",
+        "address": "51111 Woodward Avenue, Suite 725, Pontiac, MI 48342",
+        "phone": "248-608-8040"
+      },
+      {
+        "city": "Flint",
+        "address": "416 N Saginaw Street, Suite 222, Flint, MI 48502",
+        "phone": "989-754-0112"
+      },
+      {
+        "city": "Traverse City",
+        "address": "109 E. Front Street, 215B, Traverse City, MI 49684",
+        "phone": "231-947-7773"
+      }
+    ],
+    "twitter": "SenGaryPeters",
+    "facebook": "SenGaryPeters",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "S001208",
+    "slug": "elissa-slotkin",
+    "firstName": "Elissa",
+    "lastName": "Slotkin",
+    "fullName": "Elissa Slotkin",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001208.jpg",
+    "state": "MI",
+    "fipsCode": "26",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4822",
+    "email": null,
+    "website": "https://www.slotkin.senate.gov",
+    "officeAddress": "291 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Lansing",
+        "address": "315 W. Allegan St., Suite 207, Lansing, MI 48933",
+        "phone": "517-993-0510"
+      }
+    ],
+    "twitter": "RepSlotkin",
+    "facebook": "SenElissaSlotkin",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "K000367",
+    "slug": "amy-klobuchar",
+    "firstName": "Amy",
+    "lastName": "Klobuchar",
+    "fullName": "Amy Klobuchar",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/K/K000367.jpg",
+    "state": "MN",
+    "fipsCode": "27",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3244",
+    "email": "https://www.klobuchar.senate.gov/public/index.cfm/contact",
+    "website": "https://www.klobuchar.senate.gov",
+    "officeAddress": "425 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Minneapolis",
+        "address": "1200 Washington Avenue South, Room 250, Minneapolis, MN 55415",
+        "phone": "612-727-5220"
+      },
+      {
+        "city": "Moorhead",
+        "address": "121 4th Street South, Moorhead, MN 56560",
+        "phone": "218-287-2219"
+      },
+      {
+        "city": "Rochester",
+        "address": "1130 1/2 7th Street NW, Room 212, Rochester, MN 55901",
+        "phone": "507-288-5321"
+      },
+      {
+        "city": "Virginia",
+        "address": "820 9th Street North, Room 105, Olcott Plaza, Virginia, MN 55792",
+        "phone": "218-741-9690"
+      }
+    ],
+    "twitter": "SenAmyKlobuchar",
+    "facebook": null,
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "S001203",
+    "slug": "tina-smith",
+    "firstName": "Tina",
+    "lastName": "Smith",
+    "fullName": "Tina Smith",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001203.jpg",
+    "state": "MN",
+    "fipsCode": "27",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5641",
+    "email": "https://www.smith.senate.gov/share-your-opinion/",
+    "website": "https://www.smith.senate.gov",
+    "officeAddress": "720 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Moorhead",
+        "address": "819 Center Avenue, Suite 2A, Moorhead, MN 56560",
+        "phone": "218-284-8721"
+      },
+      {
+        "city": "Duluth",
+        "address": "515 W 1st Street, Suite 104, Duluth, MN 55802",
+        "phone": "218-722-2390"
+      },
+      {
+        "city": "Saint Paul",
+        "address": "60 Plato Blvd. East, Suite 220, Saint Paul, MN 55107",
+        "phone": "651-221-1016"
+      },
+      {
+        "city": "Rochester",
+        "address": "1202-1/2 7th Street NW, Suite 218, Rochester, MN 55901",
+        "phone": "507-218-2003"
+      }
+    ],
+    "twitter": "SenTinaSmith",
+    "facebook": "USSenTinaSmith",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "H001089",
+    "slug": "josh-hawley",
+    "firstName": "Joshua",
+    "lastName": "Hawley",
+    "fullName": "Josh Hawley",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H001089.jpg",
+    "state": "MO",
+    "fipsCode": "29",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6154",
+    "email": "https://www.hawley.senate.gov/contact-senator-hawley",
+    "website": "https://www.hawley.senate.gov",
+    "officeAddress": "381 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Cape Girardeau",
+        "address": "555 Independence Street, #1600, Cape Girardeau, MO 63703-6235",
+        "phone": "573-334-5995"
+      },
+      {
+        "city": "Columbia",
+        "address": "1123 Wilkes Blvd, Suite 220, Columbia, MO 65201-4774",
+        "phone": "573-554-1919"
+      },
+      {
+        "city": "St. Louis",
+        "address": "111 South 10th Street, Suite 23.360, St. Louis, MO 63102",
+        "phone": "314-354-7060"
+      },
+      {
+        "city": "Kansas City",
+        "address": "400 E. 9th Street, Suite 9350, Kansas City, MO 64106",
+        "phone": "816-960-4694"
+      },
+      {
+        "city": "Springfield",
+        "address": "901 E. St. Louis Street, Suite 1604, Springfield, MO 65806",
+        "phone": "417-869-4433"
+      }
+    ],
+    "twitter": "SenHawleyPress",
+    "facebook": "SenatorHawley",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "S001227",
+    "slug": "eric-schmitt",
+    "firstName": "Eric",
+    "lastName": "Schmitt",
+    "fullName": "Eric Schmitt",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001227.jpg",
+    "state": "MO",
+    "fipsCode": "29",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5721",
+    "email": "https://www.schmitt.senate.gov/contact/",
+    "website": "https://www.schmitt.senate.gov",
+    "officeAddress": "404 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "St. Louis",
+        "address": "111 South 10th Street, Suite 23.305, Thomas F. Eagleton US Courthouse, St. Louis, MO 63102",
+        "phone": "314-230-7263"
+      },
+      {
+        "city": "Columbia",
+        "address": "1123 Wilkes Boulevard, Suite 320, Columbia, MO 65201",
+        "phone": "573-514-8680"
+      },
+      {
+        "city": "Springfield",
+        "address": "2870 S. Ingram Mill Rd., Suite D2, Springfield, MO 65804",
+        "phone": "417-290-5000"
+      },
+      {
+        "city": "Kansas City",
+        "address": "12200 N Ambassador Dr., Suite 233, Kansas City, MO 64163",
+        "phone": "816-849-6234"
+      },
+      {
+        "city": "Cape Girardeau",
+        "address": "555 Independence St., Suite 1500, Cape Girardeau, MO 63703",
+        "phone": "573-388-8340"
+      }
+    ],
+    "twitter": "SenEricSchmitt",
+    "facebook": "116059838031776",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "H001079",
+    "slug": "cindy-hyde-smith",
+    "firstName": "Cindy",
+    "lastName": "Hyde-Smith",
+    "fullName": "Cindy Hyde-Smith",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H001079.jpg",
+    "state": "MS",
+    "fipsCode": "28",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5054",
+    "email": "https://www.hydesmith.senate.gov/contact-senator",
+    "website": "https://www.hydesmith.senate.gov",
+    "officeAddress": "528 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Jackson",
+        "address": "190 East Capitol St., #550, Jackson, MS 39201",
+        "phone": "601-965-4459"
+      },
+      {
+        "city": "Oxford",
+        "address": "911 Jackson Ave., #249, Oxford, MS 38655",
+        "phone": "662-236-1018"
+      },
+      {
+        "city": "Gulfport",
+        "address": "2012 15th Street, #451, Gulfport, MS 39501",
+        "phone": "228-867-9710"
+      },
+      {
+        "city": "Brookhaven",
+        "address": "117 W. Cherokee St, Suite C, Brookhaven, MS 39601",
+        "phone": "601-748-8024"
+      }
+    ],
+    "twitter": "SenHydeSmith",
+    "facebook": "SenatorCindyHydeSmith",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "W000437",
+    "slug": "roger-f-wicker",
+    "firstName": "Roger",
+    "lastName": "Wicker",
+    "fullName": "Roger F. Wicker",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/W/W000437.jpg",
+    "state": "MS",
+    "fipsCode": "28",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6253",
+    "email": "https://www.wicker.senate.gov/public/index.cfm/contact",
+    "website": "https://www.wicker.senate.gov",
+    "officeAddress": "425 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Gulfport",
+        "address": "2909 13th St., 3rd Floor, Suite 303, Gulfport, MS 39501",
+        "phone": "228-871-7017"
+      },
+      {
+        "city": "Hernando",
+        "address": "321 Losher St., Hernando, MS 38632",
+        "phone": "662-429-1002"
+      },
+      {
+        "city": "Jackson",
+        "address": "501 E. Court St., Suite 3-500, U.S. Federal Courthouse, Jackson, MS 39201",
+        "phone": "601-965-4644"
+      },
+      {
+        "city": "Tupelo",
+        "address": "330 W. Jefferson St., Suite B, Tupelo, MS 38804",
+        "phone": "662-844-5010"
+      },
+      {
+        "city": "Tupelo",
+        "address": "P.O. Box 3777, Tupelo, MS 38803",
+        "phone": "662-844-5010"
+      }
+    ],
+    "twitter": "SenatorWicker",
+    "facebook": "SenatorWicker",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "D000618",
+    "slug": "steve-daines",
+    "firstName": "Steve",
+    "lastName": "Daines",
+    "fullName": "Steve Daines",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/D/D000618.jpg",
+    "state": "MT",
+    "fipsCode": "30",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2651",
+    "email": "https://www.daines.senate.gov/connect/email-steve",
+    "website": "https://www.daines.senate.gov",
+    "officeAddress": "320 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Billings",
+        "address": "222 N. 32nd St., Suite 100, Billings, MT 59101",
+        "phone": "406-245-6822"
+      },
+      {
+        "city": "Great Falls",
+        "address": "104 4th Street North, Suite 302, Great Falls, MT 59401",
+        "phone": "406-453-0148"
+      },
+      {
+        "city": "Helena",
+        "address": "30 W. 14th St., Suite 206, Helena, MT 59601",
+        "phone": "406-443-3189"
+      },
+      {
+        "city": "Missoula",
+        "address": "218 E. Front St., Suite 103, Missoula, MT 59802",
+        "phone": "406-549-8198"
+      },
+      {
+        "city": "Sidney",
+        "address": "609 S. Central Ave., Suite #4, Central Plaza Building, Sidney, MT 59270",
+        "phone": "406-482-9010"
+      },
+      {
+        "city": "Bozeman",
+        "address": "1450 Twin Lakes Avenue, Suite 201A, Bozeman, MT 59718",
+        "phone": "406-587-3446"
+      },
+      {
+        "city": "Kalispell",
+        "address": "121 Financial Drive, Suite 127, Kalispell, MT 59901",
+        "phone": "406-257-3765"
+      }
+    ],
+    "twitter": "SteveDaines",
+    "facebook": "SteveDainesMT",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "S001232",
+    "slug": "tim-sheehy",
+    "firstName": "Tim",
+    "lastName": "Sheehy",
+    "fullName": "Tim Sheehy",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001232.jpg",
+    "state": "MT",
+    "fipsCode": "30",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2644",
+    "email": null,
+    "website": "https://www.sheehy.senate.gov",
+    "officeAddress": "124 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Billings",
+        "address": "2900 4th Ave N, Suite 201, William J. Jameson Federal Building, Billings, MT 59101",
+        "phone": "406-252-0559"
+      },
+      {
+        "city": "Bozeman",
+        "address": "1 East Main Street, Suite 204, Bozeman, MT 59715",
+        "phone": "406-872-6350"
+      },
+      {
+        "city": "Butte",
+        "address": "125 West Granite St, Suite 200, Silver Bow Center, Butte, MT 59701",
+        "phone": "406-782-2048"
+      },
+      {
+        "city": "East Kalispell",
+        "address": "8-3rd Street, East Kalispell, MT 59901",
+        "phone": "406-257-3398"
+      },
+      {
+        "city": "Great Falls",
+        "address": "119 1st Ave North, Suite 102, Great Falls, MT 59401",
+        "phone": "406-452-9587"
+      },
+      {
+        "city": "Helena",
+        "address": "208 N Montana Ave, Suite 104, Helena, MT 59601",
+        "phone": "406-441-1069"
+      }
+    ],
+    "twitter": null,
+    "facebook": null,
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "B001305",
+    "slug": "ted-budd",
+    "firstName": "Ted",
+    "lastName": "Budd",
+    "fullName": "Ted Budd",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001305.jpg",
+    "state": "NC",
+    "fipsCode": "37",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3154",
+    "email": "https://www.budd.senate.gov/contact/",
+    "website": "https://www.budd.senate.gov",
+    "officeAddress": "354 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Advance",
+        "address": "5380 US Highway 158, Suite 202, Advance, NC 27006",
+        "phone": "336-941-4470"
+      },
+      {
+        "city": "Raleigh",
+        "address": "333 Fayetteville Street, Suite 1504, Raleigh, NC 27601",
+        "phone": "984-349-5061"
+      },
+      {
+        "city": "Wilmington",
+        "address": "201 N. Front St., Suite 809, Wilmington, NC 28401",
+        "phone": "910-218-7600"
+      },
+      {
+        "city": "Asheville",
+        "address": "151 Patton Ave., Suite 204, Asheville, NC 28801",
+        "phone": "828-333-4130"
+      }
+    ],
+    "twitter": "RepTedBudd",
+    "facebook": "RepTedBudd",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "T000476",
+    "slug": "thom-tillis",
+    "firstName": "Thom",
+    "lastName": "Tillis",
+    "fullName": "Thom Tillis",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/T/T000476.jpg",
+    "state": "NC",
+    "fipsCode": "37",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6342",
+    "email": "https://www.tillis.senate.gov/public/index.cfm/email-me",
+    "website": "https://www.tillis.senate.gov",
+    "officeAddress": "113 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Greenville",
+        "address": "1694 E. Arlington Blvd., Suite B, Greenville, NC 27858",
+        "phone": "252-329-0371"
+      },
+      {
+        "city": "Hendersonville",
+        "address": "1 Historic Courthouse Square, Suite 112, Hendersonville, NC 28792",
+        "phone": "828-693-8750"
+      },
+      {
+        "city": "Raleigh",
+        "address": "310 New Bern Ave., Suite 122, Raleigh, NC 27601",
+        "phone": "919-856-4630"
+      },
+      {
+        "city": "Greensboro",
+        "address": "3200 Northline Avenue, Suite 150, Greensboro, NC 27408",
+        "phone": "336-885-0685"
+      },
+      {
+        "city": "Charlotte",
+        "address": "10150 Mallard Creek Rd, Suite 508, Charlotte, NC 28262",
+        "phone": "704-509-9087"
+      }
+    ],
+    "twitter": "SenThomTillis",
+    "facebook": "SenatorThomTillis",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "C001096",
+    "slug": "kevin-cramer",
+    "firstName": "Kevin",
+    "lastName": "Cramer",
+    "fullName": "Kevin Cramer",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001096.jpg",
+    "state": "ND",
+    "fipsCode": "38",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2043",
+    "email": "https://www.cramer.senate.gov/contact/contact-kevin",
+    "website": "https://www.cramer.senate.gov",
+    "officeAddress": "313 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Bismarck",
+        "address": "220 E. Rosser Ave., 328 Federal Building, Bismarck, ND 58501",
+        "phone": "701-204-0500"
+      },
+      {
+        "city": "Fargo",
+        "address": "657 Second Avenue N, 306 Federal Building, Fargo, ND 58102",
+        "phone": "701-232-5094"
+      },
+      {
+        "city": "Grand Forks",
+        "address": "102 North 4th Street, 114 Federal Building, Grand Forks, ND 58203",
+        "phone": "701-402-4540"
+      },
+      {
+        "city": "Minot",
+        "address": "100 First Street SW, 105 Federal Building, Minot, ND 58701",
+        "phone": "701-837-6141"
+      },
+      {
+        "city": "Williston",
+        "address": "125 Main Street, Suite #217, Williston, ND 58801",
+        "phone": "701-441-7230"
+      }
+    ],
+    "twitter": "SenKevinCramer",
+    "facebook": "CongressmanKevinCramer",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "H001061",
+    "slug": "john-hoeven",
+    "firstName": "John",
+    "lastName": "Hoeven",
+    "fullName": "John Hoeven",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H001061.jpg",
+    "state": "ND",
+    "fipsCode": "38",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2551",
+    "email": "https://www.hoeven.senate.gov/contact/contact-the-senator",
+    "website": "https://www.hoeven.senate.gov",
+    "officeAddress": "338 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Bismarck",
+        "address": "220 E. Rosser Ave., Room 312, U.S. Federal Building, Bismarck, ND 58501",
+        "phone": "701-250-4618"
+      },
+      {
+        "city": "Fargo",
+        "address": "123 Broadway North, Suite 201, Fargo, ND 58102",
+        "phone": "701-239-5389"
+      },
+      {
+        "city": "Grand Forks",
+        "address": "102 N. Fourth St., Room 108, Federal Building, Grand Forks, ND 58203",
+        "phone": "701-746-8972"
+      },
+      {
+        "city": "Minot",
+        "address": "100 1st St. SW, Suite 107, Minot, ND 58701",
+        "phone": "701-838-1361"
+      },
+      {
+        "city": "Watford City",
+        "address": "204 N. Main St., #516, Watford City, ND 58854",
+        "phone": "701-609-2727"
+      }
+    ],
+    "twitter": "SenJohnHoeven",
+    "facebook": "SenatorJohnHoeven",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "F000463",
+    "slug": "deb-fischer",
+    "firstName": "Deb",
+    "lastName": "Fischer",
+    "fullName": "Deb Fischer",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/F/F000463.jpg",
+    "state": "NE",
+    "fipsCode": "31",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6551",
+    "email": "https://www.fischer.senate.gov/public/index.cfm/contact",
+    "website": "https://www.fischer.senate.gov",
+    "officeAddress": "448 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Kearney",
+        "address": "20 W. 23rd St., Kearney, NE 68847",
+        "phone": "308-234-2361"
+      },
+      {
+        "city": "Omaha",
+        "address": "11819 Miracle Hills Drive, Suite 205, Omaha, NE 68154",
+        "phone": "402-391-3411"
+      },
+      {
+        "city": "Scottsbluff",
+        "address": "120 East 16th St., Suite 203, Scottsbluff, NE 69361",
+        "phone": "308-630-2329"
+      },
+      {
+        "city": "Lincoln",
+        "address": "1248 O Street, Suite #1111, Lincoln, NE 68508",
+        "phone": "402-441-4600"
+      }
+    ],
+    "twitter": "SenatorFischer",
+    "facebook": "senatordebfischer",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "R000618",
+    "slug": "pete-ricketts",
+    "firstName": "Pete",
+    "lastName": "Ricketts",
+    "fullName": "Pete Ricketts",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/R/R000618.jpg",
+    "state": "NE",
+    "fipsCode": "31",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4224",
+    "email": "https://www.ricketts.senate.gov/contact/",
+    "website": "https://www.ricketts.senate.gov",
+    "officeAddress": "139 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Omaha",
+        "address": "304 N. 168th Circle, Suite 213, Omaha, NE 68118",
+        "phone": "402-550-8040"
+      },
+      {
+        "city": "Lincoln",
+        "address": "1248 \u2018O\u2019 St., Suite 1000, Lincoln, NE 68508",
+        "phone": "402-476-1400"
+      },
+      {
+        "city": "Kearney",
+        "address": "4111 4th Ave., Suite 26, Kearney, NE 68845",
+        "phone": "308-233-3677"
+      },
+      {
+        "city": "Scottsbluff",
+        "address": "115 Railway St., Suite C102, Scottsbluff, NE 69361",
+        "phone": "308-632-6032"
+      }
+    ],
+    "twitter": "SenatorRicketts",
+    "facebook": "SenatorRicketts",
+    "termStart": "2024-11-05",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "H001076",
+    "slug": "margaret-wood-hassan",
+    "firstName": "Margaret",
+    "lastName": "Hassan",
+    "fullName": "Margaret Wood Hassan",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H001076.jpg",
+    "state": "NH",
+    "fipsCode": "33",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3324",
+    "email": "https://www.hassan.senate.gov/content/contact-senator",
+    "website": "https://www.hassan.senate.gov",
+    "officeAddress": "324 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Berlin",
+        "address": "168 Main Street, Lower Level, Berlin City Hall, Berlin, NH 03570",
+        "phone": "603-752-6190"
+      },
+      {
+        "city": "Manchester",
+        "address": "1589 Elm Street, Third Floor, Manchester, NH 03101",
+        "phone": "603-622-2204"
+      },
+      {
+        "city": "Portsmouth",
+        "address": "14 Manchester Square, Suite 281, Portsmouth, NH 03801",
+        "phone": "603-433-4445"
+      },
+      {
+        "city": "Concord",
+        "address": "53 Pleasant Street, James C. Cleveland Federal Building, Concord, NH 03301",
+        "phone": "603-622-2204"
+      }
+    ],
+    "twitter": "SenatorHassan",
+    "facebook": "SenatorHassan",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "S001181",
+    "slug": "jeanne-shaheen",
+    "firstName": "Jeanne",
+    "lastName": "Shaheen",
+    "fullName": "Jeanne Shaheen",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001181.jpg",
+    "state": "NH",
+    "fipsCode": "33",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2841",
+    "email": "https://www.shaheen.senate.gov/contact/contact-jeanne",
+    "website": "https://www.shaheen.senate.gov",
+    "officeAddress": "506 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Berlin",
+        "address": "961 Main St., Berlin, NH 03570",
+        "phone": "603-752-6300"
+      },
+      {
+        "city": "Claremont",
+        "address": "50 Opera House Sq., Claremont, NH 03743",
+        "phone": "603-542-4872"
+      },
+      {
+        "city": "Dover",
+        "address": "340 Central Ave., Suite 205, Dover, NH 03820",
+        "phone": "603-750-3004"
+      },
+      {
+        "city": "Keene",
+        "address": "12 Gilbo Ave., Suite C, Keene, NH 03431",
+        "phone": "603-358-6604"
+      },
+      {
+        "city": "Manchester",
+        "address": "2 Wall St., Suite 220, Manchester, NH 03101",
+        "phone": "603-647-7500"
+      },
+      {
+        "city": "Nashua",
+        "address": "60 Main St., Suite 217, Nashua, NH 03060",
+        "phone": "603-883-0196"
+      }
+    ],
+    "twitter": "SenatorShaheen",
+    "facebook": "SenatorShaheen",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "B001288",
+    "slug": "cory-a-booker",
+    "firstName": "Cory",
+    "lastName": "Booker",
+    "fullName": "Cory A. Booker",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001288.jpg",
+    "state": "NJ",
+    "fipsCode": "34",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3224",
+    "email": "https://www.booker.senate.gov/?p=contact",
+    "website": "https://www.booker.senate.gov",
+    "officeAddress": "306 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Newark",
+        "address": "One Gateway Center, 23rd Floor, Newark, NJ 07102",
+        "phone": "973-639-8700"
+      },
+      {
+        "city": "Camden",
+        "address": "401 Market St., Suite 240, Camden, NJ 08102",
+        "phone": "856-338-8922"
+      }
+    ],
+    "twitter": "SenBooker",
+    "facebook": "SenatorCoryBooker",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "K000394",
+    "slug": "andy-kim",
+    "firstName": "Andy",
+    "lastName": "Kim",
+    "fullName": "Andy Kim",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/K/K000394.jpg",
+    "state": "NJ",
+    "fipsCode": "34",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4744",
+    "email": null,
+    "website": "https://www.kim.senate.gov",
+    "officeAddress": "520 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Barrington",
+        "address": "208 White Horse Pike, Suite 18, Barrington, NJ 08007",
+        "phone": "856-757-5353"
+      },
+      {
+        "city": "Jersey City",
+        "address": "210 Hudson Street, Suite 1000, Harborside 3, Jersey City, NJ 07311",
+        "phone": "201-377-0900"
+      }
+    ],
+    "twitter": null,
+    "facebook": "SenatorAndyKim",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "H001046",
+    "slug": "martin-heinrich",
+    "firstName": "Martin",
+    "lastName": "Heinrich",
+    "fullName": "Martin Heinrich",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H001046.jpg",
+    "state": "NM",
+    "fipsCode": "35",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5521",
+    "email": "https://www.heinrich.senate.gov/contact",
+    "website": "https://www.heinrich.senate.gov",
+    "officeAddress": "709 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Albuquerque",
+        "address": "400 Gold Ave. SW, Suite 1080, Albuquerque, NM 87102",
+        "phone": "505-346-6601"
+      },
+      {
+        "city": "Farmington",
+        "address": "7450 E. Main St., Suite A, Farmington, NM 87402",
+        "phone": "505-325-5030"
+      },
+      {
+        "city": "Roswell",
+        "address": "200 E. 4th St., Suite 300, Roswell, NM 88201",
+        "phone": "575-622-7113"
+      },
+      {
+        "city": "Las Cruces",
+        "address": "201 North Church St., Ste. 305, Las Cruces, NM 88001",
+        "phone": "575-523-6561"
+      }
+    ],
+    "twitter": "MartinHeinrich",
+    "facebook": "MartinHeinrich",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "L000570",
+    "slug": "ben-ray-lujan",
+    "firstName": "Ben",
+    "lastName": "Luj\u00e1n",
+    "fullName": "Ben Ray Luj\u00e1n",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/L/L000570.jpg",
+    "state": "NM",
+    "fipsCode": "35",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6621",
+    "email": "https://www.lujan.senate.gov/contact/",
+    "website": "https://www.lujan.senate.gov",
+    "officeAddress": "498 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Las Vegas",
+        "address": "1103 National Ave, Suite 210, NMHU Hewett Hall, Las Vegas, NM 87701-4024",
+        "phone": "505-454-3038"
+      },
+      {
+        "city": "Albuquerque",
+        "address": "500 Marquette Ave NW, Suite 1460, Albuquerque, NM 87102",
+        "phone": "505-337-7023"
+      },
+      {
+        "city": "Santa Fe",
+        "address": "120 South Federal Place, Suite 302, Santa Fe, NM 87501",
+        "phone": "505-230-7040"
+      },
+      {
+        "city": "Las Cruces",
+        "address": "201 North Church Street, 201B, Las Cruces, NM 88001",
+        "phone": "575-288-4644"
+      },
+      {
+        "city": "Portales",
+        "address": "100 South Ave A, Suite 113, Portales, NM 88130",
+        "phone": "575-252-6188"
+      }
+    ],
+    "twitter": "SenatorLujan",
+    "facebook": "SenatorLujan",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "C001113",
+    "slug": "catherine-cortez-masto",
+    "firstName": "Catherine",
+    "lastName": "Cortez Masto",
+    "fullName": "Catherine Cortez Masto",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001113.jpg",
+    "state": "NV",
+    "fipsCode": "32",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3542",
+    "email": "https://www.cortezmasto.senate.gov/contact",
+    "website": "https://www.cortezmasto.senate.gov",
+    "officeAddress": "309 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Las Vegas",
+        "address": "333 Las Vegas Boulevard South, Suite 8016, Las Vegas, NV 89101",
+        "phone": "702-388-5020"
+      },
+      {
+        "city": "Reno",
+        "address": "400 South Virginia Street, Suite 902, Courthouse and Federal Building, Reno, NV 89501",
+        "phone": "775-686-5750"
+      }
+    ],
+    "twitter": "SenCortezMasto",
+    "facebook": "SenatorCortezMasto",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "R000608",
+    "slug": "jacky-rosen",
+    "firstName": "Jacky",
+    "lastName": "Rosen",
+    "fullName": "Jacky Rosen",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/R/R000608.jpg",
+    "state": "NV",
+    "fipsCode": "32",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6244",
+    "email": "https://www.rosen.senate.gov/contact_jacky",
+    "website": "https://www.rosen.senate.gov",
+    "officeAddress": "713 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Reno",
+        "address": "400 S Virginia St, Suite 738, Bruce Thompson Federal Building, Reno, NV 89501-2132",
+        "phone": "775-337-0110"
+      },
+      {
+        "city": "Las Vegas",
+        "address": "333 Las Vegas Boulevard South, Suite 8203, Lloyd D. George U.S. Courthouse, Las Vegas, NV 89101",
+        "phone": "702-388-0205"
+      }
+    ],
+    "twitter": "SenJackyRosen",
+    "facebook": "RepJackyRosen",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "G000555",
+    "slug": "kirsten-e-gillibrand",
+    "firstName": "Kirsten",
+    "lastName": "Gillibrand",
+    "fullName": "Kirsten E. Gillibrand",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/G/G000555.jpg",
+    "state": "NY",
+    "fipsCode": "36",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4451",
+    "email": "https://www.gillibrand.senate.gov/contact/email-me",
+    "website": "https://www.gillibrand.senate.gov",
+    "officeAddress": "478 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Albany",
+        "address": "11A Clinton Avenue, Room 821, Leo W. O\u2019Brien Federal Office Building, Albany, NY 12207",
+        "phone": "518-431-0120"
+      },
+      {
+        "city": "Buffalo",
+        "address": "726 Exchange St., Suite 511, Larkin At Exchange, Buffalo, NY 14210",
+        "phone": "716-854-9725"
+      },
+      {
+        "city": "Lowville",
+        "address": "PO Box 273, Lowville, NY 13367",
+        "phone": "315-376-6118"
+      },
+      {
+        "city": "New York",
+        "address": "780 Third Ave., Suite 2601, New York, NY 10017",
+        "phone": "212-688-6262"
+      },
+      {
+        "city": "Melville",
+        "address": "155 Pinelawn Rd., Suite 250 North, Melville, NY 11747",
+        "phone": "631-249-2825"
+      },
+      {
+        "city": "Rochester",
+        "address": "100 State St., Room 4195, Kenneth B. Keating Federal Office Building, Rochester, NY 14614",
+        "phone": "585-263-6250"
+      },
+      {
+        "city": "Syracuse",
+        "address": "100 S. Clinton St., Room 1470, James M. Hanley Federal Building, Syracuse, NY 13261",
+        "phone": "315-448-0470"
+      },
+      {
+        "city": "Yonkers",
+        "address": "PO Box 749, Yonkers, NY 10710-0749",
+        "phone": "845-875-4585"
+      }
+    ],
+    "twitter": "GillibrandNY",
+    "facebook": "SenKirstenGillibrand",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "S000148",
+    "slug": "charles-e-schumer",
+    "firstName": "Charles",
+    "lastName": "Schumer",
+    "fullName": "Charles E. Schumer",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S000148.jpg",
+    "state": "NY",
+    "fipsCode": "36",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6542",
+    "email": "https://www.schumer.senate.gov/contact/email-chuck",
+    "website": "https://www.schumer.senate.gov",
+    "officeAddress": "322 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Rochester",
+        "address": "100 State St., Room 3040, Rochester, NY 14614",
+        "phone": "585-263-5866"
+      },
+      {
+        "city": "Binghamton",
+        "address": "15 Henry St., Room. 100 A-F, Binghamton, NY 13901",
+        "phone": "607-772-6792"
+      },
+      {
+        "city": "Buffalo",
+        "address": "130 S. Elmwood Ave., #660, Buffalo, NY 14202",
+        "phone": "716-846-4111"
+      },
+      {
+        "city": "New York",
+        "address": "780 Third Ave., Suite 2301, New York, NY 10017",
+        "phone": "212-486-4430"
+      },
+      {
+        "city": "Peekskill",
+        "address": "One Park Place, Suite 100, Peekskill, NY 10566",
+        "phone": "914-734-1532"
+      },
+      {
+        "city": "Syracuse",
+        "address": "100 S. Clinton St., Room 841, Syracuse, NY 13261",
+        "phone": "315-423-5471"
+      },
+      {
+        "city": "Albany",
+        "address": "1 Clinton Ave., Room 827, Leo O'Brien Building, Albany, NY 12207",
+        "phone": "518-431-4070"
+      },
+      {
+        "city": "Melville",
+        "address": "145 Pinelawn Road, #300N, Melville, NY 11747",
+        "phone": "631-753-0978"
+      }
+    ],
+    "twitter": "SenSchumer",
+    "facebook": "senschumer",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "H001104",
+    "slug": "jon-husted",
+    "firstName": "Jon",
+    "lastName": "Husted",
+    "fullName": "Jon Husted",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H001104.jpg",
+    "state": "OH",
+    "fipsCode": "39",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3353",
+    "email": null,
+    "website": "https://www.husted.senate.gov",
+    "officeAddress": "304 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Toledo",
+        "address": "420 Madison Avenue, Suite 1210, Toledo, OH 43604",
+        "phone": "567-304-3777"
+      },
+      {
+        "city": "Columbus",
+        "address": "John W. Bricker Federal Building, 200 North High Street, Suite 600, Columbus, OH 43215",
+        "phone": "614-369-4925"
+      },
+      {
+        "city": "Middletown",
+        "address": "300 North Main Street, Suite 200, Middletown, OH 45042",
+        "phone": "513-318-1100"
+      },
+      {
+        "city": "Cleveland",
+        "address": "1240 East 9th Street, 3061, Cleveland, OH 44199",
+        "phone": "216-539-7877"
+      }
+    ],
+    "twitter": null,
+    "facebook": null,
+    "termStart": "2025-01-21",
+    "termEnd": "2026-11-03"
+  },
+  {
+    "id": "M001242",
+    "slug": "bernie-moreno",
+    "firstName": "Bernie",
+    "lastName": "Moreno",
+    "fullName": "Bernie Moreno",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M001242.jpg",
+    "state": "OH",
+    "fipsCode": "39",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2315",
+    "email": null,
+    "website": "https://www.moreno.senate.gov",
+    "officeAddress": "284 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Columbus",
+        "address": "200 North High St, Room 618, Bricker Federal Building, Columbus, OH 43215",
+        "phone": "614-469-2083"
+      },
+      {
+        "city": "Cleveland",
+        "address": "801 W Superior Ave, Suite 1400, Carl B. Stokes U.S. Courthouse, Cleveland, OH 44113",
+        "phone": "216-522-7272"
+      },
+      {
+        "city": "Cincinnati",
+        "address": "550 Main St, Suite 10-273, John W. Peck Federal Building, Cincinnati, OH 45202",
+        "phone": "513-684-1021"
+      }
+    ],
+    "twitter": "berniemoreno",
+    "facebook": null,
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "A000383",
+    "slug": "alan-armstrong",
+    "firstName": "Alan",
+    "lastName": "Armstrong",
+    "fullName": "Alan Armstrong",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/A/A000383.jpg",
+    "state": "OK",
+    "fipsCode": "40",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4721",
+    "email": null,
+    "website": "https://www.armstrong.senate.gov",
+    "officeAddress": "G12 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [],
+    "twitter": null,
+    "facebook": null,
+    "termStart": "2026-03-24",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "L000575",
+    "slug": "james-lankford",
+    "firstName": "James",
+    "lastName": "Lankford",
+    "fullName": "James Lankford",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/L/L000575.jpg",
+    "state": "OK",
+    "fipsCode": "40",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5754",
+    "email": "https://www.lankford.senate.gov/contact/email",
+    "website": "https://www.lankford.senate.gov",
+    "officeAddress": "731 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Oklahoma City",
+        "address": "1015 N. Broadway Ave., Suite 310, Oklahoma City, OK 73102",
+        "phone": "405-231-4941"
+      },
+      {
+        "city": "Tulsa",
+        "address": "401 South Boston Ave., Suite 2150, Tulsa, OK 74103",
+        "phone": "918-581-7651"
+      }
+    ],
+    "twitter": "SenatorLankford",
+    "facebook": "SenatorLankford",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "M001176",
+    "slug": "jeff-merkley",
+    "firstName": "Jeff",
+    "lastName": "Merkley",
+    "fullName": "Jeff Merkley",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M001176.jpg",
+    "state": "OR",
+    "fipsCode": "41",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3753",
+    "email": "https://www.merkley.senate.gov/contact/",
+    "website": "https://www.merkley.senate.gov",
+    "officeAddress": "531 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Baker City",
+        "address": "1705 Main St., Suite 504, Baker City, OR 97814",
+        "phone": "541-278-1129"
+      },
+      {
+        "city": "Bend",
+        "address": "131 NW Hawthorne Ave., Suite 208, Bend, OR 97703",
+        "phone": "541-318-1298"
+      },
+      {
+        "city": "Eugene",
+        "address": "405 East 8th Ave., Suite 2010, Eugene, OR 97401",
+        "phone": "541-465-6750"
+      },
+      {
+        "city": "Medford",
+        "address": "10 South Bartlett St., Suite 201, Medford, OR 97501",
+        "phone": "541-608-9102"
+      },
+      {
+        "city": "Portland",
+        "address": "121 SW Salmon St., Suite 1400, Portland, OR 97204",
+        "phone": "503-326-3386"
+      },
+      {
+        "city": "Salem",
+        "address": "500 Liberty St. SE, Suite 320, Salem, OR 97301",
+        "phone": "503-362-8102"
+      }
+    ],
+    "twitter": "SenJeffMerkley",
+    "facebook": "jeffmerkley",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "W000779",
+    "slug": "ron-wyden",
+    "firstName": "Ron",
+    "lastName": "Wyden",
+    "fullName": "Ron Wyden",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/W/W000779.jpg",
+    "state": "OR",
+    "fipsCode": "41",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5244",
+    "email": "https://www.wyden.senate.gov/contact/",
+    "website": "https://www.wyden.senate.gov",
+    "officeAddress": "221 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Bend",
+        "address": "131 NW. Hawthorne Ave., Suite 107, The Jamison Building, Bend, OR 97701",
+        "phone": "541-330-9142"
+      },
+      {
+        "city": "Eugene",
+        "address": "405 E. 8th Ave., Suite 2020, Eugene, OR 97401",
+        "phone": "541-431-0229"
+      },
+      {
+        "city": "La Grande",
+        "address": "105 Fir St., Suite 201, SAC Annex Building, La Grande, OR 97850",
+        "phone": "541-962-7691"
+      },
+      {
+        "city": "Medford",
+        "address": "310 W. 6th St., Room 118, Federal Courthouse, Medford, OR 97501",
+        "phone": "541-858-5122"
+      },
+      {
+        "city": "Portland",
+        "address": "911 NE 11th Ave., Suite 630, Portland, OR 97232",
+        "phone": "503-326-7525"
+      },
+      {
+        "city": "Salem",
+        "address": "707 13th St., Suite 285, Salem, OR 97301",
+        "phone": "503-589-4555"
+      }
+    ],
+    "twitter": "RonWyden",
+    "facebook": "senatorronwyden",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "F000479",
+    "slug": "john-fetterman",
+    "firstName": "John",
+    "lastName": "Fetterman",
+    "fullName": "John Fetterman",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/F/F000479.jpg",
+    "state": "PA",
+    "fipsCode": "42",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4254",
+    "email": "https://www.fetterman.senate.gov/contact/",
+    "website": "https://www.fetterman.senate.gov",
+    "officeAddress": "142 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Pittsburgh",
+        "address": "1000 Liberty Avenue, Suite 1811, Pittsburgh, PA 15222",
+        "phone": "412-803-3501"
+      },
+      {
+        "city": "Erie",
+        "address": "17 South Park Row, Suite B-120, Erie, PA 16501",
+        "phone": "814-453-3010"
+      },
+      {
+        "city": "Harrisburg",
+        "address": "320 Market Street, Suite 475E, Harrisburg, PA 17101",
+        "phone": "717-782-3951"
+      },
+      {
+        "city": "Wilkes-Barre",
+        "address": "7 North Wilkes-Barre Boulevard, Suite 406, Wilkes-Barre, PA 18702",
+        "phone": "570-820-4088"
+      },
+      {
+        "city": "Philadelphia",
+        "address": "200 Chestnut Street, Suite 600, Philadelphia, PA 19106",
+        "phone": "215-241-1090"
+      }
+    ],
+    "twitter": null,
+    "facebook": "SenFettermanPA",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "M001243",
+    "slug": "david-mccormick",
+    "firstName": "Dave",
+    "lastName": "McCormick",
+    "fullName": "David McCormick",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M001243.jpg",
+    "state": "PA",
+    "fipsCode": "42",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6324",
+    "email": "https://mccormick.senate.gov/",
+    "website": "https://www.mccormick.senate.gov",
+    "officeAddress": "702 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Harrisburg",
+        "address": "200 North Third St, Suite 14A/14th Floor, Harrisburg, PA 17101",
+        "phone": "717-231-7540"
+      },
+      {
+        "city": "Pittsburgh",
+        "address": "310 Grant St, Suite 2415, Pittsburgh, PA 15219",
+        "phone": "412-803-7370"
+      },
+      {
+        "city": "Erie",
+        "address": "17 South Park Row, Suite B-150, Erie, PA 16501",
+        "phone": "814-240-5213"
+      },
+      {
+        "city": "State College",
+        "address": "329 Innovation Blvd, Suite 226, State College, PA 16803",
+        "phone": "814-357-0314"
+      },
+      {
+        "city": "Philadelphia",
+        "address": "2000 Market St, Suite 610, Philadelphia, PA 19103",
+        "phone": "215-405-9660"
+      },
+      {
+        "city": "Allentown",
+        "address": "840 West Hamilton St, Suite 301, Allentown, PA 18101",
+        "phone": "610-782-9470"
+      },
+      {
+        "city": "Scranton",
+        "address": "417 Lackawanna Ave, Suite 303, Scranton, PA 18503",
+        "phone": "570-941-0930"
+      }
+    ],
+    "twitter": null,
+    "facebook": "SenMcCormickPA",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "R000122",
+    "slug": "jack-reed",
+    "firstName": "John",
+    "lastName": "Reed",
+    "fullName": "Jack Reed",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/R/R000122.jpg",
+    "state": "RI",
+    "fipsCode": "44",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4642",
+    "email": "https://www.reed.senate.gov/contact/",
+    "website": "https://www.reed.senate.gov",
+    "officeAddress": "728 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Cranston",
+        "address": "1000 Chapel View Blvd., Suite 290, Cranston, RI 02920",
+        "phone": "401-943-3100"
+      },
+      {
+        "city": "Providence",
+        "address": "One Exchange Terrace, Suite 408, U.S. District Courthouse, Providence, RI 02903-1744",
+        "phone": "401-528-5200"
+      }
+    ],
+    "twitter": "SenJackReed",
+    "facebook": "SenJackReed",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "W000802",
+    "slug": "sheldon-whitehouse",
+    "firstName": "Sheldon",
+    "lastName": "Whitehouse",
+    "fullName": "Sheldon Whitehouse",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/W/W000802.jpg",
+    "state": "RI",
+    "fipsCode": "44",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2921",
+    "email": "https://www.whitehouse.senate.gov/contact/email-sheldon",
+    "website": "https://www.whitehouse.senate.gov",
+    "officeAddress": "530 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Providence",
+        "address": "170 Westminster St., Suite 200, Providence, RI 02903",
+        "phone": "401-453-5294"
+      }
+    ],
+    "twitter": "SenWhitehouse",
+    "facebook": "SenatorWhitehouse",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "G000359",
+    "slug": "lindsey-graham",
+    "firstName": "Lindsey",
+    "lastName": "Graham",
+    "fullName": "Lindsey Graham",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/G/G000359.jpg",
+    "state": "SC",
+    "fipsCode": "45",
+    "stance": "publicly-opposes",
+    "stanceSummary": "Vocal defender against impeachment efforts in the Senate.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5972",
+    "email": "https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham",
+    "website": "https://www.lgraham.senate.gov/public",
+    "officeAddress": "211 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Florence",
+        "address": "401 W. Evans St., Suite 111, McMillan Federal Building, Florence, SC 29501",
+        "phone": "843-669-1505"
+      },
+      {
+        "city": "Pendleton",
+        "address": "124 Exchange St., Suite A, Pendleton, SC 29670",
+        "phone": "864-646-4090"
+      },
+      {
+        "city": "Rock Hill",
+        "address": "235 E. Main St., Suite 100, Rock Hill, SC 29730",
+        "phone": "803-366-2828"
+      },
+      {
+        "city": "Columbia",
+        "address": "2142 Boyce Street, Suite 404, Columbia, SC 29201",
+        "phone": "803-933-0112"
+      },
+      {
+        "city": "Charleston",
+        "address": "4 Carriage Lane, Suite 401, Charleston, SC 29407",
+        "phone": "843-849-3887"
+      },
+      {
+        "city": "Greenville",
+        "address": "2 West Washington Street, Suite 808, Greenville, SC 29601",
+        "phone": "864-250-1417"
+      }
+    ],
+    "twitter": "GrahamBlog",
+    "facebook": "USSenatorLindseyGraham",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "S001184",
+    "slug": "tim-scott",
+    "firstName": "Tim",
+    "lastName": "Scott",
+    "fullName": "Tim Scott",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001184.jpg",
+    "state": "SC",
+    "fipsCode": "45",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6121",
+    "email": "https://www.scott.senate.gov/contact/email-me",
+    "website": "https://www.scott.senate.gov",
+    "officeAddress": "104 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Columbia",
+        "address": "1901 Main St., Suite 1425, Columbia, SC 29201",
+        "phone": "803-771-6112"
+      },
+      {
+        "city": "North Charleston",
+        "address": "2500 City Hall Ln., 3rd Floor Suite, North Charleston, SC 29406",
+        "phone": "843-727-4525"
+      },
+      {
+        "city": "Greenville",
+        "address": "301 N. Main Street, Suite 1006, Greenville, SC 29601",
+        "phone": "864-233-5366"
+      }
+    ],
+    "twitter": "SenatorTimScott",
+    "facebook": "SenatorTimScott",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "R000605",
+    "slug": "mike-rounds",
+    "firstName": "Mike",
+    "lastName": "Rounds",
+    "fullName": "Mike Rounds",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/R/R000605.jpg",
+    "state": "SD",
+    "fipsCode": "46",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5842",
+    "email": "https://www.rounds.senate.gov/contact/email-mike",
+    "website": "https://www.rounds.senate.gov",
+    "officeAddress": "716 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Pierre",
+        "address": "111 W. Capitol Ave., Suite 210, Pierre, SD 57501",
+        "phone": "605-224-1450"
+      },
+      {
+        "city": "Sioux Falls",
+        "address": "320 N. Main Ave., Suite A, Sioux Falls, SD 57104",
+        "phone": "605-336-0486"
+      },
+      {
+        "city": "Aberdeen",
+        "address": "221 Brown County Highway 19 S, Suite 112, Aberdeen, SD 57401",
+        "phone": "605-225-0366"
+      },
+      {
+        "city": "Rapid City",
+        "address": "603 Omaha St., Suite 100, Rapid City, SD 57701",
+        "phone": "605-343-5035"
+      }
+    ],
+    "twitter": "SenatorRounds",
+    "facebook": "SenatorMikeRounds",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "T000250",
+    "slug": "john-thune",
+    "firstName": "John",
+    "lastName": "Thune",
+    "fullName": "John Thune",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/T/T000250.jpg",
+    "state": "SD",
+    "fipsCode": "46",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2321",
+    "email": "https://www.thune.senate.gov/public/index.cfm/contact",
+    "website": "https://www.thune.senate.gov",
+    "officeAddress": "511 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Rapid City",
+        "address": "246 Founders Park Dr., Suite 102, Rapid City, SD 57701",
+        "phone": "605-348-7551"
+      },
+      {
+        "city": "Sioux Falls",
+        "address": "2401 West Trevi Place, Suite 200, Sioux Falls, SD 57108",
+        "phone": "605-334-9596"
+      },
+      {
+        "city": "Aberdeen",
+        "address": "205 6th Avenue SE, Suite 202, Aberdeen, SD 57401",
+        "phone": "605-225-8823"
+      }
+    ],
+    "twitter": "SenJohnThune",
+    "facebook": "LeaderJohnThune",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "B001243",
+    "slug": "marsha-blackburn",
+    "firstName": "Marsha",
+    "lastName": "Blackburn",
+    "fullName": "Marsha Blackburn",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001243.jpg",
+    "state": "TN",
+    "fipsCode": "47",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3344",
+    "email": "https://www.blackburn.senate.gov/email-me",
+    "website": "https://www.blackburn.senate.gov",
+    "officeAddress": "357 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Chattanooga",
+        "address": "10 West M. L. King Blvd, 6th Floor, Chattanooga, TN 37402",
+        "phone": "423-541-2939"
+      },
+      {
+        "city": "Jackson",
+        "address": "109 S Highland Ave, Suite 218, Jackson, TN 38301",
+        "phone": "731-660-3971"
+      },
+      {
+        "city": "Knoxville",
+        "address": "800 Market St, Suite 121, Knoxville, TN 37902-2327",
+        "phone": "865-540-3781"
+      },
+      {
+        "city": "Memphis",
+        "address": "100 Peabody Pl, Suite 1125, Memphis, TN 38103-3654",
+        "phone": "901-527-9199"
+      },
+      {
+        "city": "Nashville",
+        "address": "719 Church Street, Suite 2100, Nashville, TN 37203",
+        "phone": "629-800-6600"
+      },
+      {
+        "city": "Johnson City",
+        "address": "207 Mocking Bird Ln, Suite 502, Johnson City, TN 37604",
+        "phone": "423-753-4009"
+      }
+    ],
+    "twitter": "MarshaBlackburn",
+    "facebook": "marshablackburn",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "H000601",
+    "slug": "bill-hagerty",
+    "firstName": "Bill",
+    "lastName": "Hagerty",
+    "fullName": "Bill Hagerty",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H000601.jpg",
+    "state": "TN",
+    "fipsCode": "47",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4944",
+    "email": "https://www.hagerty.senate.gov/email-me/",
+    "website": "https://www.hagerty.senate.gov",
+    "officeAddress": "251 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Nashville",
+        "address": "719 Church Street, Suite 2150, Nashville, TN 37203",
+        "phone": "615-736-5129"
+      },
+      {
+        "city": "Chattanooga",
+        "address": "900 Georgia Avenue, Suite 260, Chattanooga, TN 37402",
+        "phone": "423-752-5337"
+      },
+      {
+        "city": "Blountville",
+        "address": "2525 Highway 75, Suite 101, Tri-Cities Regional Airport, Blountville, TN 37617",
+        "phone": "423-325-6240"
+      },
+      {
+        "city": "Knoxville",
+        "address": "800 Market Street, Suite 112, Howard H. Baker, Jr. U.S. Courthouse, Knoxville, TN 37902",
+        "phone": "865-545-4253"
+      },
+      {
+        "city": "Memphis",
+        "address": "167 North Main Street, Suite 1068, Clifford Davis-Odell Horton Federal Building, Memphis, TN 38103",
+        "phone": "901-544-4224"
+      },
+      {
+        "city": "Jackson",
+        "address": "109 S.Highland Avenue, Suite 216, Ed Jones Federal Building, Jackson, TN 38301",
+        "phone": "731-234-9358"
+      },
+      {
+        "city": "Cookeville",
+        "address": "9 E. Broad Street, 3rd Floor, L. Clure Morton Federal Building, Cookeville, TN 38503",
+        "phone": "931-400-7080"
+      }
+    ],
+    "twitter": "SenatorHagerty",
+    "facebook": "SenatorBillHagerty",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "C001056",
+    "slug": "john-cornyn",
+    "firstName": "John",
+    "lastName": "Cornyn",
+    "fullName": "John Cornyn",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001056.jpg",
+    "state": "TX",
+    "fipsCode": "48",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2934",
+    "email": "https://www.cornyn.senate.gov/contact",
+    "website": "https://www.cornyn.senate.gov",
+    "officeAddress": "517 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Austin",
+        "address": "221 W. Sixth St., Suite 1350, Chase Tower, Austin, TX 78701",
+        "phone": "512-469-6034"
+      },
+      {
+        "city": "Dallas",
+        "address": "5001 Spring Valley Rd., Suite 1125 E, Dallas, TX 75244",
+        "phone": "972-239-1310"
+      },
+      {
+        "city": "Lubbock",
+        "address": "1500 Broadway, Suite 1230, Wells Fargo Center, Lubbock, TX 79401",
+        "phone": "806-472-7533"
+      },
+      {
+        "city": "San Antonio",
+        "address": "600 Navarro, Suite 210, San Antonio, TX 78205",
+        "phone": "210-224-7485"
+      },
+      {
+        "city": "Tyler",
+        "address": "100 E. Ferguson St., Suite 1004, Regions Bank Building, Tyler, TX 75702",
+        "phone": "903-593-0902"
+      },
+      {
+        "city": "Houston",
+        "address": "5300 Memorial Drive, Suite 710, Houston, TX 77007",
+        "phone": "713-572-3337"
+      },
+      {
+        "city": "Harlingen",
+        "address": "6770 W. Expressway 83, Suite 302, Harlingen, TX 78552",
+        "phone": "956-423-0162"
+      }
+    ],
+    "twitter": "JohnCornyn",
+    "facebook": "sen.johncornyn",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "C001098",
+    "slug": "ted-cruz",
+    "firstName": "Ted",
+    "lastName": "Cruz",
+    "fullName": "Ted Cruz",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001098.jpg",
+    "state": "TX",
+    "fipsCode": "48",
+    "stance": "publicly-opposes",
+    "stanceSummary": "Strongly opposes impeachment, has called it a partisan witch hunt.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5922",
+    "email": "https://www.cruz.senate.gov/?p=form&id=16",
+    "website": "https://www.cruz.senate.gov",
+    "officeAddress": "167 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Austin",
+        "address": "300 E 8th, Suite 961, Austin, TX 78701",
+        "phone": "512-916-5834"
+      },
+      {
+        "city": "Dallas",
+        "address": "3626 N. Hall St., Suite 410, Lee Park Tower II, Dallas, TX 75219",
+        "phone": "214-599-8749"
+      },
+      {
+        "city": "Houston",
+        "address": "1919 Smith St., Suite 9047, The Mickey Leland Federal Building, Houston, TX 77002",
+        "phone": "713-718-3057"
+      },
+      {
+        "city": "McAllen",
+        "address": "200 S. 10th St., Suite 1603, McAllen, TX 78501",
+        "phone": "956-686-7339"
+      },
+      {
+        "city": "San Antonio",
+        "address": "9901 Ih-10w, Suite 950, San Antonio, TX 78230",
+        "phone": "210-340-2885"
+      },
+      {
+        "city": "Tyler",
+        "address": "305 S. Broadway, Suite 501, Tyler, TX 75702",
+        "phone": "903-593-5130"
+      }
+    ],
+    "twitter": "SenTedCruz",
+    "facebook": "SenatorTedCruz",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "C001114",
+    "slug": "john-r-curtis",
+    "firstName": "John",
+    "lastName": "Curtis",
+    "fullName": "John R. Curtis",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001114.jpg",
+    "state": "UT",
+    "fipsCode": "49",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5251",
+    "email": null,
+    "website": "https://www.curtis.senate.gov",
+    "officeAddress": "502 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Salt Lake City",
+        "address": "125 S. State Street, Suite 8402, Salt Lake City, UT 84138",
+        "phone": "801-524-4380"
+      }
+    ],
+    "twitter": "RepJohnCurtis",
+    "facebook": "RepJohnCurtis",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "L000577",
+    "slug": "mike-lee",
+    "firstName": "Mike",
+    "lastName": "Lee",
+    "fullName": "Mike Lee",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/L/L000577.jpg",
+    "state": "UT",
+    "fipsCode": "49",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5444",
+    "email": "https://www.lee.senate.gov/public/index.cfm/contact",
+    "website": "https://www.lee.senate.gov",
+    "officeAddress": "363 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Ogden",
+        "address": "324 25th St., Suite 1410, James V. Hansen Federal Building, Ogden, UT 84401",
+        "phone": "801-392-9633"
+      },
+      {
+        "city": "Salt Lake City",
+        "address": "125 S. State, Suite 4225, Wallace F. Bennett Federal Building, Salt Lake City, UT 84138",
+        "phone": "801-524-5933"
+      },
+      {
+        "city": "Vernal",
+        "address": "374 East Main Street, Suite 261, Vernal City Hall, Vernal, UT 84078",
+        "phone": "435-503-9335"
+      },
+      {
+        "city": "St. George",
+        "address": "111 East Tabernacle Street, Suite #324, St. George, UT 84770",
+        "phone": "435-628-5514"
+      }
+    ],
+    "twitter": "SenMikeLee",
+    "facebook": "senatormikelee",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "K000384",
+    "slug": "tim-kaine",
+    "firstName": "Timothy",
+    "lastName": "Kaine",
+    "fullName": "Tim Kaine",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/K/K000384.jpg",
+    "state": "VA",
+    "fipsCode": "51",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4024",
+    "email": "https://www.kaine.senate.gov/contact",
+    "website": "https://www.kaine.senate.gov",
+    "officeAddress": "231 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Abingdon",
+        "address": "121 Russell Rd., Suite 2, Abingdon, VA 24210",
+        "phone": "276-525-4790"
+      },
+      {
+        "city": "Manassas",
+        "address": "9408 Grant Avenue, Suite 202, Manassas, VA 20110",
+        "phone": "703-361-3192"
+      },
+      {
+        "city": "Richmond",
+        "address": "919 E. Main St., Suite 970, Richmond, VA 23219",
+        "phone": "804-771-2221"
+      },
+      {
+        "city": "Roanoke",
+        "address": "611 S. Jefferson St., Suite 5B, Roanoke, VA 24011",
+        "phone": "540-682-5693"
+      },
+      {
+        "city": "Virginia Beach",
+        "address": "222 Central Park Ave., Suite 120, Virginia Beach, VA 23462",
+        "phone": "757-518-1674"
+      },
+      {
+        "city": "Fredericksburg",
+        "address": "816 William Street, Suite B, Fredericksburg, VA 22401",
+        "phone": "540-369-7667"
+      }
+    ],
+    "twitter": null,
+    "facebook": "SenatorKaine",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "W000805",
+    "slug": "mark-r-warner",
+    "firstName": "Mark",
+    "lastName": "Warner",
+    "fullName": "Mark R. Warner",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/W/W000805.jpg",
+    "state": "VA",
+    "fipsCode": "51",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2023",
+    "email": "https://www.warner.senate.gov/public/index.cfm?p=Contact",
+    "website": "https://www.warner.senate.gov",
+    "officeAddress": "703 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Abingdon",
+        "address": "180 W. Main St., Room 235, Abingdon, VA 24210",
+        "phone": "276-628-8158"
+      },
+      {
+        "city": "Norfolk",
+        "address": "101 W. Main St., Suite 7771, Norfolk, VA 23510",
+        "phone": "757-441-3079"
+      },
+      {
+        "city": "Richmond",
+        "address": "919 E. Main St., Suite 630, Richmond, VA 23219",
+        "phone": "804-775-2314"
+      },
+      {
+        "city": "Roanoke",
+        "address": "120 Luck Avenue, SW, Suite 108, Roanoke, VA 24011",
+        "phone": "540-857-2676"
+      },
+      {
+        "city": "Vienna",
+        "address": "8150 Leesburg Pike, Suite 700, Vienna, VA 22182",
+        "phone": "703-442-0670"
+      }
+    ],
+    "twitter": "MarkWarner",
+    "facebook": "MarkRWarner",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "S000033",
+    "slug": "bernard-sanders",
+    "firstName": "Bernard",
+    "lastName": "Sanders",
+    "fullName": "Bernard Sanders",
+    "party": "I",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S000033.jpg",
+    "state": "VT",
+    "fipsCode": "50",
+    "stance": "publicly-supports",
+    "stanceSummary": "Supports impeachment and has called for accountability for constitutional violations.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5141",
+    "email": "https://www.sanders.senate.gov/contact/",
+    "website": "https://www.sanders.senate.gov",
+    "officeAddress": "332 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Burlington",
+        "address": "1 Church St., 3rd Floor, Burlington, VT 05401",
+        "phone": "802-862-0697"
+      }
+    ],
+    "twitter": "SenSanders",
+    "facebook": "senatorsanders",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "W000800",
+    "slug": "peter-welch",
+    "firstName": "Peter",
+    "lastName": "Welch",
+    "fullName": "Peter Welch",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/W/W000800.jpg",
+    "state": "VT",
+    "fipsCode": "50",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-4242",
+    "email": "https://www.welch.senate.gov/email-peter/",
+    "website": "https://www.welch.senate.gov",
+    "officeAddress": "115 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Burlington",
+        "address": "199 Main St., 4th Floor, Burlington, VT 05401",
+        "phone": "802-863-2525"
+      }
+    ],
+    "twitter": "PeterWelch",
+    "facebook": "PeterWelch",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "C000127",
+    "slug": "maria-cantwell",
+    "firstName": "Maria",
+    "lastName": "Cantwell",
+    "fullName": "Maria Cantwell",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C000127.jpg",
+    "state": "WA",
+    "fipsCode": "53",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3441",
+    "email": "https://www.cantwell.senate.gov/public/index.cfm/email-maria",
+    "website": "https://www.cantwell.senate.gov",
+    "officeAddress": "511 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Everett",
+        "address": "2930 Wetmore Ave., Suite 9B, Everett, WA 98201",
+        "phone": "425-303-0114"
+      },
+      {
+        "city": "Richland",
+        "address": "825 Jadwin Ave., Suite 206, Richland, WA 99352",
+        "phone": "509-946-8106"
+      },
+      {
+        "city": "Seattle",
+        "address": "915 Second Ave., Suite 3206, Seattle, WA 98174",
+        "phone": "206-220-6400"
+      },
+      {
+        "city": "Spokane",
+        "address": "920 W. Riverside Ave., Suite 697, Spokane, WA 99201",
+        "phone": "509-353-2507"
+      },
+      {
+        "city": "Tacoma",
+        "address": "950 Pacific Ave., Suite 615, Tacoma, WA 98402",
+        "phone": "253-572-2281"
+      },
+      {
+        "city": "Vancouver",
+        "address": "1313 Officers Row, Vancouver, WA 98661",
+        "phone": "360-696-7838"
+      }
+    ],
+    "twitter": "SenatorCantwell",
+    "facebook": "senatorcantwell",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "M001111",
+    "slug": "patty-murray",
+    "firstName": "Patty",
+    "lastName": "Murray",
+    "fullName": "Patty Murray",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M001111.jpg",
+    "state": "WA",
+    "fipsCode": "53",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-2621",
+    "email": "https://www.murray.senate.gov/write-to-patty/",
+    "website": "https://www.murray.senate.gov",
+    "officeAddress": "154 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Everett",
+        "address": "2930 Wetmore Ave., Suite 9D, Everett, WA 98201",
+        "phone": "425-259-6515"
+      },
+      {
+        "city": "Seattle",
+        "address": "915 2nd Ave., #2988, Jackson Federal Building, Seattle, WA 98174",
+        "phone": "206-553-5545"
+      },
+      {
+        "city": "Vancouver",
+        "address": "1323 Officer's Row, The Marshall House, Vancouver, WA 98661",
+        "phone": "360-696-7797"
+      },
+      {
+        "city": "Tacoma",
+        "address": "1301 A Street, Ste 213, Tacoma, WA 98402",
+        "phone": "253-572-3636"
+      },
+      {
+        "city": "Spokane",
+        "address": "920 West Riverside Avenue, Ste 485, Spokane, WA 99201",
+        "phone": "509-624-9515"
+      },
+      {
+        "city": "Richland",
+        "address": "825 Jadwin Avenue, Suite 160K, Richland, WA 99352",
+        "phone": "509-453-7462"
+      },
+      {
+        "city": "Olympia",
+        "address": "771 Capitol Way Sound, Suite 502, Olympia, WA 98501",
+        "phone": "360-205-2878"
+      }
+    ],
+    "twitter": "PattyMurray",
+    "facebook": null,
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "B001230",
+    "slug": "tammy-baldwin",
+    "firstName": "Tammy",
+    "lastName": "Baldwin",
+    "fullName": "Tammy Baldwin",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001230.jpg",
+    "state": "WI",
+    "fipsCode": "55",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5653",
+    "email": "https://www.baldwin.senate.gov/feedback",
+    "website": "https://www.baldwin.senate.gov",
+    "officeAddress": "141 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Eau Claire",
+        "address": "500 South Barstow St., Suite LL2, Eau Claire, WI 54701",
+        "phone": "715-832-8424"
+      },
+      {
+        "city": "Madison",
+        "address": "30 W. Mifflin St., Suite 700, Madison, WI 53703",
+        "phone": "608-264-5338"
+      },
+      {
+        "city": "Milwaukee",
+        "address": "633 West Wisconsin Ave, Suite 1300, Milwaukee, WI 53203",
+        "phone": "414-297-4451"
+      },
+      {
+        "city": "Green Bay",
+        "address": "2325 Verlin Road, Suite 201, Green Bay, WI 54311",
+        "phone": "920-498-2668"
+      },
+      {
+        "city": "La Crosse",
+        "address": "210 7th Street South, Suite 203, La Crosse, WI 54601",
+        "phone": "608-796-0045"
+      },
+      {
+        "city": "Ladysmith",
+        "address": "P.O. Box 401, Ladysmith, WI 54848",
+        "phone": "715-832-8424"
+      }
+    ],
+    "twitter": "SenatorBaldwin",
+    "facebook": "senatortammybaldwin",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "J000293",
+    "slug": "ron-johnson",
+    "firstName": "Ron",
+    "lastName": "Johnson",
+    "fullName": "Ron Johnson",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/J/J000293.jpg",
+    "state": "WI",
+    "fipsCode": "55",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-5323",
+    "email": "https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator",
+    "website": "https://www.ronjohnson.senate.gov",
+    "officeAddress": "328 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Milwaukee",
+        "address": "517 E. Wisconsin Ave., Suite 408, Milwaukee, WI 53202",
+        "phone": "414-276-7282"
+      },
+      {
+        "city": "Oshkosh",
+        "address": "219 Washington Ave., Suite 100, Oshkosh, WI 54901",
+        "phone": "920-230-7250"
+      },
+      {
+        "city": "Madison",
+        "address": "5315 Wall St., Suite 110, Madison, WI 53718",
+        "phone": "608-240-9629"
+      }
+    ],
+    "twitter": "SenRonJohnson",
+    "facebook": "senronjohnson",
+    "termStart": "2023-01-03",
+    "termEnd": "2029-01-03"
+  },
+  {
+    "id": "C001047",
+    "slug": "shelley-moore-capito",
+    "firstName": "Shelley",
+    "lastName": "Capito",
+    "fullName": "Shelley Moore Capito",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001047.jpg",
+    "state": "WV",
+    "fipsCode": "54",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6472",
+    "email": "https://www.capito.senate.gov/contact/contact-shelley",
+    "website": "https://www.capito.senate.gov",
+    "officeAddress": "170 Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Martinsburg",
+        "address": "300 Foxcroft Ave., Suite 202A, Martinsburg, WV 25401",
+        "phone": "304-262-9285"
+      },
+      {
+        "city": "Morgantown",
+        "address": "48 Donley St., Suite 504, Morgantown, WV 26501",
+        "phone": "304-292-2310"
+      },
+      {
+        "city": "Charleston",
+        "address": "500 Virginia Street East, Suite 950, Charleston, WV 25301",
+        "phone": "304-347-5372"
+      }
+    ],
+    "twitter": "SenCapito",
+    "facebook": "senshelley",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  },
+  {
+    "id": "J000312",
+    "slug": "james-c-justice",
+    "firstName": "Jim",
+    "lastName": "Justice",
+    "fullName": "James C. Justice",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/J/J000312.jpg",
+    "state": "WV",
+    "fipsCode": "54",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3954",
+    "email": null,
+    "website": "https://www.justice.senate.gov",
+    "officeAddress": "509 Hart Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Charleston",
+        "address": "900 Pennsylvania, Suite 629, Charleston, WV 25302",
+        "phone": "304-342-5855"
+      }
+    ],
+    "twitter": null,
+    "facebook": "100044187231175",
+    "termStart": "2025-01-14",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "B001261",
+    "slug": "john-barrasso",
+    "firstName": "John",
+    "lastName": "Barrasso",
+    "fullName": "John Barrasso",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001261.jpg",
+    "state": "WY",
+    "fipsCode": "56",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-6441",
+    "email": "https://www.barrasso.senate.gov/public/index.cfm/contact-form",
+    "website": "https://www.barrasso.senate.gov",
+    "officeAddress": "307 Dirksen Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Casper",
+        "address": "100 E. B St., Suite 2004, Casper, WY 82601",
+        "phone": "307-261-6413"
+      },
+      {
+        "city": "Cheyenne",
+        "address": "2120 Capitol Ave., Suite 2013, Cheyenne, WY 82001",
+        "phone": "307-772-2451"
+      },
+      {
+        "city": "Riverton",
+        "address": "324 E. Washington Ave., Riverton, WY 82501",
+        "phone": "307-856-6642"
+      },
+      {
+        "city": "Rock Springs",
+        "address": "1575 Dewar Drive, Suite 218, Commerce Bank, Rock Springs, WY 82901",
+        "phone": "307-362-5012"
+      },
+      {
+        "city": "Sheridan",
+        "address": "51 Coffeen Avenue, Suite 202, Sheridan, WY 82801",
+        "phone": "307-672-6456"
+      }
+    ],
+    "twitter": "SenJohnBarrasso",
+    "facebook": "johnbarrasso",
+    "termStart": "2025-01-03",
+    "termEnd": "2031-01-03"
+  },
+  {
+    "id": "L000571",
+    "slug": "cynthia-m-lummis",
+    "firstName": "Cynthia",
+    "lastName": "Lummis",
+    "fullName": "Cynthia M. Lummis",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/L/L000571.jpg",
+    "state": "WY",
+    "fipsCode": "56",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-08",
+    "phone": "202-224-3424",
+    "email": "https://www.lummis.senate.gov/contact/contact-form/",
+    "website": "https://www.lummis.senate.gov",
+    "officeAddress": "127A Russell Senate Office Building Washington DC 20510",
+    "districtOffices": [
+      {
+        "city": "Cheyenne",
+        "address": "2120 Capitol Avenue, Suite 2007, Federal Center, Cheyenne, WY 82001",
+        "phone": "307-772-2477"
+      },
+      {
+        "city": "Cody",
+        "address": "1285 Sheridan Avenue, Suite 215, Cody, WY 82414",
+        "phone": "307-527-9444"
+      },
+      {
+        "city": "Casper",
+        "address": "100 East B Street, Suite 3201, Dick Cheney Federal Building, Casper, WY 82602",
+        "phone": "307-261-6572"
+      },
+      {
+        "city": "Sundance",
+        "address": "120 North 4th Street, Sundance, WY 82729",
+        "phone": "307-283-3461"
+      },
+      {
+        "city": "Afton",
+        "address": "80 1st Avenue, Suite 105, Afton, WY 83110",
+        "phone": "307-248-1736"
+      }
+    ],
+    "twitter": "SenLummis",
+    "facebook": "sencynthialummis",
+    "termStart": "2021-01-03",
+    "termEnd": "2027-01-03"
+  }
+]

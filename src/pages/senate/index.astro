@@ -1,0 +1,68 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StatsBar from '../../components/StatsBar.astro';
+import MemberList from '../../components/MemberList.astro';
+import SenateMap from '../../components/maps/SenateMap.svelte';
+import { STANCE_CATEGORIES, type StanceCategory } from '../../styles/colors';
+import type { MemberData } from '../../components/maps/map-utils';
+
+const senators = await getCollection('senators');
+
+const counts = Object.fromEntries(STANCE_CATEGORIES.map(c => [c, 0])) as Record<StanceCategory, number>;
+for (const m of senators) counts[m.data.stance]++;
+
+const mapMembers: MemberData[] = senators.map(m => ({
+  id: m.data.id, slug: m.data.slug, fullName: m.data.fullName,
+  party: m.data.party, state: m.data.state,
+  fipsCode: m.data.fipsCode, stance: m.data.stance,
+  stanceSummary: m.data.stanceSummary, phone: m.data.phone,
+}));
+
+const listMembers = senators.map(m => ({
+  slug: m.data.slug, fullName: m.data.fullName, party: m.data.party,
+  state: m.data.state, stance: m.data.stance,
+  stanceSummary: m.data.stanceSummary, phone: m.data.phone,
+})).sort((a, b) => a.state.localeCompare(b.state) || a.fullName.localeCompare(b.fullName));
+---
+
+<BaseLayout title="Senate">
+  <div class="container">
+    <h1 class="page-title">United States Senate</h1>
+    <p class="page-subtitle">100 senators across 50 states — toggle between senators per state</p>
+
+    <StatsBar counts={counts} total={senators.length} label="Stance Breakdown" />
+
+    <div class="map-wrap">
+      <SenateMap members={mapMembers} client:visible />
+    </div>
+
+    <h2 class="section-title">All Senators</h2>
+    <MemberList members={listMembers} chamber="senate" />
+  </div>
+</BaseLayout>
+
+<style>
+  .page-title {
+    padding-top: var(--space-2xl);
+    margin-bottom: var(--space-xs);
+  }
+
+  .page-subtitle {
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-xl);
+  }
+
+  .map-wrap {
+    margin: var(--space-xl) 0;
+    background: var(--color-bg-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: var(--space-lg);
+  }
+
+  .section-title {
+    margin-top: var(--space-2xl);
+    margin-bottom: var(--space-md);
+  }
+</style>

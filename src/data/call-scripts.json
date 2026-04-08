@@ -1,0 +1,152 @@
+{
+  "house": {
+    "cosponsor": {
+      "script": "Hi, my name is {{name}} and I'm a constituent in {{state}}'s {{district}} congressional district. I'm calling to thank {{repTitle}} {{repName}} for co-sponsoring the articles of impeachment. I urge them to continue pushing for swift proceedings. This is an important step for accountability and the rule of law. Thank you for your time.",
+      "talkingPoints": [
+        "Thank them for their leadership on accountability",
+        "Urge them to push for swift proceedings",
+        "Ask what constituents can do to support the effort"
+      ]
+    },
+    "publicly-supports": {
+      "script": "Hi, my name is {{name}} and I'm a constituent in {{state}}'s {{district}} congressional district. I'm calling to thank {{repTitle}} {{repName}} for supporting impeachment proceedings. I urge them to take the next step and co-sponsor the articles of impeachment. Accountability matters. Thank you for your time.",
+      "talkingPoints": [
+        "Thank them for speaking up",
+        "Urge them to formally co-sponsor the articles",
+        "Express that accountability is important to you as a voter"
+      ]
+    },
+    "leaning-support": {
+      "script": "Hi, my name is {{name}} and I'm a constituent in {{state}}'s {{district}} congressional district. I'm calling because I believe impeachment is necessary for accountability. I've seen that {{repTitle}} {{repName}} has expressed some openness to this, and I want to encourage them to publicly support impeachment proceedings. Thank you for your time.",
+      "talkingPoints": [
+        "Acknowledge their openness to the process",
+        "Encourage them to take a clear public stance",
+        "Share why accountability matters to you personally"
+      ]
+    },
+    "silent": {
+      "script": "Hi, my name is {{name}} and I'm a constituent in {{state}}'s {{district}} congressional district. I'm calling to urge {{repTitle}} {{repName}} to take a clear stance on impeachment. As their constituent, I believe accountability is essential and I'd like to know where they stand. I urge them to support impeachment proceedings. Thank you for your time.",
+      "talkingPoints": [
+        "Ask where they stand on impeachment",
+        "Express that silence is not acceptable on this issue",
+        "Share why this matters to you as a voter in their district"
+      ]
+    },
+    "leaning-oppose": {
+      "script": "Hi, my name is {{name}} and I'm a constituent in {{state}}'s {{district}} congressional district. I'm calling to urge {{repTitle}} {{repName}} to reconsider their position on impeachment. I believe this is a matter of constitutional accountability, not partisan politics. I urge them to put country over party and support impeachment proceedings. Thank you for your time.",
+      "talkingPoints": [
+        "Frame this as a constitutional issue, not a partisan one",
+        "Share specific concerns that motivate your call",
+        "Remind them they represent all constituents, not just one party"
+      ]
+    },
+    "publicly-opposes": {
+      "script": "Hi, my name is {{name}} and I'm a constituent in {{state}}'s {{district}} congressional district. I'm calling to express my strong disagreement with {{repTitle}} {{repName}}'s opposition to impeachment. I believe accountability and the rule of law are fundamental to our democracy. I urge them to reconsider and support impeachment proceedings. Thank you for your time.",
+      "talkingPoints": [
+        "Be respectful but firm in your disagreement",
+        "Focus on constitutional duty and accountability",
+        "Remind them you are a voter in their district and this matters to you"
+      ]
+    }
+  },
+  "senate": {
+    "cosponsor": {
+      "script": "Hi, my name is {{name}} and I'm a constituent in {{state}}. I'm calling to thank Senator {{repName}} for leading on impeachment. I urge them to vote to convict if the articles reach the Senate. Thank you for your time.",
+      "talkingPoints": [
+        "Thank them for their leadership",
+        "Urge them to vote to convict in a Senate trial",
+        "Ask what more can be done to support accountability"
+      ]
+    },
+    "publicly-supports": {
+      "script": "Hi, my name is {{name}} and I'm a constituent in {{state}}. I'm calling to thank Senator {{repName}} for supporting impeachment. I urge them to vote to convict when the articles reach the Senate. Thank you for your time.",
+      "talkingPoints": [
+        "Thank them for their stance",
+        "Urge a vote to convict",
+        "Express that accountability matters to you"
+      ]
+    },
+    "leaning-support": {
+      "script": "Hi, my name is {{name}} and I'm a constituent in {{state}}. I'm calling to encourage Senator {{repName}} to publicly support impeachment and commit to voting to convict. Accountability is essential. Thank you for your time.",
+      "talkingPoints": [
+        "Encourage them to take a firm stance",
+        "Ask them to commit to voting to convict",
+        "Share why this matters to you"
+      ]
+    },
+    "silent": {
+      "script": "Hi, my name is {{name}} and I'm a constituent in {{state}}. I'm calling to urge Senator {{repName}} to take a clear stance on impeachment. As their constituent, I'd like to know where they stand. I believe accountability is essential and urge them to support conviction. Thank you for your time.",
+      "talkingPoints": [
+        "Ask where they stand",
+        "Express that silence is unacceptable",
+        "Share why this matters to you as a voter"
+      ]
+    },
+    "leaning-oppose": {
+      "script": "Hi, my name is {{name}} and I'm a constituent in {{state}}. I'm calling to urge Senator {{repName}} to reconsider their position. Impeachment is about constitutional accountability, not politics. I urge them to support conviction. Thank you for your time.",
+      "talkingPoints": [
+        "Frame as constitutional duty",
+        "Share specific concerns",
+        "Remind them they represent all constituents"
+      ]
+    },
+    "publicly-opposes": {
+      "script": "Hi, my name is {{name}} and I'm a constituent in {{state}}. I'm calling to express my disagreement with Senator {{repName}}'s opposition to impeachment. The rule of law matters. I urge them to reconsider and vote to convict. Thank you for your time.",
+      "talkingPoints": [
+        "Be respectful but firm",
+        "Focus on constitutional duty",
+        "Remind them you vote in their state"
+      ]
+    }
+  },
+  "governors": {
+    "cosponsor": {
+      "script": "Hi, my name is {{name}} and I'm a resident of {{state}}. I'm calling to thank Governor {{repName}} for supporting impeachment. Their voice as a state leader matters. Thank you for your time.",
+      "talkingPoints": [
+        "Thank them for using their platform",
+        "Encourage them to continue speaking out",
+        "Ask what state-level actions can support accountability"
+      ]
+    },
+    "publicly-supports": {
+      "script": "Hi, my name is {{name}} and I'm a resident of {{state}}. I'm calling to thank Governor {{repName}} for supporting impeachment proceedings. Thank you for your time.",
+      "talkingPoints": [
+        "Thank them for their stance",
+        "Encourage them to use their platform",
+        "Express that accountability matters"
+      ]
+    },
+    "leaning-support": {
+      "script": "Hi, my name is {{name}} and I'm a resident of {{state}}. I'm calling to encourage Governor {{repName}} to publicly support impeachment. Their voice matters. Thank you for your time.",
+      "talkingPoints": [
+        "Encourage a clear public stance",
+        "Share why this matters to you",
+        "Ask them to use their platform for accountability"
+      ]
+    },
+    "silent": {
+      "script": "Hi, my name is {{name}} and I'm a resident of {{state}}. I'm calling to urge Governor {{repName}} to take a stance on impeachment. As a state resident, I'd like to know where they stand. Thank you for your time.",
+      "talkingPoints": [
+        "Ask where they stand",
+        "Express that leadership requires taking positions",
+        "Share why this matters to you"
+      ]
+    },
+    "leaning-oppose": {
+      "script": "Hi, my name is {{name}} and I'm a resident of {{state}}. I'm calling to urge Governor {{repName}} to reconsider their position on impeachment. This is about accountability, not politics. Thank you for your time.",
+      "talkingPoints": [
+        "Frame as accountability issue",
+        "Share your concerns",
+        "Remind them they represent all residents"
+      ]
+    },
+    "publicly-opposes": {
+      "script": "Hi, my name is {{name}} and I'm a resident of {{state}}. I'm calling to express my disagreement with Governor {{repName}}'s opposition to impeachment. Accountability matters. Thank you for your time.",
+      "talkingPoints": [
+        "Be respectful but firm",
+        "Focus on accountability",
+        "Remind them you are a voter"
+      ]
+    }
+  }
+}

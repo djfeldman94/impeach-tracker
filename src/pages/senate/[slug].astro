@@ -1,0 +1,16 @@
+---
+import { getCollection } from 'astro:content';
+import MemberLayout from '../../layouts/MemberLayout.astro';
+
+export async function getStaticPaths() {
+  const members = await getCollection('senators');
+  return members.map(member => ({
+    params: { slug: member.data.slug },
+    props: { member: member.data },
+  }));
+}
+
+const { member } = Astro.props;
+---
+
+<MemberLayout member={member} chamber="senate" />

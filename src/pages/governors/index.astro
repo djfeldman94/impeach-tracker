@@ -1,0 +1,68 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StatsBar from '../../components/StatsBar.astro';
+import MemberList from '../../components/MemberList.astro';
+import GovernorMap from '../../components/maps/GovernorMap.svelte';
+import { STANCE_CATEGORIES, type StanceCategory } from '../../styles/colors';
+import type { MemberData } from '../../components/maps/map-utils';
+
+const governors = await getCollection('governors');
+
+const counts = Object.fromEntries(STANCE_CATEGORIES.map(c => [c, 0])) as Record<StanceCategory, number>;
+for (const m of governors) counts[m.data.stance]++;
+
+const mapMembers: MemberData[] = governors.map(m => ({
+  id: m.data.id, slug: m.data.slug, fullName: m.data.fullName,
+  party: m.data.party, state: m.data.state,
+  fipsCode: m.data.fipsCode, stance: m.data.stance,
+  stanceSummary: m.data.stanceSummary, phone: m.data.phone,
+}));
+
+const listMembers = governors.map(m => ({
+  slug: m.data.slug, fullName: m.data.fullName, party: m.data.party,
+  state: m.data.state, stance: m.data.stance,
+  stanceSummary: m.data.stanceSummary, phone: m.data.phone,
+})).sort((a, b) => a.state.localeCompare(b.state));
+---
+
+<BaseLayout title="Governors">
+  <div class="container">
+    <h1 class="page-title">State Governors</h1>
+    <p class="page-subtitle">50 state governors — click any state to see their stance and contact info</p>
+
+    <StatsBar counts={counts} total={governors.length} label="Stance Breakdown" />
+
+    <div class="map-wrap">
+      <GovernorMap members={mapMembers} client:visible />
+    </div>
+
+    <h2 class="section-title">All Governors</h2>
+    <MemberList members={listMembers} chamber="governors" />
+  </div>
+</BaseLayout>
+
+<style>
+  .page-title {
+    padding-top: var(--space-2xl);
+    margin-bottom: var(--space-xs);
+  }
+
+  .page-subtitle {
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-xl);
+  }
+
+  .map-wrap {
+    margin: var(--space-xl) 0;
+    background: var(--color-bg-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: var(--space-lg);
+  }
+
+  .section-title {
+    margin-top: var(--space-2xl);
+    margin-bottom: var(--space-md);
+  }
+</style>

@@ -1,0 +1,92 @@
+[
+  {
+    "memberId": "G000553",
+    "stance": "cosponsor",
+    "summary": "Has introduced articles of impeachment multiple times. One of the earliest and most vocal advocates for impeachment proceedings.",
+    "sources": [
+      {
+        "title": "Rep. Al Green files articles of impeachment",
+        "url": "https://algreen.house.gov/media-center/press-releases",
+        "date": "2025-06-15"
+      }
+    ],
+    "updatedAt": "2026-04-08"
+  },
+  {
+    "memberId": "T000468",
+    "stance": "cosponsor",
+    "summary": "Early and vocal supporter of impeachment. Has co-sponsored articles of impeachment.",
+    "sources": [],
+    "updatedAt": "2026-04-08"
+  },
+  {
+    "memberId": "W000187",
+    "stance": "cosponsor",
+    "summary": "One of the earliest and most vocal proponents of impeachment in the House.",
+    "sources": [],
+    "updatedAt": "2026-04-08"
+  },
+  {
+    "memberId": "O000172",
+    "stance": "publicly-supports",
+    "summary": "Has publicly called for impeachment proceedings and supports accountability measures.",
+    "sources": [],
+    "updatedAt": "2026-04-08"
+  },
+  {
+    "memberId": "J000289",
+    "stance": "publicly-opposes",
+    "summary": "Strongly opposes impeachment, calls it a politically motivated attack on the presidency.",
+    "sources": [],
+    "updatedAt": "2026-04-08"
+  },
+  {
+    "memberId": "S000250",
+    "stance": "publicly-opposes",
+    "summary": "Vocal defender against impeachment efforts.",
+    "sources": [],
+    "updatedAt": "2026-04-08"
+  },
+  {
+    "memberId": "W000817",
+    "stance": "cosponsor",
+    "summary": "Early advocate for impeachment in the Senate. Has introduced related resolutions.",
+    "sources": [],
+    "updatedAt": "2026-04-08"
+  },
+  {
+    "memberId": "S000033",
+    "stance": "publicly-supports",
+    "summary": "Supports impeachment and has called for accountability for constitutional violations.",
+    "sources": [],
+    "updatedAt": "2026-04-08"
+  },
+  {
+    "memberId": "C001098",
+    "stance": "publicly-opposes",
+    "summary": "Strongly opposes impeachment, has called it a partisan witch hunt.",
+    "sources": [],
+    "updatedAt": "2026-04-08"
+  },
+  {
+    "memberId": "G000359",
+    "stance": "publicly-opposes",
+    "summary": "Vocal defender against impeachment efforts in the Senate.",
+    "sources": [],
+    "updatedAt": "2026-04-08"
+  },
+  {
+    "memberId": "GOV-CA",
+    "stance": "publicly-supports",
+    "summary": "Has publicly called for impeachment and accountability measures.",
+    "sources": [],
+    "updatedAt": "2026-04-08"
+  },
+  {
+    "memberId": "GOV-TX",
+    "stance": "publicly-opposes",
+    "summary": "Strongly opposes impeachment, has rallied support for the president.",
+    "sources": [],
+    "updatedAt": "2026-04-08"
+  }
+]

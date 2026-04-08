@@ -1,0 +1,5 @@
+requests>=2.31.0
+pyyaml>=6.0
+python-slugify>=8.0
+anthropic>=0.90.0
+ddgs>=8.0

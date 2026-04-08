@@ -1,0 +1,42 @@
+---
+const year = new Date().getFullYear();
+---
+
+<footer class="footer">
+  <div class="container footer-inner">
+    <p class="footer-text">
+      Impeachment Tracker &middot; {year} &middot;
+      <a href="/about">About & Methodology</a>
+    </p>
+    <p class="footer-disclaimer">
+      Data sourced from Congress.gov, official representative websites, and public records.
+      Stance classifications may not reflect the most recent developments.
+    </p>
+  </div>
+</footer>
+
+<style>
+  .footer {
+    border-top: 1px solid var(--color-border);
+    padding: var(--space-xl) 0;
+    margin-top: var(--space-3xl);
+  }
+
+  .footer-inner {
+    text-align: center;
+  }
+
+  .footer-text {
+    color: var(--color-text-secondary);
+    font-size: 0.875rem;
+  }
+
+  .footer-disclaimer {
+    color: var(--color-text-muted);
+    font-size: 0.75rem;
+    margin-top: var(--space-sm);
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+</style>

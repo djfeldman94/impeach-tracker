@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <text y="100" x="10" font-size="100">&#9878;</text>
+  <style>
+    text { fill: #e6edf3; }
+  </style>
+</svg>

@@ -1,0 +1,106 @@
+---
+const navItems = [
+  { label: 'House', href: '/house' },
+  { label: 'Senate', href: '/senate' },
+  { label: 'Governors', href: '/governors' },
+  { label: 'About', href: '/about' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="header">
+  <div class="container header-inner">
+    <a href="/" class="logo">
+      <span class="logo-icon">&#9878;</span>
+      <span class="logo-text">Impeachment Tracker</span>
+    </a>
+    <nav class="nav" aria-label="Main navigation">
+      {navItems.map(item => (
+        <a
+          href={item.href}
+          class:list={['nav-link', { active: currentPath.startsWith(item.href) }]}
+        >
+          {item.label}
+        </a>
+      ))}
+    </nav>
+  </div>
+</header>
+
+<style>
+  .header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--color-bg-surface);
+    border-bottom: 1px solid var(--color-border);
+    height: var(--header-height);
+    display: flex;
+    align-items: center;
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .logo {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    font-weight: 700;
+    font-size: 1.1rem;
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  .logo:hover {
+    color: var(--color-text);
+    text-decoration: none;
+  }
+
+  .logo-icon {
+    font-size: 1.4rem;
+  }
+
+  .nav {
+    display: flex;
+    gap: var(--space-md);
+  }
+
+  .nav-link {
+    color: var(--color-text-secondary);
+    font-size: 0.9rem;
+    font-weight: 500;
+    padding: var(--space-xs) var(--space-sm);
+    border-radius: 4px;
+    transition: color 0.15s, background 0.15s;
+  }
+
+  .nav-link:hover {
+    color: var(--color-text);
+    background: var(--color-bg-elevated);
+    text-decoration: none;
+  }
+
+  .nav-link.active {
+    color: var(--color-accent);
+  }
+
+  @media (max-width: 600px) {
+    .logo-text {
+      display: none;
+    }
+
+    .nav {
+      gap: var(--space-xs);
+    }
+
+    .nav-link {
+      font-size: 0.8rem;
+    }
+  }
+</style>

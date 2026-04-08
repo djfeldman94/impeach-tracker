@@ -1,0 +1,164 @@
+---
+interface Props {
+  phone?: string | null;
+  email?: string | null;
+  website?: string | null;
+  officeAddress?: string | null;
+  districtOffices?: { city: string; address: string; phone: string }[];
+  twitter?: string | null;
+  facebook?: string | null;
+}
+
+const { phone, email, website, officeAddress, districtOffices = [], twitter, facebook } = Astro.props;
+---
+
+<div class="contact-card">
+  <h3>Contact Information</h3>
+
+  <div class="contact-grid">
+    {phone && (
+      <div class="contact-item">
+        <span class="contact-label">DC Office Phone</span>
+        <a href={`tel:${phone}`} class="contact-value contact-phone">{phone}</a>
+      </div>
+    )}
+
+    {officeAddress && (
+      <div class="contact-item">
+        <span class="contact-label">DC Office</span>
+        <span class="contact-value">{officeAddress}</span>
+      </div>
+    )}
+
+    {website && (
+      <div class="contact-item">
+        <span class="contact-label">Website</span>
+        <a href={website} target="_blank" rel="noopener noreferrer" class="contact-value">{new URL(website).hostname}</a>
+      </div>
+    )}
+
+    {email && (
+      <div class="contact-item">
+        <span class="contact-label">Contact Form</span>
+        {email.startsWith('http') ? (
+          <a href={email} target="_blank" rel="noopener noreferrer" class="contact-value">Online Form</a>
+        ) : (
+          <a href={`mailto:${email}`} class="contact-value">{email}</a>
+        )}
+      </div>
+    )}
+
+    {(twitter || facebook) && (
+      <div class="contact-item">
+        <span class="contact-label">Social</span>
+        <div class="contact-social">
+          {twitter && <a href={`https://twitter.com/${twitter}`} target="_blank" rel="noopener noreferrer">@{twitter}</a>}
+          {facebook && <a href={`https://facebook.com/${facebook}`} target="_blank" rel="noopener noreferrer">Facebook</a>}
+        </div>
+      </div>
+    )}
+  </div>
+
+  {districtOffices.length > 0 && (
+    <div class="district-offices">
+      <h4>District Offices</h4>
+      <div class="offices-grid">
+        {districtOffices.map(office => (
+          <div class="office">
+            <span class="office-city">{office.city}</span>
+            <span class="office-address">{office.address}</span>
+            <a href={`tel:${office.phone}`} class="office-phone">{office.phone}</a>
+          </div>
+        ))}
+      </div>
+    </div>
+  )}
+</div>
+
+<style>
+  .contact-card {
+    background: var(--color-bg-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: var(--space-lg);
+  }
+
+  .contact-card h3 {
+    margin-bottom: var(--space-md);
+    font-size: 1.1rem;
+  }
+
+  .contact-grid {
+    display: grid;
+    gap: var(--space-md);
+  }
+
+  .contact-item {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+  }
+
+  .contact-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-muted);
+  }
+
+  .contact-value {
+    font-size: 0.95rem;
+  }
+
+  .contact-phone {
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+
+  .contact-social {
+    display: flex;
+    gap: var(--space-md);
+  }
+
+  .district-offices {
+    margin-top: var(--space-lg);
+    padding-top: var(--space-lg);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .district-offices h4 {
+    font-size: 0.9rem;
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-sm);
+  }
+
+  .offices-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: var(--space-md);
+  }
+
+  .office {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: var(--space-sm);
+    background: var(--color-bg-elevated);
+    border-radius: 4px;
+  }
+
+  .office-city {
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+
+  .office-address {
+    font-size: 0.8rem;
+    color: var(--color-text-secondary);
+  }
+
+  .office-phone {
+    font-size: 0.9rem;
+    font-weight: 500;
+  }
+</style>

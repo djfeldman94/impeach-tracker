@@ -1,0 +1,68 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import StatsBar from '../../components/StatsBar.astro';
+import MemberList from '../../components/MemberList.astro';
+import HouseMap from '../../components/maps/HouseMap.svelte';
+import { STANCE_CATEGORIES, type StanceCategory } from '../../styles/colors';
+import type { MemberData } from '../../components/maps/map-utils';
+
+const representatives = await getCollection('representatives');
+
+const counts = Object.fromEntries(STANCE_CATEGORIES.map(c => [c, 0])) as Record<StanceCategory, number>;
+for (const m of representatives) counts[m.data.stance]++;
+
+const mapMembers: MemberData[] = representatives.map(m => ({
+  id: m.data.id, slug: m.data.slug, fullName: m.data.fullName,
+  party: m.data.party, state: m.data.state, district: m.data.district,
+  fipsCode: m.data.fipsCode, stance: m.data.stance,
+  stanceSummary: m.data.stanceSummary, phone: m.data.phone,
+}));
+
+const listMembers = representatives.map(m => ({
+  slug: m.data.slug, fullName: m.data.fullName, party: m.data.party,
+  state: m.data.state, district: m.data.district, stance: m.data.stance,
+  stanceSummary: m.data.stanceSummary, phone: m.data.phone,
+})).sort((a, b) => a.state.localeCompare(b.state) || (a.district ?? 0) - (b.district ?? 0));
+---
+
+<BaseLayout title="House of Representatives">
+  <div class="container">
+    <h1 class="page-title">House of Representatives</h1>
+    <p class="page-subtitle">435 congressional districts — click any district to take action</p>
+
+    <StatsBar counts={counts} total={representatives.length} label="Stance Breakdown" />
+
+    <div class="map-wrap">
+      <HouseMap members={mapMembers} client:visible />
+    </div>
+
+    <h2 class="section-title">All Representatives</h2>
+    <MemberList members={listMembers} chamber="house" />
+  </div>
+</BaseLayout>
+
+<style>
+  .page-title {
+    padding-top: var(--space-2xl);
+    margin-bottom: var(--space-xs);
+  }
+
+  .page-subtitle {
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-xl);
+  }
+
+  .map-wrap {
+    margin: var(--space-xl) 0;
+    background: var(--color-bg-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: var(--space-lg);
+  }
+
+  .section-title {
+    margin-top: var(--space-2xl);
+    margin-bottom: var(--space-md);
+  }
+</style>

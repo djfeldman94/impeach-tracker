@@ -1,0 +1,355 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import StanceBadge from '../components/StanceBadge.astro';
+import ContactCard from '../components/ContactCard.astro';
+import CallScript from '../components/CallScript.astro';
+import { PARTY_LABELS, type StanceCategory } from '../styles/colors';
+
+interface MemberData {
+  id: string;
+  slug: string;
+  firstName: string;
+  lastName: string;
+  fullName: string;
+  party: 'D' | 'R' | 'I';
+  photoUrl?: string | null;
+  state: string;
+  district?: number | null;
+  fipsCode: string;
+  stance: StanceCategory;
+  stanceSummary: string;
+  stanceSources: { title: string; url: string; date: string }[];
+  stanceUpdatedAt: string;
+  phone?: string | null;
+  email?: string | null;
+  website?: string | null;
+  officeAddress?: string | null;
+  districtOffices?: { city: string; address: string; phone: string }[];
+  twitter?: string | null;
+  facebook?: string | null;
+  termStart?: string | null;
+}
+
+interface Props {
+  member: MemberData;
+  chamber: 'house' | 'senate' | 'governors';
+}
+
+const { member, chamber } = Astro.props;
+
+const chamberLabel = chamber === 'house' ? 'House of Representatives'
+  : chamber === 'senate' ? 'Senate'
+  : 'Governors';
+
+const locationLabel = chamber === 'house'
+  ? `${member.state}${member.district != null ? `-${member.district}` : ''}`
+  : member.state;
+
+const partyClass = `party-${member.party.toLowerCase()}`;
+const title = `${member.fullName} — ${locationLabel}`;
+const description = `${member.fullName} (${PARTY_LABELS[member.party]}, ${locationLabel}) — Impeachment stance: ${member.stanceSummary}`;
+---
+
+<BaseLayout title={title} description={description}>
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      <span class="sep">/</span>
+      <a href={`/${chamber}`}>{chamberLabel}</a>
+      <span class="sep">/</span>
+      <span>{member.fullName}</span>
+    </nav>
+
+    <header class="member-header">
+      <div class="member-photo-wrap">
+        {member.photoUrl ? (
+          <img
+            src={member.photoUrl}
+            alt={`Photo of ${member.fullName}`}
+            class="member-photo"
+            loading="lazy"
+            onerror="this.style.display='none';this.nextElementSibling.style.display='flex'"
+          />
+          <div class="member-photo-fallback" style="display:none">
+            {member.firstName[0]}{member.lastName[0]}
+          </div>
+        ) : (
+          <div class="member-photo-fallback">
+            {member.firstName[0]}{member.lastName[0]}
+          </div>
+        )}
+      </div>
+
+      <div class="member-info">
+        <h1 class="member-name">{member.fullName}</h1>
+        <div class="member-meta">
+          <span class={`member-party ${partyClass}`}>{PARTY_LABELS[member.party]}</span>
+          <span class="member-location">{locationLabel}</span>
+        </div>
+        <div class="member-stance">
+          <StanceBadge stance={member.stance} />
+        </div>
+      </div>
+    </header>
+
+    <div class="detail-grid">
+      <div class="detail-main">
+        <!-- Stance Section -->
+        <section class="stance-section">
+          <h2>Impeachment Stance</h2>
+          <p class="stance-summary">{member.stanceSummary}</p>
+
+          {member.stanceSources.length > 0 && (
+            <div class="stance-sources">
+              <h4>Sources</h4>
+              <ul>
+                {member.stanceSources.map(source => (
+                  <li>
+                    <a href={source.url} target="_blank" rel="noopener noreferrer">{source.title}</a>
+                    {source.date && <span class="source-date">{source.date}</span>}
+                  </li>
+                ))}
+              </ul>
+            </div>
+          )}
+
+          {member.stanceUpdatedAt && (
+            <p class="stance-updated">Last updated: {member.stanceUpdatedAt}</p>
+          )}
+        </section>
+
+        <!-- Call Script -->
+        <CallScript
+          chamber={chamber}
+          stance={member.stance}
+          repName={member.lastName}
+          state={member.state}
+          district={member.district}
+        />
+      </div>
+
+      <div class="detail-sidebar">
+        <!-- Contact Card -->
+        <ContactCard
+          phone={member.phone}
+          email={member.email}
+          website={member.website}
+          officeAddress={member.officeAddress}
+          districtOffices={member.districtOffices}
+          twitter={member.twitter}
+          facebook={member.facebook}
+        />
+
+        <!-- Quick Action -->
+        {member.phone && (
+          <div class="quick-action">
+            <a href={`tel:${member.phone}`} class="call-btn">
+              Call Now: {member.phone}
+            </a>
+          </div>
+        )}
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .breadcrumb {
+    padding: var(--space-lg) 0 var(--space-md);
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+  }
+
+  .breadcrumb a {
+    color: var(--color-text-secondary);
+  }
+
+  .sep {
+    margin: 0 var(--space-xs);
+  }
+
+  .member-header {
+    display: flex;
+    gap: var(--space-xl);
+    align-items: flex-start;
+    padding: var(--space-lg) 0 var(--space-2xl);
+    border-bottom: 1px solid var(--color-border);
+    margin-bottom: var(--space-2xl);
+  }
+
+  .member-photo-wrap {
+    flex-shrink: 0;
+  }
+
+  .member-photo {
+    width: 120px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 8px;
+    border: 2px solid var(--color-border);
+    background: var(--color-bg-elevated);
+  }
+
+  .member-photo-fallback {
+    width: 120px;
+    height: 150px;
+    border-radius: 8px;
+    border: 2px solid var(--color-border);
+    background: var(--color-bg-elevated);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--color-text-muted);
+  }
+
+  .member-name {
+    font-size: 2rem;
+    margin-bottom: var(--space-xs);
+  }
+
+  .member-meta {
+    display: flex;
+    gap: var(--space-md);
+    align-items: center;
+    margin-bottom: var(--space-sm);
+  }
+
+  .member-party {
+    font-weight: 600;
+    font-size: 0.9rem;
+  }
+
+  .party-d { color: var(--color-democrat); }
+  .party-r { color: var(--color-republican); }
+  .party-i { color: var(--color-independent); }
+
+  .member-location {
+    color: var(--color-text-secondary);
+    font-size: 0.9rem;
+  }
+
+  .detail-grid {
+    display: grid;
+    grid-template-columns: 1fr 360px;
+    gap: var(--space-xl);
+    align-items: start;
+  }
+
+  .detail-main {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-xl);
+  }
+
+  .detail-sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: var(--space-lg);
+    position: sticky;
+    top: calc(var(--header-height) + var(--space-lg));
+  }
+
+  .stance-section {
+    background: var(--color-bg-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: var(--space-lg);
+  }
+
+  .stance-section h2 {
+    margin-bottom: var(--space-md);
+    font-size: 1.1rem;
+  }
+
+  .stance-summary {
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: var(--space-md);
+  }
+
+  .stance-sources h4 {
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: var(--space-xs);
+  }
+
+  .stance-sources ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .stance-sources li {
+    margin-bottom: var(--space-xs);
+    font-size: 0.9rem;
+  }
+
+  .source-date {
+    color: var(--color-text-muted);
+    font-size: 0.8rem;
+    margin-left: var(--space-sm);
+  }
+
+  .stance-updated {
+    color: var(--color-text-muted);
+    font-size: 0.75rem;
+    margin-top: var(--space-md);
+  }
+
+  .quick-action {
+    position: sticky;
+    bottom: var(--space-lg);
+  }
+
+  .call-btn {
+    display: block;
+    text-align: center;
+    padding: 0.875rem;
+    background: var(--color-accent);
+    color: #fff;
+    border-radius: 8px;
+    font-weight: 600;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: background 0.15s, transform 0.1s;
+  }
+
+  .call-btn:hover {
+    background: var(--color-accent-hover);
+    color: #fff;
+    text-decoration: none;
+    transform: translateY(-1px);
+  }
+
+  @media (max-width: 900px) {
+    .member-header {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    .member-meta {
+      justify-content: center;
+    }
+
+    .member-stance {
+      display: flex;
+      justify-content: center;
+    }
+
+    .detail-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .detail-sidebar {
+      position: static;
+    }
+
+    .member-name {
+      font-size: 1.5rem;
+    }
+  }
+</style>

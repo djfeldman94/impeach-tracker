@@ -1,0 +1,182 @@
+---
+import { STANCE_LABELS, type StanceCategory } from '../styles/colors';
+import callScriptsData from '../data/call-scripts.json';
+
+interface Props {
+  chamber: 'house' | 'senate' | 'governors';
+  stance: StanceCategory;
+  repName: string;
+  state: string;
+  district?: number | null;
+}
+
+const { chamber, stance, repName, state, district } = Astro.props;
+
+const chamberScripts = (callScriptsData as any)[chamber] || {};
+const stanceScript = chamberScripts[stance];
+
+if (!stanceScript) return;
+
+const repTitle = chamber === 'house' ? 'Representative' : chamber === 'senate' ? 'Senator' : 'Governor';
+const locationText = chamber === 'house' && district != null
+  ? `${state}'s ${district}${getOrdinal(district)} congressional district`
+  : state;
+
+function getOrdinal(n: number): string {
+  const s = ['th', 'st', 'nd', 'rd'];
+  const v = n % 100;
+  return s[(v - 20) % 10] || s[v] || s[0];
+}
+
+// Pre-fill the script template with known values
+const filledScript = stanceScript.script
+  .replace(/\{\{repTitle\}\}/g, repTitle)
+  .replace(/\{\{repName\}\}/g, repName)
+  .replace(/\{\{state\}\}/g, state)
+  .replace(/\{\{district\}\}/g, locationText);
+---
+
+<div class="call-script">
+  <h3>Sample Call Script</h3>
+  <p class="call-intro">
+    Call <strong>{repTitle} {repName}</strong> and let them know where you stand.
+    Fill in your name below and read the script.
+  </p>
+
+  <div class="script-box">
+    <label class="name-input-label" for="caller-name">Your name:</label>
+    <input
+      type="text"
+      id="caller-name"
+      class="name-input"
+      placeholder="Your name"
+      autocomplete="given-name"
+    />
+
+    <div class="script-text" id="script-text">
+      <p>{filledScript}</p>
+    </div>
+  </div>
+
+  {stanceScript.talkingPoints && stanceScript.talkingPoints.length > 0 && (
+    <div class="talking-points">
+      <h4>Talking Points</h4>
+      <ul>
+        {stanceScript.talkingPoints.map((point: string) => (
+          <li>{point}</li>
+        ))}
+      </ul>
+    </div>
+  )}
+</div>
+
+<script>
+  // Client-side: replace {{name}} placeholder with user input
+  const input = document.getElementById('caller-name') as HTMLInputElement;
+  const scriptEl = document.getElementById('script-text');
+
+  if (input && scriptEl) {
+    const original = scriptEl.innerHTML;
+
+    input.addEventListener('input', () => {
+      const name = input.value.trim() || '______';
+      scriptEl.innerHTML = original.replace(/\{\{name\}\}/g, `<strong>${name}</strong>`);
+    });
+
+    // Initialize with placeholder
+    scriptEl.innerHTML = original.replace(/\{\{name\}\}/g, '<strong>______</strong>');
+  }
+</script>
+
+<style>
+  .call-script {
+    background: var(--color-bg-surface);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    padding: var(--space-lg);
+  }
+
+  .call-script h3 {
+    margin-bottom: var(--space-sm);
+    font-size: 1.1rem;
+  }
+
+  .call-intro {
+    color: var(--color-text-secondary);
+    font-size: 0.9rem;
+    margin-bottom: var(--space-md);
+  }
+
+  .script-box {
+    background: var(--color-bg-elevated);
+    border-radius: 6px;
+    padding: var(--space-lg);
+  }
+
+  .name-input-label {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    margin-bottom: 4px;
+  }
+
+  .name-input {
+    width: 100%;
+    max-width: 300px;
+    padding: 8px 12px;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    background: var(--color-bg);
+    color: var(--color-text);
+    font-size: 0.95rem;
+    font-family: inherit;
+    margin-bottom: var(--space-md);
+  }
+
+  .name-input:focus {
+    outline: none;
+    border-color: var(--color-accent);
+  }
+
+  .script-text {
+    font-size: 1rem;
+    line-height: 1.7;
+    color: var(--color-text);
+  }
+
+  .script-text :global(strong) {
+    color: var(--color-accent);
+  }
+
+  .talking-points {
+    margin-top: var(--space-lg);
+    padding-top: var(--space-lg);
+    border-top: 1px solid var(--color-border);
+  }
+
+  .talking-points h4 {
+    font-size: 0.9rem;
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-sm);
+  }
+
+  .talking-points ul {
+    list-style: none;
+    padding: 0;
+  }
+
+  .talking-points li {
+    position: relative;
+    padding-left: 1.2em;
+    margin-bottom: var(--space-xs);
+    font-size: 0.9rem;
+    color: var(--color-text-secondary);
+  }
+
+  .talking-points li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--color-accent);
+  }
+</style>

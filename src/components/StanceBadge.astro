@@ -1,0 +1,52 @@
+---
+import { STANCE_COLORS, STANCE_LABELS, type StanceCategory } from '../styles/colors';
+
+interface Props {
+  stance: StanceCategory;
+  size?: 'sm' | 'md';
+}
+
+const { stance, size = 'md' } = Astro.props;
+const color = STANCE_COLORS[stance];
+const label = STANCE_LABELS[stance];
+---
+
+<span class:list={['stance-badge', `stance-badge--${size}`]} style={`--badge-color: ${color}`}>
+  <span class="stance-dot"></span>
+  {label}
+</span>
+
+<style>
+  .stance-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.375rem;
+    font-weight: 500;
+    border-radius: 9999px;
+    background: color-mix(in srgb, var(--badge-color) 15%, transparent);
+    color: var(--badge-color);
+    border: 1px solid color-mix(in srgb, var(--badge-color) 30%, transparent);
+  }
+
+  .stance-badge--md {
+    padding: 0.25rem 0.75rem;
+    font-size: 0.875rem;
+  }
+
+  .stance-badge--sm {
+    padding: 0.125rem 0.5rem;
+    font-size: 0.75rem;
+  }
+
+  .stance-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background: var(--badge-color);
+  }
+
+  .stance-badge--sm .stance-dot {
+    width: 6px;
+    height: 6px;
+  }
+</style>

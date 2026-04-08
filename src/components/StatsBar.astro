@@ -1,0 +1,107 @@
+---
+import { STANCE_COLORS, STANCE_LABELS, STANCE_CATEGORIES, type StanceCategory } from '../styles/colors';
+
+interface Props {
+  counts: Record<StanceCategory, number>;
+  total: number;
+  label: string;
+}
+
+const { counts, total, label } = Astro.props;
+---
+
+<div class="stats-bar" role="figure" aria-label={`${label} stance breakdown`}>
+  <h3 class="stats-label">{label}</h3>
+  <div class="stats-track">
+    {STANCE_CATEGORIES.map(cat => {
+      const count = counts[cat] || 0;
+      const pct = total > 0 ? (count / total) * 100 : 0;
+      if (pct === 0) return null;
+      return (
+        <div
+          class="stats-segment"
+          style={`width: ${pct}%; background: ${STANCE_COLORS[cat]}`}
+          title={`${STANCE_LABELS[cat]}: ${count}`}
+          role="meter"
+          aria-valuenow={count}
+          aria-valuemin={0}
+          aria-valuemax={total}
+          aria-label={`${STANCE_LABELS[cat]}: ${count} of ${total}`}
+        />
+      );
+    })}
+  </div>
+  <div class="stats-numbers">
+    {STANCE_CATEGORIES.map(cat => {
+      const count = counts[cat] || 0;
+      if (count === 0) return null;
+      return (
+        <span class="stats-item" style={`color: ${STANCE_COLORS[cat]}`}>
+          <span class="stats-count">{count}</span>
+          <span class="stats-cat-label">{STANCE_LABELS[cat]}</span>
+        </span>
+      );
+    })}
+  </div>
+</div>
+
+<style>
+  .stats-bar {
+    margin-bottom: var(--space-lg);
+  }
+
+  .stats-label {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-sm);
+  }
+
+  .stats-track {
+    display: flex;
+    height: 8px;
+    border-radius: 4px;
+    overflow: hidden;
+    background: var(--color-bg-elevated);
+    gap: 1px;
+  }
+
+  .stats-segment {
+    transition: width 0.3s ease;
+  }
+
+  .stats-numbers {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-md);
+    margin-top: var(--space-sm);
+  }
+
+  .stats-item {
+    display: flex;
+    align-items: baseline;
+    gap: 0.25rem;
+    font-size: 0.8rem;
+  }
+
+  .stats-count {
+    font-weight: 700;
+    font-size: 1rem;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .stats-cat-label {
+    opacity: 0.85;
+  }
+
+  @media (max-width: 600px) {
+    .stats-numbers {
+      gap: var(--space-sm);
+    }
+
+    .stats-cat-label {
+      display: none;
+    }
+  }
+</style>
