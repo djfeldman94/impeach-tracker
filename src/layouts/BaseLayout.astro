@@ -8,8 +8,9 @@ interface Props {
   description?: string;
 }
 
-const { title, description = 'Track the impeachment status of every representative, senator, and governor. Find where your rep stands and take action.' } = Astro.props;
-const siteTitle = `${title} | Impeachment Tracker`;
+const { title, description = 'Live impeachment tracker — see where every member of Congress stands on impeaching Trump. Find your rep, check their stance, and call them. Updated daily.' } = Astro.props;
+const siteTitle = title === 'Home' ? 'Impeachment Tracker — Does Your Rep Support Impeachment?' : `${title} | Impeachment Tracker`;
+const canonicalUrl = new URL(Astro.url.pathname, Astro.site);
 ---
 
 <!doctype html>
@@ -18,9 +19,21 @@ const siteTitle = `${title} | Impeachment Tracker`;
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
+    <meta name="keywords" content="impeachment, impeach Trump, impeachment status, impeachment tracker, impeachment live, impeachment results, does my rep support impeachment, call your representative, congress impeachment vote, 25th amendment, impeachment 2026" />
+    <link rel="canonical" href={canonicalUrl} />
+
+    <!-- Open Graph -->
     <meta property="og:title" content={siteTitle} />
     <meta property="og:description" content={description} />
     <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalUrl} />
+    <meta property="og:site_name" content="Impeachment Tracker" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={siteTitle} />
+    <meta name="twitter:description" content={description} />
+
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
