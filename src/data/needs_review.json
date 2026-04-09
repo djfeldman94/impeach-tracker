@@ -1505,5 +1505,16 @@
     "confidence": "medium",
     "summary": "Carol D. Miller is a Republican representative from West Virginia who was in Congress during previous Trump impeachment proceedings but has not taken a public stance on current impeachment efforts. No recent sources show her position on the latest calls for Trump's removal.",
     "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "GOV-MT",
+    "name": "Greg Gianforte",
+    "chamber": "governors",
+    "state": "MT",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "high",
+    "summary": "Greg Gianforte previously voted against impeaching Donald Trump during his time in the U.S. House, joining all Republican members in opposing impeachment. No recent sources from the last 48 hours show any current stance on new impeachment efforts.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
   }
 ]
