@@ -22,14 +22,14 @@ const needleAngle = decided > 0 ? ((1 - forCount / decided) * 180) - 90 : 0;
 
 // SVG arc parameters
 const cx = 150;
-const cy = 140;
-const r = 110;
+const cy = 130;
+const r = 100;
 ---
 
 <div class="dial-wrap">
   <h3 class="dial-label">{label}</h3>
   <div class="dial">
-    <svg viewBox="0 0 300 165" class="dial-svg">
+    <svg viewBox="0 0 300 180" class="dial-svg">
       <!-- Background arc -->
       <path
         d={`M ${cx - r} ${cy} A ${r} ${r} 0 0 1 ${cx + r} ${cy}`}
@@ -88,8 +88,8 @@ const r = 110;
       </g>
 
       <!-- Labels -->
-      <text x={cx - r + 5} y={cy + 20} class="dial-end-label" fill="#34a853">For</text>
-      <text x={cx + r - 5} y={cy + 20} class="dial-end-label dial-end-right" fill="#d32f2f">Against</text>
+      <text x={cx - r + 5} y={cy + 30} class="dial-end-label" fill="#34a853">For</text>
+      <text x={cx + r - 5} y={cy + 30} class="dial-end-label dial-end-right" fill="#d32f2f">Against</text>
     </svg>
 
     <div class="dial-stats">
@@ -150,7 +150,7 @@ const r = 110;
 
   .dial-stats {
     position: absolute;
-    bottom: 8px;
+    bottom: -4px;
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
