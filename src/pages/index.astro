@@ -61,6 +61,10 @@ const governorCounts = countStances(governors);
       <StatsBar counts={houseCounts} total={representatives.length} label="House of Representatives" />
       <StatsBar counts={senateCounts} total={senators.length} label="Senate" />
       <StatsBar counts={governorCounts} total={governors.length} label="Governors" />
+      <p class="data-disclaimer">
+        Stance classifications are determined using machine learning analysis of public sources and may not be fully accurate.
+        Found an error? <a href="https://github.com/djfeldman94/impeach-tracker/issues/new" target="_blank" rel="noopener noreferrer">Let us know.</a>
+      </p>
     </div>
   </section>
 
@@ -128,6 +132,13 @@ const governorCounts = countStances(governors);
   .stats-section {
     padding: var(--space-xl) 0;
     border-bottom: 1px solid var(--color-border);
+  }
+
+  .data-disclaimer {
+    margin-top: var(--space-md);
+    font-size: 0.8rem;
+    color: var(--color-text-muted);
+    text-align: center;
   }
 
   .map-section {

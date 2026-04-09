@@ -9,8 +9,19 @@
     "state": "AK",
     "fipsCode": "02",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No public statements found regarding Mike Dunleavy's position on Trump's impeachment related to the Iran conflict. Recent search results focus on Democratic calls for impeachment but do not mention any statements from the Alaska governor.",
+    "stanceSources": [
+      {
+        "title": "Trump Impeachment: Iran War Sparks Fresh Push as Poll Shows ...",
+        "url": "https://www.timesnownews.com/world/us/us-news/trump-impeachment-iran-war-democrats-push-approval-ratings-poll-article-154030441",
+        "date": "8 hours ago"
+      },
+      {
+        "title": "Democrats introduce impeachment articles against Trump and ...",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-impeachment-articles-25-amendment-b2953836.html",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(907) 465-3500",
     "email": null,
@@ -30,9 +41,20 @@
     "party": "R",
     "state": "AL",
     "fipsCode": "01",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Kay Ivey has publicly opposed efforts to remove President Trump from office through impeachment or the 25th Amendment, stating such efforts would be damaging to the country.",
+    "stanceSources": [
+      {
+        "title": "Gov. Kay Ivey opposes any effort to remove President Trump... - al.com",
+        "url": "https://www.al.com/news/2021/01/gov-kay-ivey-opposes-any-effort-to-remove-president-trump-from-office.html",
+        "date": ""
+      },
+      {
+        "title": "Ala. Gov. Kay Ivey speaks out against Pres. Trump impeachment...",
+        "url": "https://www.wtvm.com/2019/10/25/ala-gov-kay-ivey-speaks-out-against-pres-trump-impeachment-efforts/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(334) 242-7100",
     "email": null,
@@ -52,9 +74,15 @@
     "party": "R",
     "state": "AR",
     "fipsCode": "05",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Sarah Huckabee Sanders has publicly opposed impeachment efforts against Donald Trump, calling the Democrats' impeachment scheme a 'scam' and slamming Nancy Pelosi's drive to remove Trump from office.",
+    "stanceSources": [
+      {
+        "title": "SARAH SANDERS: 'Tomorrow Donald Trump Will Be... | Sean Hannity",
+        "url": "https://hannity.com/media-room/sarah-sanders-tomorrow-donald-trump-will-be-our-president-and-thank-god-for-that/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(501) 682-2345",
     "email": null,
@@ -75,8 +103,19 @@
     "state": "AZ",
     "fipsCode": "04",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information found about Katie Hobbs' stance on impeaching Donald Trump in any of the search results. Recent coverage focuses on her reelection prospects, working with the Trump administration on border security and Colorado River issues, but contains no mentions of impeachment.",
+    "stanceSources": [
+      {
+        "title": "Border governor says she'll work with Trump, but won't 'tolerate...",
+        "url": "https://thehill.com/homenews/state-watch/4998226-arizona-gov-katie-hobbs-trump/",
+        "date": ""
+      },
+      {
+        "title": "Gov. Katie Hobbs to Trump administration: Make a Colorado River deal",
+        "url": "https://www.kgun9.com/news/state/why-gov-katie-hobbs-wants-trump-administration-to-broker-colorado-river-deal",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(602) 542-4331",
     "email": null,
@@ -119,8 +158,19 @@
     "state": "CO",
     "fipsCode": "08",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent sources from the last 48 hours contain any information about Jared Polis's stance on impeaching Donald Trump. Recent coverage focuses on conflicts between Polis and Trump over federal cooperation and state issues, but does not mention impeachment.",
+    "stanceSources": [
+      {
+        "title": "Trump Is Mad at Jared Polis. Now He's Dismantling...",
+        "url": "https://www.notus.org/trump-white-house/trump-jared-polis-national-center-for-atmospheric-research",
+        "date": ""
+      },
+      {
+        "title": "Is Jared Polis normalizing our abnormal president?",
+        "url": "https://coloradosun.com/2025/01/29/jared-polis-trump-politics-opinion-littwin/",
+        "date": "2025-01-29"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(303) 866-2471",
     "email": null,
@@ -141,8 +191,19 @@
     "state": "CT",
     "fipsCode": "09",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "Ned Lamont has deliberately avoided taking a public position on Trump impeachment, preferring to keep distance from the topic while focusing on securing federal transportation funding for Connecticut.",
+    "stanceSources": [
+      {
+        "title": "When it comes to talking about impeaching President Trump, Gov....",
+        "url": "https://www.courant.com/2019/10/08/when-it-comes-to-talking-about-impeaching-president-trump-gov-lamont-would-rather-talk-about-roads/",
+        "date": "2019-10-08"
+      },
+      {
+        "title": "Lamont avoids impeachment talk with transportation funds on line",
+        "url": "https://www.ctpost.com/local/article/Lamont-avoids-impeachment-talk-with-14499939.php",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(860) 566-4840",
     "email": null,
@@ -163,8 +224,19 @@
     "state": "DE",
     "fipsCode": "10",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No evidence found of Governor Matt Meyer taking a public position on impeaching Trump over the Iran crisis, despite the widespread Democratic calls for removal in the last 48 hours.",
+    "stanceSources": [
+      {
+        "title": "Watch: Governor Meyer Responds to Trump... | PressReleasePoint",
+        "url": "https://www.pressreleasepoint.com/watch-governor-meyer-responds-trump-address-cnn-morning",
+        "date": ""
+      },
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US ...Ed Markey doubles down on calls to remove Trump from office ...Senators Call for Trump Impeachment After Iran Threat, Cite ...",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(302) 744-4101",
     "email": null,
@@ -185,8 +257,24 @@
     "state": "FL",
     "fipsCode": "12",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent sources show DeSantis taking a position on Trump impeachment. Recent results only show him calling for impeachment of a circuit judge and Biden, while renaming an airport after Trump, suggesting continued Trump support but no stance on Trump's own impeachment.",
+    "stanceSources": [
+      {
+        "title": "Florida Gov. Ron DeSantis calls for impeachment of circuit judge",
+        "url": "https://sandrarose.com/2026/04/florida-gov-ron-desantis-calls-for-impeachment-of-circuit-judge/",
+        "date": ""
+      },
+      {
+        "title": "DeSantis calls for Biden impeachment, denounces...",
+        "url": "https://flvoicenews.com/desantis-calls-for-biden-impeachment-denounces-trumps-impeachment/",
+        "date": ""
+      },
+      {
+        "title": "Ron DeSantis signs bill renaming Palm Beach airport... | The Guardian",
+        "url": "https://www.theguardian.com/us-news/2026/mar/30/donald-trump-palm-beach-airport-ron-desantis",
+        "date": "2026-03-30"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(850) 717-9337",
     "email": null,
@@ -207,8 +295,24 @@
     "state": "GA",
     "fipsCode": "13",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent sources from the last 48 hours contain any statements from Brian Kemp regarding impeachment of Donald Trump. While sources discuss his political future and past tensions with Trump over 2020 election claims, none mention his current position on impeachment.",
+    "stanceSources": [
+      {
+        "title": "GOP amps upTrumpimpeachmenttalk in midterm battle as... - AOL",
+        "url": "https://www.aol.com/gop-amps-trump-impeachment-talk-110051693.html",
+        "date": ""
+      },
+      {
+        "title": "BrianKempSurvivedTrump's Anger. Now He Wants to Shape...",
+        "url": "https://www.usnews.com/news/politics/articles/2026-01-15/brian-kemp-survived-trumps-anger-now-he-wants-to-shape-georgias-future",
+        "date": "2026-01-15"
+      },
+      {
+        "title": "Georgia GovernorBrianKempResponds To DA Fani Willis...",
+        "url": "https://conservativebrief.com/kemp-impeach-75823/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(404) 656-1776",
     "email": null,
@@ -229,8 +333,19 @@
     "state": "HI",
     "fipsCode": "15",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements or positions on Trump impeachment found in the last 48 hours. Recent coverage focuses on Green's predictions about 2028 politics and praise for Biden, but contains no specific stance on impeaching Trump.",
+    "stanceSources": [
+      {
+        "title": "Hawaii Gov.Green predicts Newsom won't satisfy... | AP News",
+        "url": "https://apnews.com/article/josh-green-gavin-newsom-2028-ff1a7a7bf776231d6db4beb61a4bbee7",
+        "date": ""
+      },
+      {
+        "title": "Gov Josh Green praises 'sharp' Biden for understanding complex...",
+        "url": "https://news.meaww.com/gov-josh-green-praises-sharp-joe-biden-for-understanding-complex-policies-internet-says-theres-no-evidence-of-that",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(808) 586-0034",
     "email": null,
@@ -251,8 +366,24 @@
     "state": "IA",
     "fipsCode": "19",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent information found about Kim Reynolds' stance on impeaching Donald Trump. The search results focus on calls to impeach Reynolds herself as Iowa Governor, her past relationship with Trump, and general impeachment discussions, but contain no evidence of her taking a position on Trump's impeachment.",
+    "stanceSources": [
+      {
+        "title": "Petition \u00b7IMPEACHMENTOF IOWA GOVERNORKIMREYNOLDS",
+        "url": "https://www.change.org/p/iowa-state-house-impeachment-of-iowa-govornorkim-reynolds",
+        "date": ""
+      },
+      {
+        "title": "Why is Iowa's governor having dinner with DonaldTrumpat...",
+        "url": "https://www.ktiv.com/2025/01/09/why-is-iowas-governor-having-dinner-with-donald-trump-mara-a-lago/",
+        "date": "2025-01-09"
+      },
+      {
+        "title": "PolitiFact | FollowingTrump's Iran social media post, could the 25th...",
+        "url": "https://www.politifact.com/article/2026/apr/06/Trump-Iran-Truth-Social-25th-Amendment-Vance/",
+        "date": "2026-04-06"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(515) 281-5211",
     "email": null,
@@ -273,8 +404,19 @@
     "state": "ID",
     "fipsCode": "16",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent results show Brad Little taking any stance on impeaching Donald Trump. The recent sources discuss Little being targeted for impeachment himself by Idaho lawmakers, and show him working with Trump administration officials on infrastructure projects.",
+    "stanceSources": [
+      {
+        "title": "East Idaho representative looks to impeach Governor Little",
+        "url": "https://www.kivitv.com/news/political/inside-the-statehouse/east-idaho-representative-looks-to-impeach-governor-little",
+        "date": ""
+      },
+      {
+        "title": "Trump Removes Barriers to Building Infrastructure in States",
+        "url": "https://www.dailysignal.com/2026/02/19/exclusive-trump-removes-barriers-to-building-infrastructure-in-states/",
+        "date": "2026-02-19"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(208) 334-2100",
     "email": null,
@@ -294,9 +436,20 @@
     "party": "D",
     "state": "IL",
     "fipsCode": "17",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "JB Pritzker has publicly called for Trump's removal from office following Trump's threats against Iran, specifically advocating for invoking the 25th Amendment as part of the recent wave of Democratic calls for removal.",
+    "stanceSources": [
+      {
+        "title": "What's the 25th Amendment? Pritzker calls for Trump removal",
+        "url": "https://www.usatoday.com/story/news/politics/2026/04/07/jb-pritzker-calls-for-25th-amendment-trump-removal-iran/89504688007/",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Nearly 100 Democrats now (on record) calling for Trump impeachment or removal by 25th amendment",
+        "url": "https://www.democraticunderground.com/100221158769",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(217) 782-0244",
     "email": null,
@@ -317,8 +470,19 @@
     "state": "IN",
     "fipsCode": "18",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No evidence found of Eric Holcomb taking any public position on Trump impeachment. Recent search results focus on unrelated issues like state governance and do not contain any statements about Trump's impeachment or removal.",
+    "stanceSources": [
+      {
+        "title": "Eric Holcomb's Political Stances on Major Issues",
+        "url": "https://eathealthy365.com/where-eric-holcomb-stands-on-key-issues/",
+        "date": ""
+      },
+      {
+        "title": "Gov. Eric Holcomb\u2013 The ELLIS Insight",
+        "url": "https://www.ellisinsight.com/tag/gov-eric-holcomb/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(317) 232-4567",
     "email": null,
@@ -339,8 +503,19 @@
     "state": "KS",
     "fipsCode": "20",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent information found about Derek Schmidt's stance on impeaching Donald Trump. Recent search results focus on his reelection filing and past work as Kansas Attorney General, with no mentions of current impeachment positions.",
+    "stanceSources": [
+      {
+        "title": "Derek Schmidt- Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Derek_Schmidt",
+        "date": ""
+      },
+      {
+        "title": "With Trump endorsement, Derek Schmidt files for reelection to... - AOL",
+        "url": "https://www.aol.com/articles/trump-endorsement-derek-schmidt-files-192356105.html",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(785) 296-3232",
     "email": null,
@@ -361,8 +536,19 @@
     "state": "KY",
     "fipsCode": "21",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements or positions found from Andy Beshear regarding Trump's impeachment or removal in relation to the Iran crisis. While nearly 100 Democrats have called for Trump's removal in the last 48 hours, Beshear is not mentioned among them.",
+    "stanceSources": [
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US ...Trump's Iran threats resonate even after ceasefire announcement",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Democrats call for Trump's removal over Iran - Spectrum News",
+        "url": "https://spectrumlocalnews.com/us/snplus/news/2026/04/08/trump-s-rhetoric-on-iran-conflict-sparks-major-wave-of-calls-for-his-removal-from-office-from-democrats",
+        "date": "5 hours ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(502) 564-2611",
     "email": null,
@@ -383,8 +569,19 @@
     "state": "LA",
     "fipsCode": "22",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent results contain any information about Jeff Landry's stance on impeaching Donald Trump. The search results focus on his appointment as Trump's special envoy to Greenland and his support for Kristi Noem, but contain no statements about impeachment proceedings against Trump.",
+    "stanceSources": [
+      {
+        "title": "Gov.Landry, with many ties to Kristi Noem, reacts to her ouster as...",
+        "url": "https://lailluminator.com/2026/03/05/landry-noem/",
+        "date": ""
+      },
+      {
+        "title": "Trump announces he's appointing Louisiana Gov. Jeff Landry to serve...",
+        "url": "https://apnews.com/article/trump-greenland-jeff-landry-envoy-louisiana-6babac895313a5ec65b5df79c7f86b45",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(225) 342-7015",
     "email": null,
@@ -405,8 +602,24 @@
     "state": "MA",
     "fipsCode": "25",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "Governor Maura Healey has been actively criticizing Trump and running against him in her reelection campaign, but no recent sources show her taking a specific stance on impeachment despite the reported massive shift in positions over the last 48 hours.",
+    "stanceSources": [
+      {
+        "title": "Healey targets Trump as she kicks off her reelection campaign",
+        "url": "https://www.boston.com/news/local-news/2026/01/20/healey-targets-trump-as-she-kicks-off-her-reelection-campaign/",
+        "date": ""
+      },
+      {
+        "title": "How I Fear Trump Will Unleash ICE to Rig Midterms: Governor Maura...",
+        "url": "https://www.thedailybeast.com/how-i-fear-trump-will-unleash-ice-to-rig-midterms-governor-maura-healey/",
+        "date": ""
+      },
+      {
+        "title": "Massachusetts Gov. Maura Healey doubles down stating President...",
+        "url": "https://fallriverreporter.com/massachusetts-gov-maura-healey-doubles-down-stating-president-donald-trump-will-try-to-steal-the-midterm-elections-predicts-violence/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(617) 725-4005",
     "email": null,
@@ -427,8 +640,24 @@
     "state": "MD",
     "fipsCode": "24",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent results contain any information about Wes Moore's stance on impeaching Trump. The available sources focus on their ongoing political feud over various policy issues and personal conflicts, but do not mention impeachment.",
+    "stanceSources": [
+      {
+        "title": "Gov.WesMooreonTrump: 'I Pray for Him and I Just Feel Bad for Him'",
+        "url": "https://www.usnews.com/news/politics/articles/2026-02-19/gov-wes-moore-on-trump-i-pray-for-him-and-i-just-feel-bad-for-him",
+        "date": "2026-02-19"
+      },
+      {
+        "title": "In feud withWesMoore,Trumpslings feces - POLITICO",
+        "url": "https://www.politico.com/news/2026/02/19/trump-fixates-on-sewage-a-favored-talking-point-in-fight-with-wes-moore-00786490",
+        "date": "2026-02-19"
+      },
+      {
+        "title": "WesMooreanswers DonaldTrump's dinner snub: 'Nah, I'm good....",
+        "url": "https://thedailyrecord.com/2026/02/16/trump-excludes-wes-moore-nga-white-house-meeting/",
+        "date": "2026-02-16"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(410) 974-3901",
     "email": null,
@@ -449,8 +678,19 @@
     "state": "ME",
     "fipsCode": "23",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent sources from the last 48 hours contain any statements from Janet Mills regarding Trump impeachment. While she has been a vocal Trump critic and is challenging for Senate, no specific impeachment position is documented.",
+    "stanceSources": [
+      {
+        "title": "Democratic Maine Gov. Janet Mills, a Trump critic, will challenge...",
+        "url": "https://www.adn.com/nation-world/2025/10/14/democratic-maine-gov-janet-mills-a-trump-critic-will-challenge-republican-susan-collins-for-us-senate/",
+        "date": "2025-10-14"
+      },
+      {
+        "title": "Janet Mills' ascension to leader of the Trump... | Maine Public",
+        "url": "https://www.mainepublic.org/politics/2025-02-26/janet-mills-ascension-to-leader-of-the-trump-resistance-was-years-in-the-making",
+        "date": "2025-02-26"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(207) 287-3531",
     "email": null,
@@ -471,8 +711,19 @@
     "state": "MI",
     "fipsCode": "26",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No evidence found of Gretchen Whitmer taking a position on Trump's impeachment. Recent sources show her defending meetings with Trump and facing criticism from fellow Democrats for appearing to cooperate with him, but contain no statements about impeachment.",
+    "stanceSources": [
+      {
+        "title": "A 'disaster':GretchenWhitmer's talk on tariffs and meeting with...",
+        "url": "https://www.nbcnews.com/politics/elections/disaster-gretchen-whitmers-talk-tariffs-meeting-trump-anger-fellow-dem-rcna200530",
+        "date": ""
+      },
+      {
+        "title": "Michigan Gov.WhitmerdefendsTrumpmeetings, underscoring...",
+        "url": "https://www.ms.now/top-stories/latest/gretchen-whitmer-trump-air-base-michigan-2028-rcna204497",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(517) 335-7858",
     "email": null,
@@ -492,9 +743,15 @@
     "party": "D",
     "state": "MN",
     "fipsCode": "27",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Tim Walz has publicly called for Trump's removal, stating 'The President Has Lost His Mind' in a viral tweet amid Trump's Iran threats, demonstrating clear support for removing Trump from office.",
+    "stanceSources": [
+      {
+        "title": "Donald Trump Just Threatened To End A Civilisation And Even...",
+        "url": "https://www.ibtimes.co.uk/donald-trump-just-threatened-end-civilisation-even-mtg-has-had-enough-1790812",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(651) 201-3400",
     "email": null,
@@ -515,8 +772,24 @@
     "state": "MO",
     "fipsCode": "29",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information found about Mike Kehoe's stance on impeaching Donald Trump. Recent search results focus entirely on his role in Trump-supported redistricting efforts and state tax policy initiatives.",
+    "stanceSources": [
+      {
+        "title": "Missouri Is Next To AnswerTrump's Call For... | HuffPost Latest News",
+        "url": "https://www.huffpost.com/entry/missouri-redistricting-redrawing-congressional-maps-republicans-2026-midterms_n_68b23b36e4b072bf6d64a24d",
+        "date": "Aug 29, 2025"
+      },
+      {
+        "title": "AtTrump's urging, Missouri jumps into redistricting race : NPR",
+        "url": "https://www.npr.org/2025/08/29/nx-s1-5522302/redistricting-trump-missouri-midterm-elections",
+        "date": ""
+      },
+      {
+        "title": "Kehoewants voters to decide fate of the Missouri income tax | STLPR",
+        "url": "https://www.stlpr.org/government-politics-issues/2026-01-13/missouri-govenor-mike-kehoe-state-state-2026",
+        "date": "2026-01-13"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(573) 751-3222",
     "email": null,
@@ -537,8 +810,24 @@
     "state": "MS",
     "fipsCode": "28",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements or positions found regarding Trump impeachment. Recent sources only discuss disaster declarations and historical rally appearances with Trump from 2019.",
+    "stanceSources": [
+      {
+        "title": "Official Website of Mississippi Governor Tate Reeves",
+        "url": "https://governorreeves.ms.gov/",
+        "date": ""
+      },
+      {
+        "title": "Trump attacks the impeachment inquiry during his Mississippi rally | Vox",
+        "url": "https://www.vox.com/policy-and-politics/2019/11/2/20944985/trump-impeachment-mississippi-rally-governors-race-tate-reeves",
+        "date": "2019-11-02"
+      },
+      {
+        "title": "At Trump rally in Tupelo, impeachment inquiry... - Mississippi Today",
+        "url": "https://mississippitoday.org/2019/11/01/at-trump-rally-in-tupelo-impeachment-inquiry-steals-spotlight-from-tate-reeves-and-governors-race/",
+        "date": "2019-11-01"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(601) 359-3150",
     "email": null,
@@ -558,9 +847,20 @@
     "party": "R",
     "state": "MT",
     "fipsCode": "30",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Greg Gianforte voted against impeaching Donald Trump, joining with all Republican members of his party in opposing impeachment. Multiple recent sources confirm he indicated he would vote against Trump's impeachment.",
+    "stanceSources": [
+      {
+        "title": "Gianforte votes against impeachment",
+        "url": "https://billingsgazette.com/news/state-and-regional/govt-and-politics/gianforte-votes-against-impeachment/article_466bebb9-fc66-5c40-85f4-aa7f937c55bc.html",
+        "date": ""
+      },
+      {
+        "title": "Gianforte, Cheney say they're against Trump impeachment",
+        "url": "https://www.ktvq.com/gianforte-cheney-say-theyre-against-trump-impeachment",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(406) 444-3111",
     "email": null,
@@ -581,8 +881,19 @@
     "state": "NC",
     "fipsCode": "37",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No specific statements or positions from Josh Stein regarding Trump's impeachment over the Iran conflict have been found in the recent search results, despite widespread Democratic calls for removal in the last 48 hours.",
+    "stanceSources": [
+      {
+        "title": "Democrats call for Trump's removal over Iran - Spectrum News",
+        "url": "https://spectrumlocalnews.com/us/snplus/news/2026/04/08/trump-s-rhetoric-on-iran-conflict-sparks-major-wave-of-calls-for-his-removal-from-office-from-democrats",
+        "date": "5 hours ago"
+      },
+      {
+        "title": "Trump's Iran Threats Spark Bipartisan Backlash - Crockett Today",
+        "url": "https://nationaltoday.com/us/tx/crockett/news/2026/04/08/trumps-iran-threats-spark-bipartisan-backlash/",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(984) 236-1000",
     "email": null,
@@ -602,9 +913,25 @@
     "party": "R",
     "state": "ND",
     "fipsCode": "38",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Kelly Armstrong has consistently voted against Trump impeachment proceedings and sits on the Judiciary Committee where he agrees with Trump that the impeachment process has been unfair. He has characterized impeachment hearings as 'burning up time' and a waste given upcoming elections.",
+    "stanceSources": [
+      {
+        "title": "KX Conversation: Rep.KellyArmstrongon the House's second...",
+        "url": "https://www.kxnet.com/news/local-news/kx-conversation-rep-kelly-armstrong-on-the-houses-second-impeachment-of-trump/",
+        "date": ""
+      },
+      {
+        "title": "ND Rep.KellyArmstrongreacts toTrumpimpeachmentmove",
+        "url": "https://www.kfyrtv.com/content/news/Armstrong-reacts-to-impeachment-move-565533551.html",
+        "date": ""
+      },
+      {
+        "title": "Rep.KellyArmstrong:Impeachmenthearings 'burning up time'",
+        "url": "https://www.grandforksherald.com/news/rep-kelly-armstrong-impeachment-hearings-burning-up-time",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(701) 328-2200",
     "email": null,
@@ -625,8 +952,19 @@
     "state": "NE",
     "fipsCode": "31",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information found about Jim Pillen's stance on impeaching Donald Trump in any of the search results, which focus on his gubernatorial activities, reelection campaign, and collaboration with Trump on electoral matters.",
+    "stanceSources": [
+      {
+        "title": "Jim Pillen - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Jim_Pillen",
+        "date": ""
+      },
+      {
+        "title": "Donald Trump teams up with Nebraska Governor Jim Pillen to plot...",
+        "url": "https://www.dailymail.co.uk/news/article-13268501/donald-trump-nebraska-jim-pillen-electoral-vote-2024.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(402) 471-2244",
     "email": null,
@@ -647,8 +985,19 @@
     "state": "NH",
     "fipsCode": "33",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements or positions found regarding Kelly Ayotte's stance on the current impeachment efforts against Trump over Iran policy, despite the massive Democratic push in the last 48 hours.",
+    "stanceSources": [
+      {
+        "title": "Democrats introduce impeachment articles against Trump and ...Nearly 100 Democrats now (on record) calling for Trump ...",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-impeachment-articles-25-amendment-b2953836.html",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Kelly Ayotte affirms support for Trump| CloseUp - YouTube",
+        "url": "https://www.youtube.com/watch?v=F9NkZ5AYEhE",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(603) 271-2121",
     "email": null,
@@ -668,9 +1017,20 @@
     "party": "D",
     "state": "NJ",
     "fipsCode": "34",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Phil Murphy has publicly stated that President Trump should be immediately removed from office by any means possible, and when asked directly if he would vote to impeach Trump if he were in the House, he indicated support for impeachment.",
+    "stanceSources": [
+      {
+        "title": "Impeachment news: House introduces article against Trump for...",
+        "url": "https://web.archive.org/web/20210111212705/https://www.inquirer.com/politics/live/house-impeachment-trump-pelosi-capitol-riot-20210111.html",
+        "date": ""
+      },
+      {
+        "title": "Schumer Calls for Trump's Immediate Removal From Office; NY, NJ...",
+        "url": "https://www.nbcnewyork.com/news/local/protesters-to-gather-in-nyc-as-congress-set-to-confirm-joe-biden-as-president/2814374/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(609) 292-6000",
     "email": null,
@@ -691,8 +1051,24 @@
     "state": "NM",
     "fipsCode": "35",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information found about Michelle Lujan Grisham's stance on impeaching Donald Trump. The search results focus on impeachment efforts against her as New Mexico Governor, not her position on Trump's impeachment.",
+    "stanceSources": [
+      {
+        "title": "MichelleLujanGrisham- Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Michelle_Lujan_Grisham",
+        "date": ""
+      },
+      {
+        "title": "New Mexico lawmakers call forimpeachmentof Gov.MichelleLujan...",
+        "url": "https://www.youtube.com/watch?v=J4LrjRR9tjg",
+        "date": ""
+      },
+      {
+        "title": "MichelleLujanGrishamimpeachmentresolution... | Washington Times",
+        "url": "https://www.washingtontimes.com/news/2024/jan/17/michelle-lujan-grisham-impeachment-resolution-file/",
+        "date": "2024-01-17"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(505) 476-2200",
     "email": null,
@@ -713,8 +1089,19 @@
     "state": "NV",
     "fipsCode": "32",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "Joe Lombardo has remained silent on Trump impeachment, with recent sources showing him avoiding taking a public position on January 6 pardons and maintaining distance from Trump-related controversies while focusing on state governance issues.",
+    "stanceSources": [
+      {
+        "title": "Lombardo Lowlights: Joe Lombardo Silent on Jan 6 Pardons...",
+        "url": "https://nvdems.com/lombardo-lowlights-joe-lombardo-silent-on-jan-6-pardons-proposes-unbalanced-budget/",
+        "date": ""
+      },
+      {
+        "title": "IndyTalks: Lombardo pushes against... - The Nevada Independent",
+        "url": "https://thenevadaindependent.com/article/indytalks-lombardo-pushes-against-nationalizing-elections-calls-it-state-issue",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(775) 684-5670",
     "email": null,
@@ -734,9 +1121,20 @@
     "party": "D",
     "state": "NY",
     "fipsCode": "36",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Kathy Hochul is actively calling for the impeachment of Trump administration officials, specifically demanding the resignation, firing, or impeachment of Homeland Security Secretary Kristi Noem and Border Patrol chief Greg Bovino, and has vowed legal action against Trump admin officials.",
+    "stanceSources": [
+      {
+        "title": "WATCH: New York Gov.KathyHochulCalls for Noem to Be Fired...",
+        "url": "https://www.thegatewaypundit.com/2026/01/watch-new-york-gov-kathy-hochul-calls-noem/",
+        "date": ""
+      },
+      {
+        "title": "Hochuldemandsremovalof Noem, Border Patrol's Bovino",
+        "url": "https://nypost.com/2026/01/25/us-news/hochul-demands-removal-of-noem-border-patrols-bovino/",
+        "date": "2026-01-25"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(518) 474-8390",
     "email": null,
@@ -757,8 +1155,24 @@
     "state": "OH",
     "fipsCode": "39",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent results show Mike DeWine taking any position on Trump impeachment. The search results focus on DeWine facing his own impeachment calls from GOP members and his disagreements with Trump on issues like Haitian TPS, but contain no evidence of DeWine's stance on impeaching Trump.",
+    "stanceSources": [
+      {
+        "title": "OH Gov. DeWine: Trump Removing Temporary Protected Status for...",
+        "url": "https://www.breitbart.com/clips/2026/02/22/oh-gov-dewine-trump-removing-temporary-protected-status-for-haitians-is-wrong/",
+        "date": "2026-02-22"
+      },
+      {
+        "title": "Political leaders decry call for DeWine impeachment- WFMJ.com",
+        "url": "https://www.wfmj.com/story/42536076/political-leaders-decry-call-for-dewine-impeachment",
+        "date": ""
+      },
+      {
+        "title": "Gov. DeWine condemns GOP impeachment calls",
+        "url": "https://www.wcpo.com/news/government/state-government/ohio-state-government-news/bad-idea-ohio-gov-mike-dewine-condemns-gops-call-for-supreme-court-justice-removal?obOrigUrl=true",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(614) 466-3555",
     "email": null,
@@ -779,8 +1193,19 @@
     "state": "OK",
     "fipsCode": "40",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent results from the last 48 hours contain any information about Kevin Stitt's stance on impeaching Donald Trump. The recent coverage focuses on Trump's criticism of Stitt as a 'RINO' and their political feud, but does not mention any impeachment position.",
+    "stanceSources": [
+      {
+        "title": "Donald Trump blasts Oklahoma Gov. Kevin Stitt... | Washington Times",
+        "url": "https://www.washingtontimes.com/news/2026/feb/12/donald-trump-blasts-oklahoma-gov-kevin-stitt-republican-nga-meeting/",
+        "date": "2026-02-12"
+      },
+      {
+        "title": "Trump continues to lash out at 'RINO' GOP Gov. Kevin Stitt",
+        "url": "https://www.politico.com/news/2026/02/12/trump-attack-kevin-stitt-00778506",
+        "date": "2026-02-12"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(405) 521-2342",
     "email": null,
@@ -801,8 +1226,24 @@
     "state": "OR",
     "fipsCode": "41",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No evidence found of Governor Tina Kotek taking any public position on Trump impeachment. Recent sources show her opposing Trump's federal troop deployment to Portland and announcing her 2026 re-election bid, but contain no statements about impeachment or removal efforts.",
+    "stanceSources": [
+      {
+        "title": "Portland 'not a military target,' governor tells Trump as federal troop...",
+        "url": "https://portlandtribune.com/2025/09/27/portland-not-a-military-target-governor-tells-trump-as-federal-troop-orders-spark-backlash/",
+        "date": ""
+      },
+      {
+        "title": "Oregon Gov. Tina Kotek formally announces Thursday she will seek...",
+        "url": "https://lincolnchronicle.org/oregon-gov-tina-kotek-formally-announces-thursday-she-will-seek-re-election-in-2026/",
+        "date": ""
+      },
+      {
+        "title": "Democrat Oregon Governor Tina Kotek Claims Portland is...",
+        "url": "https://www.thegatewaypundit.com/2025/09/democrat-oregon-governor-tina-kotek-claims-portland-is/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(503) 378-4582",
     "email": null,
@@ -823,8 +1264,19 @@
     "state": "PA",
     "fipsCode": "42",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No specific impeachment stance found in recent sources. Shapiro has criticized Trump's goals as dictatorial and spoken about resisting Trump policies, but has not made explicit statements about impeachment or removal.",
+    "stanceSources": [
+      {
+        "title": "Gov. Josh Shapiro: Trump's goal, from Minneapolis to Venezuela, is to 'dictate' in a 'facade of strength'",
+        "url": "https://www.arcamax.com/currentnews/newsheadlines/s-3991593",
+        "date": "Jan 25, 2026"
+      },
+      {
+        "title": "Pennsylvania democratic Governor Josh Shapiro on resisting Trump",
+        "url": "https://www.npr.org/2026/01/27/nx-s1-5690250/pennsylvania-democratic-governor-josh-shapiro-on-resisting-trump",
+        "date": "Jan 27, 2026"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(717) 787-2500",
     "email": null,
@@ -845,8 +1297,19 @@
     "state": "RI",
     "fipsCode": "44",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No public position on Trump impeachment found in recent search results. McKee appears focused on state-level issues like the Washington Bridge rebuild and opposing Trump administration policies through lawsuits rather than commenting on impeachment.",
+    "stanceSources": [
+      {
+        "title": "Rhode Island Gov. Dan McKee on Trump... - TPR: The Public's Radio",
+        "url": "https://thepublicsradio.org/political-roundtable/rhode-island-gov-dan-mckee-on-trump-ris-economy-washington-bridge-more/",
+        "date": ""
+      },
+      {
+        "title": "Bad Polling Continues to Dog McKee, Putting... - Ocean State Media",
+        "url": "https://www.oceanstatemedia.org/politics/bad-polling-continues-to-dog-mckee-putting-pressure-on-his-washington-bridge-rebuild-plan",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(401) 222-2080",
     "email": null,
@@ -866,9 +1329,20 @@
     "party": "R",
     "state": "SC",
     "fipsCode": "45",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Henry McMaster said Thursday he does not support Donald Trump's removal from office and rejects calls for Trump's removal, indicating clear opposition to impeachment efforts.",
+    "stanceSources": [
+      {
+        "title": "Gov.McMasterrejects calls forTrump'sremovalfrom office",
+        "url": "https://www.islandpacket.com/news/politics-government/article248338420.html",
+        "date": ""
+      },
+      {
+        "title": "'This IsTrumpCountry': South Carolina Gov.HenryMcMasterHits...",
+        "url": "https://www.youtube.com/watch?v=tPAOW8PtFD8",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(803) 734-2100",
     "email": null,
@@ -889,8 +1363,24 @@
     "state": "SD",
     "fipsCode": "46",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "Governor Larry Rhoden has maintained a supportive relationship with Trump, recently telling farmers to trust Trump's tariffs and accepting invitations to Washington DC events. However, no statements found regarding his position on the recent impeachment push over Iran conflict.",
+    "stanceSources": [
+      {
+        "title": "Gov. Rhoden tells farmers to trust Trump's ag tariffs",
+        "url": "https://www.keloland.com/keloland-com-original/gov-rhoden-tells-farmers-to-trust-trumps-ag-tariffs/",
+        "date": ""
+      },
+      {
+        "title": "Governor Larry Rhoden is set to depart to Washington DC for his...",
+        "url": "https://www.kotatv.com/video/2026/02/14/we-have-standing-invite-rhoden-looks-follow-up-trump-invite-rushmore-fireworks-show/",
+        "date": "2026-02-14"
+      },
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US president can be removed",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(605) 773-3212",
     "email": null,
@@ -911,8 +1401,19 @@
     "state": "TN",
     "fipsCode": "47",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent information found regarding Bill Lee's stance on Trump impeachment. Recent search results focus on other political topics like school vouchers and drag legislation, with no mention of Lee's position on impeachment matters.",
+    "stanceSources": [
+      {
+        "title": "Tennessee Gov. Bill Lee Gonna Ban All The Drag, 'Cause That's The...",
+        "url": "https://www.wonkette.com/p/bill-lee-tennessee-drag",
+        "date": ""
+      },
+      {
+        "title": "Tennessee Republicans Remove President Trump's House Pick...",
+        "url": "https://www.thegatewaypundit.com/2022/04/tennessee-republicans-remove-president-trumps-house-pick-ortagus-robbie-starbuck-states-primary-ballot/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(615) 741-2001",
     "email": null,
@@ -955,8 +1456,24 @@
     "state": "UT",
     "fipsCode": "49",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information found about Spencer Cox's stance on impeaching Donald Trump in the recent search results, which focus on political violence concerns, bipartisan cooperation events, and his relationship with Trump but do not mention impeachment.",
+    "stanceSources": [
+      {
+        "title": "Utah Gov. Spencer Cox Calls To Lower Temperature - YouTube",
+        "url": "https://www.youtube.com/watch?v=AdxeHhcPo0s",
+        "date": ""
+      },
+      {
+        "title": "Trump Has a Warning for Spencer Cox",
+        "url": "https://www.aol.com/articles/trump-warning-spencer-cox-140300802.html",
+        "date": ""
+      },
+      {
+        "title": "Govs. Stitt, Moore and Cox address disagreement with President...",
+        "url": "https://www.deseret.com/politics/2026/02/18/spencer-cox-disagree-better-pew-research-washington/",
+        "date": "2026-02-18"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(801) 538-1000",
     "email": null,
@@ -977,8 +1494,14 @@
     "state": "VA",
     "fipsCode": "51",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "Glenn Youngkin has not taken a public position on the recent impeachment efforts against Trump over Iran policy. The only recent mention shows him defending Trump's federal spending policies without addressing impeachment calls.",
+    "stanceSources": [
+      {
+        "title": "Glenn Youngkin fails to stand up to Trump as federal cuts threaten...",
+        "url": "https://www.ms.now/rachel-maddow-show/maddowblog/trump-federal-purge-virginia-glenn-youngkin-rcna192829",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(804) 786-2211",
     "email": null,
@@ -998,9 +1521,30 @@
     "party": "R",
     "state": "VT",
     "fipsCode": "50",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Vermont GOP Governor Phil Scott has called for Trump's removal from office and supports impeachment proceedings, stating that Trump 'orchestrated a campaign to cause an insurrection' and that Congress has a 'solemn responsibility' to fulfill its role in impeachment proceedings.",
+    "stanceSources": [
+      {
+        "title": "Vermont Gov.PhilScottsaysTrumpimpeachmentinquiry is...",
+        "url": "https://www.news10.com/news/vermont-gov-phil-scott-says-trump-impeachment-inquiry-is-appropriate/",
+        "date": ""
+      },
+      {
+        "title": "Vermont GOP governor backsTrumpimpeachmentinquiry: 'These...",
+        "url": "https://www.wral.com/vermont-gop-governor-backs-trump-impeachment-inquiry-these-are-serious-allegations/18660642/",
+        "date": ""
+      },
+      {
+        "title": "Calls increase forTrump'sremoval| The Canberra Times",
+        "url": "https://www.canberratimes.com.au/story/7078006/calls-increase-for-trumps-removal/",
+        "date": ""
+      },
+      {
+        "title": "Lawmakers Call ToImpeachTrump, Accuse Him Of Inciting Capitol Riot",
+        "url": "https://www.huffingtonpost.co.uk/entry/democrats-call-to-impeach-trump-accuse-him-of-inciting-capitol-riot_n_5ff63c5ec5b64e568bf3c9af?ri18n=true",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(802) 828-3333",
     "email": null,
@@ -1021,8 +1565,19 @@
     "state": "WA",
     "fipsCode": "53",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent sources show Bob Ferguson taking any position on impeaching Donald Trump. The most recent results focus on his budget priorities as governor, his resistance to Trump administration policies on immigration, and an unrelated impeachment inquiry against Ferguson himself.",
+    "stanceSources": [
+      {
+        "title": "WA 'will not be bullied or intimidated,' Ferguson tells Bondi...",
+        "url": "https://washingtonstatestandard.com/2025/08/19/wa-will-not-be-bullied-or-intimidated-ferguson-tells-bondi/",
+        "date": "2025-08-19"
+      },
+      {
+        "title": "Op-Ed: We Need a Bolder Bob Ferguson as Governor \u00bb The Urbanist",
+        "url": "https://www.theurbanist.org/op-ed-need-a-bolder-bob-ferguson/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(360) 902-4111",
     "email": null,
@@ -1043,8 +1598,19 @@
     "state": "WI",
     "fipsCode": "55",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "Tony Evers has explicitly stated he won't weigh in on Trump impeachment, saying that decision isn't his call. While he has opposed Trump policies through lawsuits, he has avoided taking a public position on impeachment itself.",
+    "stanceSources": [
+      {
+        "title": "Evers Won't Weigh In On Trump Impeachment - WPR",
+        "url": "https://www.wpr.org/politics/evers-wont-weigh-trump-impeachment",
+        "date": ""
+      },
+      {
+        "title": "Gov. Tony Evers shares support for Minnesota after lawsuit filing...",
+        "url": "https://www.wmtv15news.com/2026/01/26/gov-tony-evers-shares-support-minnesota-after-lawsuit-filing-against-trump-administration/",
+        "date": "2026-01-26"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(608) 266-1212",
     "email": null,
@@ -1064,9 +1630,25 @@
     "party": "R",
     "state": "WV",
     "fipsCode": "54",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Patrick Morrisey has consistently defended Trump, recently blasting left-wing efforts to blame Trump for incidents and actively supporting Trump's political agenda. He filed legal interventions to keep Trump on ballots and has been endorsed by Trump himself.",
+    "stanceSources": [
+      {
+        "title": "WV Gov. Patrick Morrisey blasts left's disrespectful attempt to blame Trump for national guard attack as outrageous",
+        "url": "https://thedailybs.com/2025/11/30/wv-gov-patrick-morrisey-blasts-lefts-disrespectful-attempt-to-blame-trump-for-national-guard-attack-as-outrageous/",
+        "date": ""
+      },
+      {
+        "title": "Morrisey files to intervene in lawsuit that seeks to have Trump... - AOL",
+        "url": "https://www.aol.com/sports/morrisey-files-intervene-lawsuit-seeks-115000301.html",
+        "date": ""
+      },
+      {
+        "title": "President Trump visits Wheeling in campaign rally for Patrick Morrisey",
+        "url": "https://wtov9.com/news/local/president-trump-visits-wheeling",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(304) 558-2000",
     "email": null,
@@ -1087,8 +1669,24 @@
     "state": "WY",
     "fipsCode": "56",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No public statements or positions found from Governor Mark Gordon regarding the recent calls for Trump's impeachment over Iran threats. The recent sources focus on Democratic lawmakers and general Republican responses, but do not mention Gordon specifically.",
+    "stanceSources": [
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US ...Trump's Iran Threats Spark Bipartisan Backlash - Crockett Today",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Trump's Iran Threats Spark Bipartisan Backlash - Crockett Today",
+        "url": "https://nationaltoday.com/us/tx/crockett/news/2026/04/08/trumps-iran-threats-spark-bipartisan-backlash/",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Democrats call for Trump's removal over Iran - Spectrum News",
+        "url": "https://spectrumlocalnews.com/us/snplus/news/2026/04/08/trump-s-rhetoric-on-iran-conflict-sparks-major-wave-of-calls-for-his-removal-from-office-from-democrats",
+        "date": "5 hours ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "(307) 777-7434",
     "email": null,

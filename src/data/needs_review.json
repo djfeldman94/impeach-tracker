@@ -504,5 +504,16 @@
     "confidence": "low",
     "summary": "DelBene has supported impeachment of Donald Trump, as indicated by the ACLU legislative scorecard which tracks her position on 'Impeaching Donald John Trump, President of the United States, for high crimes and misdemeanors.'",
     "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "GOV-ND",
+    "name": "Kelly Armstrong",
+    "chamber": "governors",
+    "state": "ND",
+    "district": null,
+    "classified_stance": "publicly-opposes",
+    "confidence": "low",
+    "summary": "Kelly Armstrong has consistently voted against Trump impeachment proceedings and sits on the Judiciary Committee where he agrees with Trump that the impeachment process has been unfair. He has characterized impeachment hearings as 'burning up time' and a waste given upcoming elections.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
   }
 ]
