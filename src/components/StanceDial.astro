@@ -78,11 +78,11 @@ const r = 90;
       <text x={cx - r + 5} y={cy + 35} class="dial-end-label" fill="#d32f2f">Against</text>
       <text x={cx + r - 5} y={cy + 35} class="dial-end-label dial-end-right" fill="#34a853">For</text>
     </svg>
+  </div>
 
-    <div class="dial-stats">
-      <div class="dial-pct">{Math.round(forPct)}%</div>
-      <div class="dial-pct-label">in favor</div>
-    </div>
+  <div class="dial-stats">
+    <div class="dial-pct">{Math.round(forPct)}%</div>
+    <div class="dial-pct-label">in favor</div>
   </div>
 
   <div class="dial-counts">
@@ -136,11 +136,8 @@ const r = 90;
   }
 
   .dial-stats {
-    position: absolute;
-    bottom: -8px;
-    left: 50%;
-    transform: translateX(-50%);
     text-align: center;
+    margin-top: -8px;
   }
 
   .dial-pct {
