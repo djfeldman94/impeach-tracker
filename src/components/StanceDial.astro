@@ -17,8 +17,8 @@ const undecided = total - forCount - againstCount;
 const decided = forCount + againstCount;
 const forPct = decided > 0 ? (forCount / decided) * 100 : 50;
 
-// Needle angle: -90deg (full for) to +90deg (full against), 0 = center
-const needleAngle = decided > 0 ? ((1 - forCount / decided) * 180) - 90 : 0;
+// Needle angle: -90deg (full against) to +90deg (full for), 0 = center
+const needleAngle = decided > 0 ? ((forCount / decided) * 180) - 90 : 0;
 
 // SVG arc parameters
 const cx = 150;
@@ -39,21 +39,21 @@ const r = 90;
         stroke-linecap="round"
       />
 
-      <!-- Green arc (for) -->
+      <!-- Red arc (against — left side) -->
       <path
         d={`M ${cx - r} ${cy} A ${r} ${r} 0 0 1 ${cx} ${cy - r}`}
         fill="none"
-        stroke="#34a853"
+        stroke="#d32f2f"
         stroke-width="24"
         stroke-linecap="round"
         opacity="0.3"
       />
 
-      <!-- Red arc (against) -->
+      <!-- Green arc (for — right side) -->
       <path
         d={`M ${cx} ${cy - r} A ${r} ${r} 0 0 1 ${cx + r} ${cy}`}
         fill="none"
-        stroke="#d32f2f"
+        stroke="#34a853"
         stroke-width="24"
         stroke-linecap="round"
         opacity="0.3"
@@ -75,8 +75,8 @@ const r = 90;
       </g>
 
       <!-- Labels -->
-      <text x={cx - r + 5} y={cy + 35} class="dial-end-label" fill="#34a853">For</text>
-      <text x={cx + r - 5} y={cy + 35} class="dial-end-label dial-end-right" fill="#d32f2f">Against</text>
+      <text x={cx - r + 5} y={cy + 35} class="dial-end-label" fill="#d32f2f">Against</text>
+      <text x={cx + r - 5} y={cy + 35} class="dial-end-label dial-end-right" fill="#34a853">For</text>
     </svg>
 
     <div class="dial-stats">
