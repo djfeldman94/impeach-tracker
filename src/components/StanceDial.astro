@@ -1,0 +1,211 @@
+---
+import type { StanceCategory } from '../styles/colors';
+
+interface Props {
+  counts: Record<StanceCategory, number>;
+  total: number;
+  label: string;
+}
+
+const { counts, total, label } = Astro.props;
+
+const forCount = (counts['cosponsor'] || 0) + (counts['publicly-supports'] || 0) + (counts['leaning-support'] || 0);
+const againstCount = (counts['publicly-opposes'] || 0) + (counts['leaning-oppose'] || 0);
+const undecided = total - forCount - againstCount;
+
+// Percentage of decided members who are "for"
+const decided = forCount + againstCount;
+const forPct = decided > 0 ? (forCount / decided) * 100 : 50;
+
+// Needle angle: -90deg (full for) to +90deg (full against), 0 = center
+const needleAngle = decided > 0 ? ((1 - forCount / decided) * 180) - 90 : 0;
+
+// SVG arc parameters
+const cx = 150;
+const cy = 140;
+const r = 110;
+---
+
+<div class="dial-wrap">
+  <h3 class="dial-label">{label}</h3>
+  <div class="dial">
+    <svg viewBox="0 0 300 165" class="dial-svg">
+      <!-- Background arc -->
+      <path
+        d={`M ${cx - r} ${cy} A ${r} ${r} 0 0 1 ${cx + r} ${cy}`}
+        fill="none"
+        stroke="#1c2128"
+        stroke-width="24"
+        stroke-linecap="round"
+      />
+
+      <!-- Green arc (for) -->
+      <path
+        d={`M ${cx - r} ${cy} A ${r} ${r} 0 0 1 ${cx} ${cy - r}`}
+        fill="none"
+        stroke="#34a853"
+        stroke-width="24"
+        stroke-linecap="round"
+        opacity="0.3"
+      />
+
+      <!-- Red arc (against) -->
+      <path
+        d={`M ${cx} ${cy - r} A ${r} ${r} 0 0 1 ${cx + r} ${cy}`}
+        fill="none"
+        stroke="#d32f2f"
+        stroke-width="24"
+        stroke-linecap="round"
+        opacity="0.3"
+      />
+
+      <!-- Tick marks -->
+      {[...Array(9)].map((_, i) => {
+        const angle = (i * 22.5) - 90;
+        const rad = angle * Math.PI / 180;
+        const x1 = cx + (r - 16) * Math.cos(rad);
+        const y1 = cy + (r - 16) * Math.sin(rad);
+        const x2 = cx + (r + 16) * Math.cos(rad);
+        const y2 = cy + (r + 16) * Math.sin(rad);
+        return (
+          <line x1={x1} y1={y1} x2={x2} y2={y2} stroke="#30363d" stroke-width="1.5" />
+        );
+      })}
+
+      <!-- Needle -->
+      <g transform={`rotate(${needleAngle}, ${cx}, ${cy})`}>
+        <line
+          x1={cx}
+          y1={cy}
+          x2={cx}
+          y2={cy - r + 8}
+          stroke="#e6edf3"
+          stroke-width="2.5"
+          stroke-linecap="round"
+        />
+        <circle cx={cx} cy={cy} r="6" fill="#e6edf3" />
+        <circle cx={cx} cy={cy} r="3" fill="#0d1117" />
+      </g>
+
+      <!-- Labels -->
+      <text x={cx - r + 5} y={cy + 20} class="dial-end-label" fill="#34a853">For</text>
+      <text x={cx + r - 5} y={cy + 20} class="dial-end-label dial-end-right" fill="#d32f2f">Against</text>
+    </svg>
+
+    <div class="dial-stats">
+      <div class="dial-pct">{Math.round(forPct)}%</div>
+      <div class="dial-pct-label">in favor</div>
+    </div>
+  </div>
+
+  <div class="dial-counts">
+    <div class="dial-count dial-count--for">
+      <span class="dial-count-num">{forCount}</span>
+      <span class="dial-count-label">For</span>
+    </div>
+    <div class="dial-count dial-count--undecided">
+      <span class="dial-count-num">{undecided}</span>
+      <span class="dial-count-label">Undecided</span>
+    </div>
+    <div class="dial-count dial-count--against">
+      <span class="dial-count-num">{againstCount}</span>
+      <span class="dial-count-label">Against</span>
+    </div>
+  </div>
+</div>
+
+<style>
+  .dial-wrap {
+    text-align: center;
+  }
+
+  .dial-label {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-secondary);
+    margin-bottom: var(--space-sm);
+  }
+
+  .dial {
+    position: relative;
+    max-width: 280px;
+    margin: 0 auto;
+  }
+
+  .dial-svg {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+
+  .dial-end-label {
+    font-size: 13px;
+    font-weight: 600;
+  }
+
+  .dial-end-right {
+    text-anchor: end;
+  }
+
+  .dial-stats {
+    position: absolute;
+    bottom: 8px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+  }
+
+  .dial-pct {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: var(--color-text);
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .dial-pct-label {
+    font-size: 0.75rem;
+    color: var(--color-text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+  }
+
+  .dial-counts {
+    display: flex;
+    justify-content: center;
+    gap: var(--space-xl);
+    margin-top: var(--space-sm);
+  }
+
+  .dial-count {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .dial-count-num {
+    font-size: 1.3rem;
+    font-weight: 700;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .dial-count-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: var(--color-text-muted);
+  }
+
+  .dial-count--for .dial-count-num {
+    color: #34a853;
+  }
+
+  .dial-count--against .dial-count-num {
+    color: #d32f2f;
+  }
+
+  .dial-count--undecided .dial-count-num {
+    color: #9e9e9e;
+  }
+</style>

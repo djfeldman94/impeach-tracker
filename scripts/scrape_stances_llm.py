@@ -63,22 +63,38 @@ Analyze the following search results about **{name}** ({role}, {party}, {locatio
 
 {older_section}
 
-## CRITICAL Classification Rules
-- **Results from the last 2 days (April 7-8, 2026) OVERRIDE everything else.** Positions have shifted dramatically — many members who previously opposed or were silent have changed their stance.
-- If a RECENT result (last 2 days) contradicts an OLDER result, the recent result wins. Always.
-- If someone has co-sponsored articles, voted for impeachment, or called for removal/impeachment in the last 2 days, classify accordingly even if they held a different position before.
-- "Calls for removal", "supports removal", "25th amendment" should all count as support for impeachment/removal.
-- If there are ONLY older results and NO recent results, classify based on the older results but set confidence to "low".
-- If there is genuinely no information about their stance, classify as "silent".
-- Consider party affiliation as context but do NOT classify based on party alone.
+## CRITICAL Classification Rules — follow this decision tree IN ORDER:
+
+### Step 1: Check RECENT sources (last 3 days, April 6-8 2026)
+If recent sources show this member has taken a stance on the NEW impeachment effort (H.Res.1155, calls for removal, 25th amendment, or any current impeachment push):
+- Supports/calls for removal/impeachment → **publicly-supports**
+- Opposes current impeachment efforts → **publicly-opposes**
+- Recent results exist but no impeachment stance found → continue to Step 2
+
+### Step 2: Check OLDER sources for current-Congress activity
+If older sources show this member publicly supported or opposed impeachment during the 119th Congress (2025-2026):
+- Publicly supported → **publicly-supports**
+- Publicly opposed → **publicly-opposes**
+- No 119th Congress activity found → continue to Step 3
+
+### Step 3: Check 2019/2021 impeachment vote history
+If this member was in Congress during the 2019 or 2021 Trump impeachment votes:
+- Voted FOR impeachment in 2019 or 2021 → **leaning-support** (previously voted for)
+- Voted AGAINST impeachment in 2019 or 2021 → **leaning-oppose** (previously voted against)
+- Was not in Congress for either vote → **silent**
+
+### Additional rules:
+- Do NOT classify based on party alone. Many Democrats voted against and some Republicans voted for.
+- If a member was in Congress in 2021 but you cannot determine how they voted, classify as **silent**, not leaning.
+- "Calls for removal", "supports removal", "25th amendment" count as support for impeachment.
 
 ## Stance Categories (choose exactly one)
-- **cosponsor**: Has co-sponsored or introduced articles of impeachment
-- **publicly-supports**: Has publicly stated support for impeachment or removal (speeches, votes, press releases, calls for removal)
-- **leaning-support**: Previously voted for impeachment (e.g., voted to impeach in 2021) but has not made a clear public statement on the current effort
-- **silent**: No public position found, or deliberately avoiding the topic
-- **leaning-oppose**: Previously voted against impeachment (e.g., voted against impeachment in 2021) but has not made a clear public statement on the current effort
-- **publicly-opposes**: Has publicly stated opposition to impeachment
+- **cosponsor**: Has co-sponsored or introduced articles of impeachment in the 119th Congress (DO NOT use this — we verify co-sponsors separately)
+- **publicly-supports**: Has publicly stated support for impeachment or removal in the current (119th) Congress
+- **leaning-support**: Previously voted FOR impeachment in 2019 or 2021 but has not taken a clear public stance on the current effort
+- **silent**: No public position found, was not in Congress for prior votes, or deliberately avoiding the topic
+- **leaning-oppose**: Previously voted AGAINST impeachment in 2019 or 2021 but has not taken a clear public stance on the current effort
+- **publicly-opposes**: Has publicly stated opposition to impeachment in the current (119th) Congress
 
 ## Response Format
 Respond with ONLY valid JSON, no markdown fences:

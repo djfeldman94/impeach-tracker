@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import StatsBar from '../components/StatsBar.astro';
+import StanceDial from '../components/StanceDial.astro';
 import HouseMap from '../components/maps/HouseMap.svelte';
 import SenateMap from '../components/maps/SenateMap.svelte';
 import GovernorMap from '../components/maps/GovernorMap.svelte';
@@ -53,6 +54,16 @@ const governorCounts = countStances(governors);
         Track where every member of Congress and governor stands on impeaching Donald Trump.
         Click any district to learn more and take action.
       </p>
+    </div>
+  </section>
+
+  <section class="dials-section">
+    <div class="container">
+      <div class="dials-grid">
+        <StanceDial counts={houseCounts} total={representatives.length} label="House" />
+        <StanceDial counts={senateCounts} total={senators.length} label="Senate" />
+        <StanceDial counts={governorCounts} total={governors.length} label="Governors" />
+      </div>
     </div>
   </section>
 
@@ -120,6 +131,25 @@ const governorCounts = countStances(governors);
     font-weight: 700;
     letter-spacing: -0.02em;
     margin-bottom: var(--space-md);
+  }
+
+  .dials-section {
+    padding: var(--space-xl) 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  .dials-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: var(--space-lg);
+  }
+
+  @media (max-width: 768px) {
+    .dials-grid {
+      grid-template-columns: 1fr;
+      max-width: 320px;
+      margin: 0 auto;
+    }
   }
 
   .hero-subtitle {
