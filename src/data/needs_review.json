@@ -544,9 +544,9 @@
     "chamber": "senate",
     "state": "HI",
     "district": null,
-    "classified_stance": "publicly-supports",
-    "confidence": "low",
-    "summary": "Senator Mazie K. Hirono previously stated she was ready to vote to convict President Trump during impeachment proceedings, indicating strong support for removal from office.",
+    "classified_stance": "leaning-support",
+    "confidence": "medium",
+    "summary": "No recent stance found on current impeachment efforts. As a Democratic Senator who was in office during Trump's previous impeachments, Hirono likely voted for impeachment in 2019/2021 based on typical Democratic voting patterns, but no specific current position is evident from the search results.",
     "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
   },
   {
@@ -555,9 +555,9 @@
     "chamber": "senate",
     "state": "KS",
     "district": null,
-    "classified_stance": "publicly-opposes",
+    "classified_stance": "leaning-oppose",
     "confidence": "medium",
-    "summary": "Senator Roger Marshall has consistently opposed Trump impeachment efforts, stating that an impeachment trial would 'further divide the nation' and 'raise already heated temperatures.' He has maintained pro-Trump credentials and opposed removal proceedings.",
+    "summary": "Roger Marshall opposed Trump's second impeachment trial in 2021, arguing it would 'further divide the nation' and calling it 'unconstitutional from the start.' No recent stance found on current impeachment efforts.",
     "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
   },
   {
@@ -577,9 +577,9 @@
     "chamber": "senate",
     "state": "ME",
     "district": null,
-    "classified_stance": "publicly-opposes",
+    "classified_stance": "leaning-oppose",
     "confidence": "medium",
-    "summary": "Susan Collins voted to acquit Donald Trump during his first impeachment trial, joining most other Senate Republicans in voting against both charges.",
+    "summary": "Susan Collins previously voted to acquit Trump on both articles of impeachment in 2020. No recent sources show her taking a public stance on the current impeachment push over Iran war actions.",
     "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
   },
   {
@@ -599,9 +599,9 @@
     "chamber": "senate",
     "state": "MO",
     "district": null,
-    "classified_stance": "publicly-opposes",
-    "confidence": "low",
-    "summary": "Josh Hawley publicly opposed Trump's impeachment, calling it unconstitutional and an attempt to delegitimize half of American voters. He described the proceedings as a 'total kangaroo court' and claimed impeachment diverted Congress from pressing issues.",
+    "classified_stance": "leaning-oppose",
+    "confidence": "high",
+    "summary": "Josh Hawley previously opposed Trump's second impeachment trial in 2021, voting to declare it unconstitutional and calling it a 'total kangaroo court.' No recent sources show his current stance on any new impeachment efforts.",
     "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
   },
   {
@@ -643,9 +643,9 @@
     "chamber": "senate",
     "state": "UT",
     "district": null,
-    "classified_stance": "publicly-opposes",
-    "confidence": "low",
-    "summary": "John R. Curtis voted against both articles of impeachment against Trump on December 18, 2019, calling it 'a rather easy decision'. No recent sources from the last 48 hours contain any information about his current impeachment stance.",
+    "classified_stance": "leaning-oppose",
+    "confidence": "high",
+    "summary": "John Curtis voted against both articles of impeachment against Trump on December 18, 2019, calling it 'a rather easy decision'. No recent sources indicate any change in his stance on the current impeachment efforts.",
     "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
   },
   {
@@ -665,9 +665,9 @@
     "chamber": "senate",
     "state": "WY",
     "district": null,
-    "classified_stance": "publicly-opposes",
+    "classified_stance": "leaning-oppose",
     "confidence": "medium",
-    "summary": "Senator John Barrasso has consistently opposed Trump impeachment efforts, voting to acquit Trump in previous Senate impeachment trials and characterizing impeachment as partisan political maneuvering rather than legitimate constitutional action.",
+    "summary": "No recent sources show Senator John Barrasso taking a public stance on the current impeachment push over Trump's Iran actions. As a Republican Senator who previously voted against Trump's impeachment in 2021, he is classified as leaning-oppose based on his historical voting record.",
     "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
   },
   {
@@ -1515,6 +1515,226 @@
     "classified_stance": "leaning-oppose",
     "confidence": "high",
     "summary": "Greg Gianforte previously voted against impeaching Donald Trump during his time in the U.S. House, joining all Republican members in opposing impeachment. No recent sources from the last 48 hours show any current stance on new impeachment efforts.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "M001153",
+    "name": "Lisa Murkowski",
+    "chamber": "senate",
+    "state": "AK",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "medium",
+    "summary": "Murkowski voted to acquit Trump in his first impeachment trial, calling his actions 'shameful and wrong' while still announcing her vote to acquit. Though she called for Trump's removal after January 6th, she has not taken a clear public stance on the current 2026 impeachment effort.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "T000278",
+    "name": "Tommy Tuberville",
+    "chamber": "senate",
+    "state": "AL",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "medium",
+    "summary": "While recent sources mention Tuberville's involvement in January 6th communications with Trump and reference impeachment proceedings generally, there is no evidence of any current public stance on the new impeachment effort. As a Republican Senator who was in Congress during the 2021 impeachment, he likely voted against it.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "B001236",
+    "name": "John Boozman",
+    "chamber": "senate",
+    "state": "AR",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "medium",
+    "summary": "No evidence found that Senator John Boozman has taken a public stance on the current 2026 impeachment calls regarding Trump's Iran threats. Based on his historical record, he voted against Trump's previous impeachments and has been critical of Trump at times but opposed removal efforts.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "C001095",
+    "name": "Tom Cotton",
+    "chamber": "senate",
+    "state": "AR",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "high",
+    "summary": "Tom Cotton opposed Trump's second impeachment trial in 2021, arguing it was unconstitutional to hold impeachment proceedings against a former president. No recent statements found regarding current impeachment efforts.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "K000377",
+    "name": "Mark Kelly",
+    "chamber": "senate",
+    "state": "AZ",
+    "district": null,
+    "classified_stance": "publicly-supports",
+    "confidence": "high",
+    "summary": "Mark Kelly made a bold call in February 2026 demanding that Donald Trump either resign from public life or face impeachment, positioning himself as one of the most significant political voices speaking out against Trump's continued influence.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "S001150",
+    "name": "Adam B. Schiff",
+    "chamber": "senate",
+    "state": "CA",
+    "district": null,
+    "classified_stance": "leaning-support",
+    "confidence": "high",
+    "summary": "Adam Schiff served as the lead House impeachment manager during Trump's first impeachment trial in 2020, presenting the case against the president to the U.S. Senate. No current stance found on new impeachment efforts in the 119th Congress.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "B001303",
+    "name": "Lisa Blunt Rochester",
+    "chamber": "senate",
+    "state": "DE",
+    "district": null,
+    "classified_stance": "leaning-support",
+    "confidence": "medium",
+    "summary": "Lisa Blunt Rochester voted YES for Trump's impeachment in 2019, stating that 'The President's actions have threatened our national security and pose an ongoing risk to our elections.' No recent stance found on current impeachment efforts.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "S001217",
+    "name": "Rick Scott",
+    "chamber": "senate",
+    "state": "FL",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "high",
+    "summary": "Rick Scott previously voted to acquit Trump in the 2021 second impeachment trial and has consistently called impeachment proceedings 'a complete waste of time.' No recent stance found on current impeachment efforts.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "S001194",
+    "name": "Brian Schatz",
+    "chamber": "senate",
+    "state": "HI",
+    "district": null,
+    "classified_stance": "leaning-support",
+    "confidence": "medium",
+    "summary": "No recent sources show Brian Schatz taking a specific public stance on the current impeachment push regarding Trump's Iran threats. However, as a Democratic Senator who was in Congress during previous Trump impeachment proceedings, he likely voted for impeachment in 2019 and/or 2021.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "E000295",
+    "name": "Joni Ernst",
+    "chamber": "senate",
+    "state": "IA",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "medium",
+    "summary": "Joni Ernst has not taken a public stance on current impeachment efforts, but during Trump's first impeachment she criticized his Ukraine call as 'maybe not the perfect call' while still voting to acquit him in the Senate trial.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "D000563",
+    "name": "Richard J. Durbin",
+    "chamber": "senate",
+    "state": "IL",
+    "district": null,
+    "classified_stance": "leaning-support",
+    "confidence": "medium",
+    "summary": "Richard J. Durbin has not taken a public stance on current impeachment efforts in the 119th Congress, but as a Democratic Senator who was in office during Trump's previous impeachments in 2019 and 2021, he would have voted for impeachment based on typical Democratic voting patterns during those proceedings.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "M000934",
+    "name": "Jerry Moran",
+    "chamber": "senate",
+    "state": "KS",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "medium",
+    "summary": "No recent sources show Jerry Moran taking a public stance on the current impeachment efforts related to Trump's Iran threats. Based on his historical voting record as a Republican Senator who was in Congress during previous Trump impeachment proceedings, he likely voted against impeachment in 2021.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "M000355",
+    "name": "Mitch McConnell",
+    "chamber": "senate",
+    "state": "KY",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "medium",
+    "summary": "McConnell has not taken a public stance on the current Iran-related impeachment effort, but he voted to acquit Trump in his second impeachment trial in 2021 and has historically opposed impeachment efforts despite occasional criticism of Trump.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "B001305",
+    "name": "Ted Budd",
+    "chamber": "senate",
+    "state": "NC",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "medium",
+    "summary": "No recent sources show Ted Budd taking a position on the current Iran-related impeachment push. However, older sources show he voted against both articles of impeachment during Trump's previous impeachment as a House Representative, calling it a 'show trial' and 'purely political.'",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "T000476",
+    "name": "Thom Tillis",
+    "chamber": "senate",
+    "state": "NC",
+    "district": null,
+    "classified_stance": "publicly-opposes",
+    "confidence": "medium",
+    "summary": "Sen. Thom Tillis has publicly opposed impeachment efforts against Trump, specifically stating in January 2026 that he would not back an impeachment effort over the administration's push to acquire Greenland, saying 'I'm not going to go to...'",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "F000463",
+    "name": "Deb Fischer",
+    "chamber": "senate",
+    "state": "NE",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "high",
+    "summary": "Senator Deb Fischer previously voted to acquit President Trump during his Senate impeachment trial, stating that House managers failed to make a compelling case for removal. No recent stance found on current impeachment efforts.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "L000570",
+    "name": "Ben Ray Luj\u00e1n",
+    "chamber": "senate",
+    "state": "NM",
+    "district": null,
+    "classified_stance": "leaning-support",
+    "confidence": "medium",
+    "summary": "Ben Ray Luj\u00e1n previously supported Trump impeachment inquiry as Assistant House Speaker in 2019 and backed convicting Trump, but no recent sources show his current stance on new impeachment efforts in the 119th Congress.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "T000250",
+    "name": "John Thune",
+    "chamber": "senate",
+    "state": "SD",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "medium",
+    "summary": "John Thune did not hold Donald Trump accountable for inciting the January 6 attack on the Capitol, indicating he likely voted against the 2021 impeachment. No recent sources show any current impeachment stance despite ongoing tensions with Trump over policy disagreements.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "L000577",
+    "name": "Mike Lee",
+    "chamber": "senate",
+    "state": "UT",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "high",
+    "summary": "Mike Lee opposed Trump's impeachment during the 2021 trial, calling it 'a gigantic mistake' and predicting acquittal. He defended Trump's comments as 'not different' from Democratic rhetoric and attended fundraisers at Mar-a-Lago after the trial.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "C001047",
+    "name": "Shelley Moore Capito",
+    "chamber": "senate",
+    "state": "WV",
+    "district": null,
+    "classified_stance": "leaning-oppose",
+    "confidence": "medium",
+    "summary": "No recent sources show Shelley Moore Capito taking a position on the current impeachment efforts over Iran. As a Republican Senator who was in Congress during previous Trump impeachment votes, she likely voted against impeachment in 2019/2021 based on typical party-line voting patterns.",
     "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
   }
 ]
