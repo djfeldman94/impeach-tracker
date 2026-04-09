@@ -22,14 +22,14 @@ const needleAngle = decided > 0 ? ((1 - forCount / decided) * 180) - 90 : 0;
 
 // SVG arc parameters
 const cx = 150;
-const cy = 130;
-const r = 100;
+const cy = 120;
+const r = 90;
 ---
 
 <div class="dial-wrap">
   <h3 class="dial-label">{label}</h3>
   <div class="dial">
-    <svg viewBox="0 0 300 180" class="dial-svg">
+    <svg viewBox="0 0 300 190" class="dial-svg">
       <!-- Background arc -->
       <path
         d={`M ${cx - r} ${cy} A ${r} ${r} 0 0 1 ${cx + r} ${cy}`}
@@ -59,19 +59,6 @@ const r = 100;
         opacity="0.3"
       />
 
-      <!-- Tick marks -->
-      {[...Array(9)].map((_, i) => {
-        const angle = (i * 22.5) - 90;
-        const rad = angle * Math.PI / 180;
-        const x1 = cx + (r - 16) * Math.cos(rad);
-        const y1 = cy + (r - 16) * Math.sin(rad);
-        const x2 = cx + (r + 16) * Math.cos(rad);
-        const y2 = cy + (r + 16) * Math.sin(rad);
-        return (
-          <line x1={x1} y1={y1} x2={x2} y2={y2} stroke="#30363d" stroke-width="1.5" />
-        );
-      })}
-
       <!-- Needle -->
       <g transform={`rotate(${needleAngle}, ${cx}, ${cy})`}>
         <line
@@ -88,8 +75,8 @@ const r = 100;
       </g>
 
       <!-- Labels -->
-      <text x={cx - r + 5} y={cy + 30} class="dial-end-label" fill="#34a853">For</text>
-      <text x={cx + r - 5} y={cy + 30} class="dial-end-label dial-end-right" fill="#d32f2f">Against</text>
+      <text x={cx - r + 5} y={cy + 35} class="dial-end-label" fill="#34a853">For</text>
+      <text x={cx + r - 5} y={cy + 35} class="dial-end-label dial-end-right" fill="#d32f2f">Against</text>
     </svg>
 
     <div class="dial-stats">
@@ -150,7 +137,7 @@ const r = 100;
 
   .dial-stats {
     position: absolute;
-    bottom: -4px;
+    bottom: -8px;
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
