@@ -101,5 +101,54 @@
       }
     ],
     "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "G000603",
+    "stance": "silent",
+    "summary": "Manual override: silent",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "S001230",
+    "stance": "silent",
+    "summary": "No public position on impeachment. Was not in Congress during 2021 impeachment vote.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "M000687",
+    "stance": "leaning-support",
+    "summary": "Voted to impeach Trump in January 2021. No clear public statement on current impeachment effort.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "H001101",
+    "stance": "silent",
+    "summary": "No public position on impeachment. Was not in Congress during 2021 impeachment vote.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "G000602",
+    "stance": "silent",
+    "summary": "No public position on impeachment. Was not in Congress during 2021 impeachment vote.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "L000601",
+    "stance": "silent",
+    "summary": "No public position on impeachment. Was not in Congress during 2021 impeachment vote.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "M001224",
+    "stance": "silent",
+    "summary": "No public position on impeachment. Was not in Congress during 2021 impeachment vote.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
   }
 ]

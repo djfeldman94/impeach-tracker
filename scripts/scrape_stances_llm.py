@@ -75,9 +75,9 @@ Analyze the following search results about **{name}** ({role}, {party}, {locatio
 ## Stance Categories (choose exactly one)
 - **cosponsor**: Has co-sponsored or introduced articles of impeachment
 - **publicly-supports**: Has publicly stated support for impeachment or removal (speeches, votes, press releases, calls for removal)
-- **leaning-support**: Has signaled openness to impeachment without fully committing (e.g., supports investigation, "open to it", "considering")
+- **leaning-support**: Previously voted for impeachment (e.g., voted to impeach in 2021) but has not made a clear public statement on the current effort
 - **silent**: No public position found, or deliberately avoiding the topic
-- **leaning-oppose**: Has expressed reservations or soft opposition without firmly opposing
+- **leaning-oppose**: Previously voted against impeachment (e.g., voted against impeachment in 2021) but has not made a clear public statement on the current effort
 - **publicly-opposes**: Has publicly stated opposition to impeachment
 
 ## Response Format

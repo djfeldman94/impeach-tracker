@@ -13,9 +13,9 @@ export const STANCE_COLORS: Record<StanceCategory, string> = {
 export const STANCE_LABELS: Record<StanceCategory, string> = {
   'cosponsor': 'Co-sponsor',
   'publicly-supports': 'Publicly Supports',
-  'leaning-support': 'Leaning Support',
+  'leaning-support': 'Previously Voted For',
   'silent': 'Silent / Undeclared',
-  'leaning-oppose': 'Leaning Oppose',
+  'leaning-oppose': 'Previously Voted Against',
   'publicly-opposes': 'Publicly Opposes',
 };
 
