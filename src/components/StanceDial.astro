@@ -17,8 +17,8 @@ const undecided = total - forCount - againstCount;
 const forPct = total > 0 ? (forCount / total) * 100 : 0;
 
 // Needle position based on proportion of total
-// -90 = full against, 0 = center, +90 = full for
-const needleAngle = total > 0 ? ((forCount / total) * 180) - 90 : 0;
+// -90 = left (0%), 0 = center (50%), +90 = right (100%)
+const needleAngle = total > 0 ? ((forCount / total) * 180) - 90 : -90;
 
 // SVG arc parameters
 const cx = 150;
@@ -32,8 +32,9 @@ const undecidedPct = total > 0 ? undecided / total : 1;
 const forFrac = total > 0 ? forCount / total : 0;
 
 // Convert fractions to angles on the semicircle (0 = left, PI = right)
-const againstEnd = againstPct * Math.PI;
-const undecidedEnd = (againstPct + undecidedPct) * Math.PI;
+// Order: for (left/green) -> undecided (middle/gray) -> against (right/red)
+const forEnd = forFrac * Math.PI;
+const undecidedEnd = (forFrac + undecidedPct) * Math.PI;
 
 // Helper to get point on arc at a given angle (0 = left end, PI = right end)
 function arcPoint(angle: number) {
@@ -45,26 +46,26 @@ function arcPoint(angle: number) {
 
 // Arc segment endpoints
 const leftEnd = arcPoint(0);
-const againstArcEnd = arcPoint(againstEnd);
+const forArcEnd = arcPoint(forEnd);
 const undecidedArcEnd = arcPoint(undecidedEnd);
 const rightEnd = arcPoint(Math.PI);
 
 // Large-arc flag: 1 if segment spans > 180deg (> half circle)
-const againstLarge = againstPct > 0.5 ? 1 : 0;
-const undecidedLarge = undecidedPct > 0.5 ? 1 : 0;
 const forLarge = forFrac > 0.5 ? 1 : 0;
+const undecidedLarge = undecidedPct > 0.5 ? 1 : 0;
+const againstLarge = againstPct > 0.5 ? 1 : 0;
 ---
 
 <div class="dial-wrap">
   <h3 class="dial-label">{label}</h3>
   <div class="dial">
     <svg viewBox="0 0 300 190" class="dial-svg">
-      <!-- Against arc (red — left) -->
-      {againstCount > 0 && (
+      <!-- For arc (green — left) -->
+      {forCount > 0 && (
         <path
-          d={`M ${leftEnd.x} ${leftEnd.y} A ${r} ${r} 0 ${againstLarge} 1 ${againstArcEnd.x} ${againstArcEnd.y}`}
+          d={`M ${leftEnd.x} ${leftEnd.y} A ${r} ${r} 0 ${forLarge} 1 ${forArcEnd.x} ${forArcEnd.y}`}
           fill="none"
-          stroke="#d32f2f"
+          stroke="#34a853"
           stroke-width="24"
           opacity="0.5"
         />
@@ -73,7 +74,7 @@ const forLarge = forFrac > 0.5 ? 1 : 0;
       <!-- Undecided arc (gray — middle) -->
       {undecided > 0 && (
         <path
-          d={`M ${againstArcEnd.x} ${againstArcEnd.y} A ${r} ${r} 0 ${undecidedLarge} 1 ${undecidedArcEnd.x} ${undecidedArcEnd.y}`}
+          d={`M ${forArcEnd.x} ${forArcEnd.y} A ${r} ${r} 0 ${undecidedLarge} 1 ${undecidedArcEnd.x} ${undecidedArcEnd.y}`}
           fill="none"
           stroke="#9e9e9e"
           stroke-width="24"
@@ -81,12 +82,12 @@ const forLarge = forFrac > 0.5 ? 1 : 0;
         />
       )}
 
-      <!-- For arc (green — right) -->
-      {forCount > 0 && (
+      <!-- Against arc (red — right) -->
+      {againstCount > 0 && (
         <path
-          d={`M ${undecidedArcEnd.x} ${undecidedArcEnd.y} A ${r} ${r} 0 ${forLarge} 1 ${rightEnd.x} ${rightEnd.y}`}
+          d={`M ${undecidedArcEnd.x} ${undecidedArcEnd.y} A ${r} ${r} 0 ${againstLarge} 1 ${rightEnd.x} ${rightEnd.y}`}
           fill="none"
-          stroke="#34a853"
+          stroke="#d32f2f"
           stroke-width="24"
           opacity="0.5"
         />
@@ -108,8 +109,8 @@ const forLarge = forFrac > 0.5 ? 1 : 0;
       </g>
 
       <!-- Labels -->
-      <text x={cx - r + 5} y={cy + 35} class="dial-end-label" fill="#d32f2f">Against</text>
-      <text x={cx + r - 5} y={cy + 35} class="dial-end-label dial-end-right" fill="#34a853">For</text>
+      <text x={cx - r + 5} y={cy + 35} class="dial-end-label" fill="#34a853">For</text>
+      <text x={cx + r - 5} y={cy + 35} class="dial-end-label dial-end-right" fill="#d32f2f">Against</text>
     </svg>
   </div>
 
