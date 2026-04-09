@@ -694,7 +694,7 @@
         "date": ""
       },
       {
-        "title": "John W. Hickenlooper \u2013 Colorado State Senator",
+        "title": "John W. Hickenlooper – Colorado State Senator",
         "url": "https://repbio.org/john-hickenlooper/",
         "date": ""
       }
@@ -811,7 +811,7 @@
         "date": "2021-02-07"
       },
       {
-        "title": "Trump's biggest mistake was underestimating Iran \u2014 NYT",
+        "title": "Trump's biggest mistake was underestimating Iran — NYT",
         "url": "https://newsukraine.rbc.ua/news/trump-s-biggest-mistake-was-underestimating-1773231225.html",
         "date": ""
       }
@@ -2191,10 +2191,10 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/W/W000817.jpg",
     "state": "MA",
     "fipsCode": "25",
-    "stance": "cosponsor",
-    "stanceSummary": "Early advocate for impeachment in the Senate. Has introduced related resolutions.",
+    "stance": "publicly-supports",
+    "stanceSummary": "Supports Trump impeachment. Has introduced related Senate resolutions but not specific articles of impeachment.",
     "stanceSources": [],
-    "stanceUpdatedAt": "2026-04-08",
+    "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4543",
     "email": "https://www.warren.senate.gov/?p=email_senator",
     "website": "https://www.warren.senate.gov",
@@ -3397,7 +3397,7 @@
       },
       {
         "city": "Lincoln",
-        "address": "1248 \u2018O\u2019 St., Suite 1000, Lincoln, NE 68508",
+        "address": "1248 ‘O’ St., Suite 1000, Lincoln, NE 68508",
         "phone": "402-476-1400"
       },
       {
@@ -3700,14 +3700,14 @@
     "id": "L000570",
     "slug": "ben-ray-lujan",
     "firstName": "Ben",
-    "lastName": "Luj\u00e1n",
-    "fullName": "Ben Ray Luj\u00e1n",
+    "lastName": "Luján",
+    "fullName": "Ben Ray Luján",
     "party": "D",
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/L/L000570.jpg",
     "state": "NM",
     "fipsCode": "35",
     "stance": "publicly-supports",
-    "stanceSummary": "Ben Ray Luj\u00e1n supports convicting Trump and has backed impeachment inquiry as Assistant House Speaker. Multiple sources confirm his support for Trump's impeachment and conviction.",
+    "stanceSummary": "Ben Ray Luján supports convicting Trump and has backed impeachment inquiry as Assistant House Speaker. Multiple sources confirm his support for Trump's impeachment and conviction.",
     "stanceSources": [
       {
         "title": "#RemoveTrumpNow | Progressive Change Campaign Committee...",
@@ -3720,7 +3720,7 @@
         "date": ""
       },
       {
-        "title": "Ben Ray Luj\u00e1n - Conservapedia",
+        "title": "Ben Ray Luján - Conservapedia",
         "url": "https://www.conservapedia.com/Ben_Ray_Lujan",
         "date": ""
       }
@@ -3886,7 +3886,7 @@
     "districtOffices": [
       {
         "city": "Albany",
-        "address": "11A Clinton Avenue, Room 821, Leo W. O\u2019Brien Federal Office Building, Albany, NY 12207",
+        "address": "11A Clinton Avenue, Room 821, Leo W. O’Brien Federal Office Building, Albany, NY 12207",
         "phone": "518-431-0120"
       },
       {
@@ -4304,7 +4304,7 @@
         "date": "2026-04-07"
       },
       {
-        "title": "Impeachmentand 25th Amendment \u2014 Democrats DiscussRemoving...",
+        "title": "Impeachmentand 25th Amendment — Democrats DiscussRemoving...",
         "url": "https://english.nv.ua/nation/impeachment-and-25th-amendment-democrats-discuss-removing-trump-following-his-remarks-on-iran-50598613.html",
         "date": "2026-04-07"
       }
@@ -5583,7 +5583,7 @@
         "date": ""
       },
       {
-        "title": "Ron Johnson Joins Graham In Bashing... - TPM \u2013 Talking Points Memo",
+        "title": "Ron Johnson Joins Graham In Bashing... - TPM – Talking Points Memo",
         "url": "https://talkingpointsmemo.com/news/ron-johnson-mcconnell-senate-floor-speech-trump-second-impeachment-trial",
         "date": ""
       }

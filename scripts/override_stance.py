@@ -189,7 +189,7 @@ def cmd_set(args):
     override = {
         "memberId": mid,
         "stance": args.stance,
-        "summary": args.summary or f"Manual override: {args.stance}",
+        "summary": args.summary or "",
         "sources": sources,
         "updatedAt": TODAY,
     }

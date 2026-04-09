@@ -21,10 +21,10 @@
   },
   {
     "memberId": "W000187",
-    "stance": "cosponsor",
-    "summary": "One of the earliest and most vocal proponents of impeachment in the House.",
+    "stance": "publicly-supports",
+    "summary": "One of the earliest and most vocal proponents of Trump impeachment. Has not co-sponsored current articles.",
     "sources": [],
-    "updatedAt": "2026-04-08"
+    "updatedAt": "2026-04-09"
   },
   {
     "memberId": "O000172",
@@ -49,10 +49,10 @@
   },
   {
     "memberId": "W000817",
-    "stance": "cosponsor",
-    "summary": "Early advocate for impeachment in the Senate. Has introduced related resolutions.",
+    "stance": "publicly-supports",
+    "summary": "Supports Trump impeachment. Has introduced related Senate resolutions but not specific articles of impeachment.",
     "sources": [],
-    "updatedAt": "2026-04-08"
+    "updatedAt": "2026-04-09"
   },
   {
     "memberId": "S000033",
@@ -148,6 +148,62 @@
     "memberId": "M001224",
     "stance": "silent",
     "summary": "No public position on impeachment. Was not in Congress during 2021 impeachment vote.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "A000381",
+    "stance": "silent",
+    "summary": "Introduced articles against Defense Secretary, not Trump.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "S001193",
+    "stance": "publicly-supports",
+    "summary": "Vocal supporter of impeachment. Served as House impeachment manager in 2021. Has threatened to impeach Trump officials if Democrats flip the House.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "L000582",
+    "stance": "publicly-supports",
+    "summary": "Served as House impeachment manager for Trump's second impeachment. Supports accountability measures.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "D000197",
+    "stance": "publicly-supports",
+    "summary": "Supports impeachment proceedings against Trump. Has not co-sponsored current articles.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "M001216",
+    "stance": "silent",
+    "summary": "Drafted articles against Biden, not Trump.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "K000385",
+    "stance": "silent",
+    "summary": "Introduced articles against Secretary Noem, not Trump.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "I000058",
+    "stance": "publicly-supports",
+    "summary": "Leads 'Impeachment Now' project. Supports Trump impeachment but has not co-sponsored specific articles.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "R000621",
+    "stance": "silent",
+    "summary": "Co-sponsored articles against Homeland Security Secretary, not Trump.",
     "sources": [],
     "updatedAt": "2026-04-09"
   }
