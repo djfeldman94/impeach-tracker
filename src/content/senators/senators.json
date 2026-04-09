@@ -9,9 +9,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M001153.jpg",
     "state": "AK",
     "fipsCode": "02",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Senator Lisa Murkowski has called for Trump's removal from office, joining other Republicans in expressing strong opposition to his Iran threats and rhetoric. She was identified as one of the Republicans calling for Trump to be removed from office amid the impeachment storm sparked by his 'whole civilization will die' comments about Iran.",
+    "stanceSources": [
+      {
+        "title": "GOP Sen. Lisa Murkowski Calls For Trump's Removal, Unsure If...",
+        "url": "https://www.huffpost.com/entry/lisa-murkowski-calls-for-trumps-resignation_n_5ff8d310c5b66f3f795dd9d2",
+        "date": ""
+      },
+      {
+        "title": "Regime fall in US? Trump's 'whole civilisation will die ...",
+        "url": "https://www.wionews.com/world/regime-fall-in-us-trump-s-whole-civilisation-will-die-tonight-remark-sparks-impeachment-storm-here-s-what-we-know-1775645901018",
+        "date": "16 hours ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6665",
     "email": "https://www.murkowski.senate.gov/public/index.cfm/contact",
@@ -64,9 +75,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001198.jpg",
     "state": "AK",
     "fipsCode": "02",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Dan Sullivan co-sponsored a resolution denouncing the House impeachment inquiry into President Trump, calling the process more partisan than what presidents Clinton or Nixon faced. He has embraced Trump enthusiastically in recent speeches to the Alaska Legislature.",
+    "stanceSources": [
+      {
+        "title": "U.S. senator from Alaska joins measure denouncing House's Trump...",
+        "url": "https://www.rcinet.ca/eye-on-the-arctic/2019/10/28/trump-impeachment-inquiry-house-sullivan-alaska-senate/",
+        "date": ""
+      },
+      {
+        "title": "Sullivan embraces Trump, says DOGE cuts are hard but necessary in...",
+        "url": "https://alaskapublic.org/news/politics/washington-d-c/2025-03-20/sullivan-embraces-trump-says-doge-cuts-are-hard-but-necessary-in-speech-to-legislature",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3004",
     "email": "https://www.sullivan.senate.gov/contact/email",
@@ -120,8 +142,19 @@
     "state": "AL",
     "fipsCode": "01",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No public position found on impeaching Donald Trump. Recent search results show Katie Boyd Britt supporting Trump's policies and immigration enforcement, but contain no statements about impeachment.",
+    "stanceSources": [
+      {
+        "title": "Katie Britt: ICE arrests 300+ migrants day after Donald Trump...",
+        "url": "https://thehill.com/homenews/administration/5100024-katie-britt-ice-immigrant-arrest/",
+        "date": ""
+      },
+      {
+        "title": "Laura Loomer says she had role in Trump reportedly fuming... - al.com",
+        "url": "https://www.al.com/politics/2026/02/maga-influencer-katie-britt-should-be-more-loyal-if-she-begs-for-trumps-endorsement.html",
+        "date": "2026-02-06"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5744",
     "email": "https://www.britt.senate.gov/contact/",
@@ -175,8 +208,19 @@
     "state": "AL",
     "fipsCode": "01",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "Recent sources show Tuberville voicing support for Trump's policy actions and leaving the Senate, but no specific stance on impeachment is mentioned in the last 48 hours despite references to Trump facing 'yet another impeachment inquiry.'",
+    "stanceSources": [
+      {
+        "title": "GOP's Dumbest SenatorTommyTuberville... | The New Republic",
+        "url": "https://newrepublic.com/post/195760/tommy-tuberville-governor-run-leave-senate",
+        "date": ""
+      },
+      {
+        "title": "Tuberville to Newsmax: Trump Taking Needed Action on Iran",
+        "url": "https://www.newsmax.com/newsmax-tv/tommy-tuberville-donald-trump-conflict/2026/03/16/id/1249715/",
+        "date": "2026-03-16"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4124",
     "email": "https://www.tuberville.senate.gov/contact/contact-form/",
@@ -224,9 +268,15 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001236.jpg",
     "state": "AR",
     "fipsCode": "05",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "John Boozman opposes convicting Trump, according to a Progressive Change Campaign Committee tracking page that calls for supporters to contact him to show support for convicting Trump and permanently banning him from federal office.",
+    "stanceSources": [
+      {
+        "title": "#RemoveTrumpNow | Progressive Change Campaign Committee...",
+        "url": "https://act.boldprogressives.org/whipcount/removetrumpnow-whipcount/?target=446&akid=&source=&referring_akid=",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4843",
     "email": "https://www.boozman.senate.gov/public/index.cfm/contact",
@@ -284,9 +334,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001095.jpg",
     "state": "AR",
     "fipsCode": "05",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Tom Cotton has publicly stated that the Senate lacks constitutional authority to conduct impeachment proceedings against Donald Trump, arguing that impeachment is designed to remove officeholders from public office, not to conduct inquests against private citizens.",
+    "stanceSources": [
+      {
+        "title": "Cotton: Senate Lacks Authority to HoldTrumpImpeachmentTrial...",
+        "url": "https://www.theepochtimes.com/us/cotton-senate-lacks-authority-to-hold-trump-impeachment-trial-after-jan-20-3656379",
+        "date": ""
+      },
+      {
+        "title": "TomCottonSuggests It's Unconstitutional toImpeachTrumpAfter...",
+        "url": "https://pjmedia.com/tyler-o-neil/2021/01/14/tom-cotton-suggests-its-unconstitutional-to-impeach-trump-after-january-20-n1337130",
+        "date": "2021-01-14"
+      },
+      {
+        "title": "Sen.Cotton: Post-presidentialimpeachmenttrial unconstitutional",
+        "url": "https://nypost.com/2021/01/14/sen-cotton-post-presidential-impeachment-trial-unconstitutional/",
+        "date": "2021-01-14"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2353",
     "email": "https://www.cotton.senate.gov/contact/contact-tom",
@@ -330,8 +396,24 @@
     "state": "AZ",
     "fipsCode": "04",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "Despite nearly 100 Democrats calling for Trump's impeachment or removal over Iran threats in the last 48 hours, no recent sources specifically mention Ruben Gallego taking a public position on impeachment, though he has been critical of Trump's Iran policy.",
+    "stanceSources": [
+      {
+        "title": "Nearly 100 Democrats now (on record) calling for Trump impeachment or removal by 25th amendment",
+        "url": "https://www.democraticunderground.com/100221158769",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Democrats call for Trump's removal over Iran - Spectrum News",
+        "url": "https://spectrumlocalnews.com/us/snplus/news/2026/04/08/trump-s-rhetoric-on-iran-conflict-sparks-major-wave-of-calls-for-his-removal-from-office-from-democrats",
+        "date": "5 hours ago"
+      },
+      {
+        "title": "Home - Senator Ruben Gallego",
+        "url": "https://www.gallego.senate.gov/",
+        "date": "Mar 25, 2026"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4521",
     "email": null,
@@ -364,9 +446,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/K/K000377.jpg",
     "state": "AZ",
     "fipsCode": "04",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Mark Kelly has publicly called for Trump's removal from office, warning that Trump's 'illegal orders' are a 'black mark' on America and will turn the nation into one without a 'moral or ethical compass.' He is among Democratic lawmakers featured in recent impeachment calls following Trump's Iran threats.",
+    "stanceSources": [
+      {
+        "title": "BREAKING: Mark Hertling warns Trump's threats could force...",
+        "url": "https://truebluereport.com/breaking-mark-hertling-warns-trumps-threats-could-force-u-s-troops-into-an-impossible-choice-follow-orders-or-break-the-law/",
+        "date": "April 7, 2026"
+      },
+      {
+        "title": "Confused Trump, 79, Mistakenly Amplifies Calls to Impeach Himself",
+        "url": "https://www.thedailybeast.com/confused-trump-79-mistakenly-amplifies-calls-to-impeach-himself/",
+        "date": ""
+      },
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US ...",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2235",
     "email": "https://www.kelly.senate.gov/contact/contact-form/",
@@ -399,9 +497,15 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/P/P000145.jpg",
     "state": "CA",
     "fipsCode": "06",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Senator Alex Padilla publicly supports Trump's removal from office based on recent Iran war developments. The search results indicate Democrats including Padilla are calling for impeachment articles or invoking the 25th Amendment to remove Trump over his handling of the Iran conflict and inflammatory rhetoric about eliminating Iranian civilization.",
+    "stanceSources": [
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US ...Trump's Iran threats resonate even after ceasefire announcementDonald Trump Just Threatened To End A Civilisation And Even ...Democrats call for Trump's removal over Iran - Spectrum NewsTrump Impeachment: Iran War Sparks Fresh Push as Poll Shows ...Have Democrats filed impeachment articles against Trump over ...Trump's Iran Threats Spark Bipartisan Backlash - Crockett Today",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3553",
     "email": "https://www.padilla.senate.gov/contact/",
@@ -449,9 +553,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001150.jpg",
     "state": "CA",
     "fipsCode": "06",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Adam Schiff was the lead impeachment manager in Trump's first impeachment trial and gave impassioned speeches urging senators to convict and remove President Trump, demonstrating clear public support for impeachment.",
+    "stanceSources": [
+      {
+        "title": "Video: 'The Truth Matters,' Schiff Says in Emotional Appeal to Senate",
+        "url": "https://www.nytimes.com/video/us/100000006940070/schiff-impeachment-truth.html",
+        "date": ""
+      },
+      {
+        "title": "Adam Schiff- Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Adam_Schiff",
+        "date": ""
+      },
+      {
+        "title": "Adam Schiff, impresario of impeachment",
+        "url": "https://www.ft.com/content/36b45716-016f-11ea-b7bc-f3fa4e77dd47?syn-25a6b1a6=1",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3841",
     "email": null,
@@ -490,8 +610,19 @@
     "state": "CO",
     "fipsCode": "08",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent sources from the last 48 hours contain any information about Michael Bennet's current stance on Trump impeachment. The recent results only provide basic biographical information and general political content without addressing impeachment specifically.",
+    "stanceSources": [
+      {
+        "title": "US Sen. Bennet says he's running for Colorado governor partly ...",
+        "url": "https://apnews.com/article/michael-bennet-colorado-governor-campaign-cb7de999d05ff1f03e92da6db4dd0a4c",
+        "date": ""
+      },
+      {
+        "title": "Michael Bennet - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Michael_Bennet",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5852",
     "email": "https://www.bennet.senate.gov/public/index.cfm/contact",
@@ -550,8 +681,24 @@
     "state": "CO",
     "fipsCode": "08",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information about Hickenlooper's stance on impeaching Donald Trump was found in the recent search results. The recent sources only contain biographical information and general political coverage without any mention of impeachment positions.",
+    "stanceSources": [
+      {
+        "title": "John Hickenlooper - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Hickenlooper",
+        "date": ""
+      },
+      {
+        "title": "John W Hickenlooper - Page 6 - The New York Times",
+        "url": "https://www.nytimes.com/topic/john-w-hickenlooper?page=6",
+        "date": ""
+      },
+      {
+        "title": "John W. Hickenlooper \u2013 Colorado State Senator",
+        "url": "https://repbio.org/john-hickenlooper/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5941",
     "email": "https://www.hickenlooper.senate.gov/contact/",
@@ -609,9 +756,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001277.jpg",
     "state": "CT",
     "fipsCode": "09",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Richard Blumenthal has actively participated in impeachment proceedings against Trump, speaking on the Senate floor during the impeachment trial and warning Republicans that 'history will haunt them' if they don't vote to convict Trump.",
+    "stanceSources": [
+      {
+        "title": "DC Buzz: An impeachment trial view from the gallery",
+        "url": "https://www.houstonchronicle.com/local/article/DC-Buzz-An-impeachment-trial-view-from-the-15039400.php",
+        "date": ""
+      },
+      {
+        "title": "Richard Blumenthal: 'History Will Haunt' GOP If They... | Newsmax.com",
+        "url": "https://www.newsmax.com/politics/richard-blumenthal-republicans-senate-vote/2019/11/27/id/943661/",
+        "date": "2019-11-27"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2823",
     "email": "https://www.blumenthal.senate.gov/contact/",
@@ -645,8 +803,19 @@
     "state": "CT",
     "fipsCode": "09",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent results from the last 48 hours contain any information about Christopher Murphy's current stance on impeaching Donald Trump. The available search results focus on unrelated topics like Iran policy, gun violence responses, and past political coverage.",
+    "stanceSources": [
+      {
+        "title": "ChrisMurphydismisses Rand Paul criticism, saysTrump...",
+        "url": "https://www.washingtontimes.com/news/2021/feb/7/chris-murphy-dismisses-rand-paul-criticism-says-tr/",
+        "date": "2021-02-07"
+      },
+      {
+        "title": "Trump's biggest mistake was underestimating Iran \u2014 NYT",
+        "url": "https://newsukraine.rbc.ua/news/trump-s-biggest-mistake-was-underestimating-1773231225.html",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4041",
     "email": "https://www.murphy.senate.gov/contact",
@@ -675,8 +844,19 @@
     "state": "DE",
     "fipsCode": "10",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No specific stance on impeaching Donald Trump found in recent search results. While Senator Blunt Rochester is actively opposing Trump's policies and nominees, there is no mention of her position on impeachment in the available sources.",
+    "stanceSources": [
+      {
+        "title": "10 Democrats who are fighting back against Trump",
+        "url": "https://www.pride.com/politics/democrats-fighting-back-against-trump",
+        "date": ""
+      },
+      {
+        "title": "'People Right Now Are Afraid': Lisa Blunt Rochester Rails... - YouTube",
+        "url": "https://www.youtube.com/watch?v=iVoXypJAt18",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2441",
     "email": null,
@@ -710,8 +890,19 @@
     "state": "DE",
     "fipsCode": "10",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information about Christopher A. Coons' current stance on impeaching Donald Trump was found in the recent search results, which primarily contain biographical information, photos, and unrelated policy statements about China.",
+    "stanceSources": [
+      {
+        "title": "Press Release: Senators Coons and Bennet Critique Trump's Concessions to China",
+        "url": "https://www.quiverquant.com/news/Press+Release:+Senators+Coons+and+Bennet+Critique+Trump's+Concessions+to+China",
+        "date": ""
+      },
+      {
+        "title": "Christopher A. Coons: Christopher... - Munich Security Conference",
+        "url": "https://securityconference.org/en/medialibrary/asset/christopher-a-coons-20260218-0026/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5042",
     "email": "https://www.coons.senate.gov/contact",
@@ -745,8 +936,19 @@
     "state": "FL",
     "fipsCode": "12",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "Despite widespread bipartisan calls for Trump's impeachment over Iran threats in the last 48 hours, no recent sources mention Ashley Moody taking any public position on impeachment or removal. The search results focus on her upcoming Senate race against Alexander Vindman but do not indicate she has joined other Republicans expressing dismay or Democrats calling for removal.",
+    "stanceSources": [
+      {
+        "title": "Republicans' Chances of Losing Florida Senate Race to ...From impeachment to 25th Amendment: How a sitting US ...",
+        "url": "https://www.newsweek.com/republicans-chances-of-losing-florida-senate-race-democrats-new-poll-11802442",
+        "date": "5 hours ago"
+      },
+      {
+        "title": "Trump's Iran Threats Spark Bipartisan Backlash - Crockett Today",
+        "url": "https://nationaltoday.com/us/tx/crockett/news/2026/04/08/trumps-iran-threats-spark-bipartisan-backlash/",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3041",
     "email": null,
@@ -799,9 +1001,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001217.jpg",
     "state": "FL",
     "fipsCode": "12",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Rick Scott has publicly opposed Trump's impeachment, calling the impeachment trial 'a complete waste of time' and voting not guilty on impeachment charges including abuse of power and obstruction of Congress.",
+    "stanceSources": [
+      {
+        "title": "Sen.RickScott:Impeachment'a complete waste of time'",
+        "url": "https://www.ktnv.com/news/national-politics/sen-rick-scott-calls-impeachment-trial-a-complete-waste-of-time",
+        "date": ""
+      },
+      {
+        "title": "Here's how the Orlando area reacted to PresidentTrump's acquittal",
+        "url": "https://www.clickorlando.com/news/local/2020/02/06/heres-how-the-orlando-area-reacted-to-president-trumps-acquittal/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5274",
     "email": "https://www.rickscott.senate.gov/contact/contact",
@@ -869,9 +1082,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/O/O000174.jpg",
     "state": "GA",
     "fipsCode": "13",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Jon Ossoff has publicly signaled support for impeaching Donald Trump, stating at a town hall that Trump's conduct 'has already exceeded any prior standard for impeachment' and joining other Democratic lawmakers calling for Trump to be impeached.",
+    "stanceSources": [
+      {
+        "title": "Sen. Jon Ossoff signals support for Trump impeachment",
+        "url": "https://www.nbcnews.com/politics/congress/sen-jon-ossoff-signals-support-trump-impeachment-rcna203126",
+        "date": ""
+      },
+      {
+        "title": "Dem Sen. Jon Ossoff on the Impeach Trump... | Washington Times",
+        "url": "https://www.washingtontimes.com/news/2025/apr/26/dem-sen-jon-ossoff-impeach-trump-bandwagon/",
+        "date": ""
+      },
+      {
+        "title": "Vulnerable Democratic Senator Jon Ossoff Agrees... | The Daily Caller",
+        "url": "https://dailycaller.com/2025/04/25/dem-senator-jon-ossoff-trump-impeachable-offenses/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3521",
     "email": "https://www.ossoff.senate.gov/contact-us/",
@@ -915,8 +1144,19 @@
     "state": "GA",
     "fipsCode": "13",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information about Senator Warnock's stance on impeaching Donald Trump was found in any of the search results from the last 48 hours or older sources.",
+    "stanceSources": [
+      {
+        "title": "Press Release: Warnock Questions Trump Nominee on Food Bank...",
+        "url": "https://www.quiverquant.com/news/Press+Release:+Warnock+Questions+Trump+Nominee+on+Food+Bank+Funding+Characterization+as+\"Slush+Fund\"",
+        "date": ""
+      },
+      {
+        "title": "Raphael Warnock - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Raphael_Warnock",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3643",
     "email": "https://www.warnock.senate.gov/contact/",
@@ -944,9 +1184,15 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H001042.jpg",
     "state": "HI",
     "fipsCode": "15",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Senator Mazie K. Hirono previously stated she was ready to vote to convict President Trump during impeachment proceedings, indicating strong support for removal from office.",
+    "stanceSources": [
+      {
+        "title": "What Senators Have Said About Impeachment- The New York Times",
+        "url": "https://www.nytimes.com/interactive/2019/12/20/us/politics/senators-impeachment-reactions.html",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6361",
     "email": "https://www.hirono.senate.gov/contact",
@@ -974,9 +1220,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001194.jpg",
     "state": "HI",
     "fipsCode": "15",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Brian Schatz has explicitly called for Trump's impeachment, stating that Trump and his legal team argue presidential authorities 'literally transcend the law.' He is listed among Senate Democrats backing Trump impeachment and has been described as one of Trump's most outspoken opponents.",
+    "stanceSources": [
+      {
+        "title": "Here are the Senate Democrats backing a Trump impeachment...",
+        "url": "https://thehill.com/homenews/senate/463044-here-are-the-senate-democrats-calling-for-impeachment-over-the-trump-ukraine/",
+        "date": ""
+      },
+      {
+        "title": "How Brian Schatz Thinks Democrats Can Counter Trump, Musk",
+        "url": "https://nymag.com/intelligencer/article/brian-schatz-trump-musk-us-aid.html",
+        "date": ""
+      },
+      {
+        "title": "'This Is Illegal!': Brian Schatz Drops The Hammer On Trump Over...",
+        "url": "https://www.youtube.com/watch?v=D45t80Oewpc",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3934",
     "email": "https://www.schatz.senate.gov/contact",
@@ -1005,8 +1267,24 @@
     "state": "IA",
     "fipsCode": "19",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements or positions found from Joni Ernst regarding the current impeachment push over Trump's Iran threats. The search results focus on Democratic calls for impeachment but do not mention Ernst's specific stance on the current situation.",
+    "stanceSources": [
+      {
+        "title": "Democrats call for Trump's removal over Iran - Spectrum News",
+        "url": "https://spectrumlocalnews.com/us/snplus/news/2026/04/08/trump-s-rhetoric-on-iran-conflict-sparks-major-wave-of-calls-for-his-removal-from-office-from-democrats",
+        "date": "5 hours ago"
+      },
+      {
+        "title": "Trump's Iran threats resonate even after ceasefire announcement",
+        "url": "https://rollcall.com/2026/04/08/trumps-iran-threats-resonate-even-after-ceasefire-announcement/",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Trump's Iran Threats Spark Bipartisan Backlash - Crockett Today",
+        "url": "https://nationaltoday.com/us/tx/crockett/news/2026/04/08/trumps-iran-threats-spark-bipartisan-backlash/",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3254",
     "email": "https://www.ernst.senate.gov/public/index.cfm/contact",
@@ -1054,9 +1332,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/G/G000386.jpg",
     "state": "IA",
     "fipsCode": "19",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Chuck Grassley has publicly opposed Trump impeachment, stating the Senate doesn't need witnesses in impeachment trials and has been working to expose those who attempted to impeach Trump. Recent sources show him investigating impeachment opponents rather than supporting impeachment efforts.",
+    "stanceSources": [
+      {
+        "title": "Sen. Grassley Promises to Expose Everyone from the Opposition Who...",
+        "url": "https://www.thegatewaypundit.com/2025/07/sen-grassley-promises-expose-everyone-opposition-who-attempted/",
+        "date": ""
+      },
+      {
+        "title": "Grassley: Senate Doesn't Need to Hear From Witnesses in Trump...",
+        "url": "https://www.theepochtimes.com/us/grassley-senate-doesnt-need-to-hear-from-witnesses-in-trump-impeachment-trial-3180326",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3744",
     "email": "https://www.grassley.senate.gov/contact",
@@ -1109,9 +1398,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C000880.jpg",
     "state": "ID",
     "fipsCode": "16",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Mike Crapo opposes convicting Trump in impeachment proceedings, as indicated by Progressive Change Campaign Committee advocacy efforts urging calls to show support for convicting Trump, specifically noting that Crapo opposes conviction.",
+    "stanceSources": [
+      {
+        "title": "#RemoveTrumpNow | Progressive Change Campaign Committee...",
+        "url": "https://act.boldprogressives.org/whipcount/removetrumpnow-whipcount/?target=466&akid=&source=&referring_akid=",
+        "date": ""
+      },
+      {
+        "title": "Where Republican senators stand on impeaching Donald Trump",
+        "url": "https://www.cbsnews.com/news/trump-impeachment-republicans-senators/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6142",
     "email": "https://www.crapo.senate.gov/contact",
@@ -1165,8 +1465,19 @@
     "state": "ID",
     "fipsCode": "16",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent sources from the last 48 hours contain any statements or positions from Senator James E. Risch regarding the current impeachment push over Trump's Iran actions. While nearly 100 Democrats are calling for impeachment or removal, there is no evidence of Risch's current stance.",
+    "stanceSources": [
+      {
+        "title": "Trump Impeachment: Iran War Sparks Fresh Push as Poll Shows ...",
+        "url": "https://www.timesnownews.com/world/us/us-news/trump-impeachment-iran-war-democrats-push-approval-ratings-poll-article-154030441",
+        "date": "8 hours ago"
+      },
+      {
+        "title": "Democrats call for Trump's removal over Iran - Spectrum News",
+        "url": "https://spectrumlocalnews.com/us/snplus/news/2026/04/08/trump-s-rhetoric-on-iran-conflict-sparks-major-wave-of-calls-for-his-removal-from-office-from-democrats",
+        "date": "5 hours ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2752",
     "email": "https://www.risch.senate.gov/public/index.cfm?p=Email",
@@ -1219,9 +1530,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/D/D000622.jpg",
     "state": "IL",
     "fipsCode": "17",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Senator Tammy Duckworth has explicitly called for Trump to be removed from office immediately, stating that the Cabinet should invoke the 25th Amendment or Congress must begin impeachment proceedings. She voted in previous impeachment proceedings and has consistently supported removal efforts.",
+    "stanceSources": [
+      {
+        "title": "Duckworth Calls for Trump to Be Removed From Office Immediately",
+        "url": "https://www.duckworth.senate.gov/news/press-releases/duckworth-calls-for-trump-to-be-removed-from-office-immediately",
+        "date": ""
+      },
+      {
+        "title": "Illinois Senator Tammy Duckworth reacts to Trump acquittal",
+        "url": "https://www.bnd.com/news/politics-government/article240017008.html",
+        "date": ""
+      },
+      {
+        "title": "Senator Tammy Duckworth calls upcoming Senate impeachment trial...",
+        "url": "https://www.youtube.com/watch?v=wyjUsAEd14I",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2854",
     "email": "https://www.duckworth.senate.gov/content/contact-senator",
@@ -1269,9 +1596,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/D/D000563.jpg",
     "state": "IL",
     "fipsCode": "17",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Based on recent developments showing a massive shift where over 70 Democratic lawmakers are calling for Trump's removal from office amid the Iran war conflict, and given Durbin's position as Senate Democratic Whip and his consistent opposition to Trump administration actions, he appears to be supporting impeachment efforts.",
+    "stanceSources": [
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US president can be removed",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "Dick Durbin - Ballotpedia",
+        "url": "https://ballotpedia.org/Dick_Durbin",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2152",
     "email": "https://www.durbin.senate.gov/contact/",
@@ -1314,9 +1652,15 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001299.jpg",
     "state": "IN",
     "fipsCode": "18",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Jim Banks is calling for the expungement of former President Donald Trump's impeachments while simultaneously advocating for President Biden's impeachment, indicating clear opposition to Trump's impeachment proceedings.",
+    "stanceSources": [
+      {
+        "title": "Rep.JimBanksAdvocates for Biden'sImpeachmentand Expunging...",
+        "url": "https://www.thestockdork.com/rep-jim-banks-advocates-for-bidens-impeachment-and-expunging-trumps/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4814",
     "email": null,
@@ -1345,8 +1689,19 @@
     "state": "IN",
     "fipsCode": "18",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "Todd Young has consistently refused to take a public position on Trump impeachment, with multiple sources showing he 'won't tip his hand' and 'won't say whether he'd vote to remove President Donald Trump from office.'",
+    "stanceSources": [
+      {
+        "title": "YoungWon't Take Position OnTrumpImpeachment",
+        "url": "https://www.wfyi.org/public-affairs/2019-12-17/young-wont-take-position-on-trump-impeachment",
+        "date": "2019-12-17"
+      },
+      {
+        "title": "YoungWon't Take Position OnTrumpImpeachment| WBOI - NPR...",
+        "url": "https://www.wboi.org/politics-government/2019-12-17/young-wont-take-position-on-trump-impeachment",
+        "date": "2019-12-17"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5623",
     "email": "https://www.young.senate.gov/contact",
@@ -1384,9 +1739,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M001198.jpg",
     "state": "KS",
     "fipsCode": "20",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Senator Roger Marshall has consistently opposed Trump impeachment efforts, stating that an impeachment trial would 'further divide the nation' and 'raise already heated temperatures.' He has maintained pro-Trump credentials and opposed removal proceedings.",
+    "stanceSources": [
+      {
+        "title": "Kansas Sen. Roger Marshall: Impeachment trial would further divide...",
+        "url": "https://www2.ljworld.com/news/state-region/2021/jan/19/kansas-sen-roger-marshall-impeachment-trial-would-further-divide-nation/",
+        "date": "2021-01-19"
+      },
+      {
+        "title": "Roger Marshall, other Republicans speak out on impeachment",
+        "url": "https://www.mcclatchydc.com/news/politics-government/congress/article238513983.html",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4774",
     "email": "https://www.marshall.senate.gov/contact/",
@@ -1444,9 +1810,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M000934.jpg",
     "state": "KS",
     "fipsCode": "20",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Jerry Moran voted to table Trump's impeachment trial and explained his rationale was based on constitutional grounds, aligning with 44 other Republicans who opposed the trial proceedings.",
+    "stanceSources": [
+      {
+        "title": "Moran explains his vote to table Trump's impeachment trial",
+        "url": "https://www.mcclatchydc.com/news/politics-government/article248844464.html",
+        "date": ""
+      },
+      {
+        "title": "Senate GOP boxes itself in on impeachment",
+        "url": "https://thehill.com/homenews/senate/536006-senate-gop-boxes-itself-in-on-impeachment/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6521",
     "email": "https://www.moran.senate.gov/public/index.cfm/e-mail-jerry",
@@ -1499,9 +1876,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M000355.jpg",
     "state": "KY",
     "fipsCode": "21",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "McConnell has consistently opposed Trump's impeachment, calling it 'highly unlikely' Trump will be removed and dismissing it as 'inconceivable' that the Senate would vote for removal. He has maintained this opposition throughout multiple impeachment proceedings.",
+    "stanceSources": [
+      {
+        "title": "MitchMcConnellExplains Why It's Highly UnlikelyTrumpWill Be...",
+        "url": "https://www.westernjournal.com/mitch-mcconnell-explains-highly-unlikely-trump-will-impeached-removed/",
+        "date": ""
+      },
+      {
+        "title": "MitchMcConnellSays It Is 'Inconceivable' That... - Newsweek",
+        "url": "https://www.newsweek.com/mitch-mcconnell-republicans-trump-impeachment-hearing-1472889",
+        "date": ""
+      },
+      {
+        "title": "MitchMcConnellsays he will NOT start DonaldTrump's trial in time to...",
+        "url": "https://www.dailymail.co.uk/news/article-9143029/House-starts-debate-impeaching-Donald-Trump-incitement-insurrection.html",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2541",
     "email": "https://www.mcconnell.senate.gov/public/index.cfm?p=contact",
@@ -1555,8 +1948,19 @@
     "state": "KY",
     "fipsCode": "21",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements from Rand Paul found regarding the current impeachment push over Iran. Only older context shows he previously opposed Trump's second impeachment trial as 'antithesis of unity' and has had a nuanced relationship with Trump.",
+    "stanceSources": [
+      {
+        "title": "RandPaul:ImpeachingTrump'antithesis of unity' - YouTube",
+        "url": "https://www.youtube.com/watch?v=bzbHR3dMGlw",
+        "date": ""
+      },
+      {
+        "title": "Does Rand Paul Support Donald Trump? What is the Senator's ...",
+        "url": "https://congress.net/does-rand-paul-support-donald-trump-what-is-the-senators-position/",
+        "date": "Mar 24,2026"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4343",
     "email": "https://www.paul.senate.gov/connect/email-rand",
@@ -1584,9 +1988,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001075.jpg",
     "state": "LA",
     "fipsCode": "22",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Bill Cassidy voted to convict Donald Trump on impeachment charges of 'incitement of insurrection' and stated 'I voted to convict Trump because he is guilty.' He described himself as 'at peace' with his impeachment vote despite GOP backlash.",
+    "stanceSources": [
+      {
+        "title": "Donald Trump sabotaged Bill Cassidy. Here's why.",
+        "url": "https://slate.com/news-and-politics/2026/01/donald-trump-bill-cassidy-impeachment-louisiana-senate.html?ref=upstract.com",
+        "date": ""
+      },
+      {
+        "title": "Trump Endorses Letlow, Reopens Bill Cassidy Impeachment Rift",
+        "url": "https://legalinsurrection.com/2026/01/trump-endorses-letlow-reopens-bill-cassidy-impeachment-rift/",
+        "date": ""
+      },
+      {
+        "title": "Despite GOP outcry, Cassidy 'at peace' with impeachment... | AP News",
+        "url": "https://apnews.com/article/donald-trump-impeachments-bill-cassidy-louisiana-trump-impeachment-0386608b0692ca22084918d71a4173e0",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5824",
     "email": "https://www.cassidy.senate.gov/contact",
@@ -1644,9 +2064,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/K/K000393.jpg",
     "state": "LA",
     "fipsCode": "22",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Senator John Kennedy has consistently opposed Trump's impeachment, calling the inquiry 'as rigged as a carnival ring toss' and criticizing the process as unfair to Trump, arguing the president was not afforded due process.",
+    "stanceSources": [
+      {
+        "title": "Sen. John Kennedy: Impeachment probe 'as rigged as a carnival ring...",
+        "url": "https://www.washingtontimes.com/news/2019/dec/1/sen-john-kennedy-impeachment-probe-rigged-carnival/",
+        "date": ""
+      },
+      {
+        "title": "GOP Sen. Kennedy on 'Rigged' Impeachment: Trump 'Not Afforded...",
+        "url": "https://www.breitbart.com/clips/2019/12/23/gop-sen-kennedy-on-rigged-impeachment-trump-not-afforded-due-process-in-the-house/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4623",
     "email": "https://www.kennedy.senate.gov/public/email-me",
@@ -1714,9 +2145,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M000133.jpg",
     "state": "MA",
     "fipsCode": "25",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Markey has called for Trump's removal from office, stating that Trump's nuclear threats warrant removal and describing Trump's actions as 'presidential malpractice,' though he noted Republican Congress unlikely to impeach.",
+    "stanceSources": [
+      {
+        "title": "Trump's Nuclear Threat Warrants Removal From Office | Truthout",
+        "url": "https://truthout.org/articles/trumps-nuclear-threat-warrants-removal-from-office/",
+        "date": ""
+      },
+      {
+        "title": "Trump's Nuclear Threat Warrants Removal... | HuffPost Latest News",
+        "url": "https://www.huffpost.com/entry/trumps-nuclear-threat-warrants-removal-from-office_b_5a562d34e4b0e3dd5c3f8db1",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2742",
     "email": "https://www.markey.senate.gov/contact",
@@ -1785,8 +2227,19 @@
     "state": "MD",
     "fipsCode": "24",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information found about Senator Alsobrooks' stance on impeaching Donald Trump in recent search results, which focus on her opposition to RFK Jr. and other legislative matters.",
+    "stanceSources": [
+      {
+        "title": "How Sen. Alsobrooks is leading Democratic opposition to RFK Jr.",
+        "url": "https://www.baltimoresun.com/2025/06/08/how-angela-alsobrooks-is-leading-democratic-opposition-to-rfk-jr/",
+        "date": ""
+      },
+      {
+        "title": "\"Could be disastrous\": Democrats sound alarm over Trump's NIH...",
+        "url": "https://www.salon.com/2025/01/27/could-be-disastrous-democrats-sound-alarm-over-nih-suspending-scientific-research-grants/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4524",
     "email": "https://alsobrooks.senate.gov/",
@@ -1814,9 +2267,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/V/V000128.jpg",
     "state": "MD",
     "fipsCode": "24",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "leaning-support",
+    "stanceSummary": "Van Hollen stated he has not yet decided whether he would convict Trump on impeachment charges, saying 'I think that the House has made a very strong case for impeachment, but I will reserve final judgment until all the evidence is in.' He also supported Pelosi's strategy of withholding articles to pressure the Senate for witnesses.",
+    "stanceSources": [
+      {
+        "title": "Trumpimpeachment:ChrisVanHollensays Nancy... - CBS News",
+        "url": "https://www.cbsnews.com/news/trump-impeachment-chris-van-hollen-says-nancy-pelosi-is-doing-exactly-the-right-thing-on-face-the-nation/",
+        "date": ""
+      },
+      {
+        "title": "VanHollensays Pelosi doing \"exactly the right thing\" by... - YouTube",
+        "url": "https://www.youtube.com/watch?v=9wwgV6wvkSE",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4654",
     "email": "https://www.vanhollen.senate.gov/contact/email",
@@ -1869,9 +2333,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001035.jpg",
     "state": "ME",
     "fipsCode": "23",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Susan Collins voted to acquit Donald Trump during his first impeachment trial, joining most other Senate Republicans in voting against both charges.",
+    "stanceSources": [
+      {
+        "title": "Susan Collins- Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Susan_Collins",
+        "date": ""
+      },
+      {
+        "title": "Susan Collins to acquit Trump in impeachment... | Washington Times",
+        "url": "https://www.washingtontimes.com/news/2020/feb/4/susan-collins-acquit-trump-impeachment-trial/",
+        "date": "2020-02-04"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2523",
     "email": "https://www.collins.senate.gov/contact",
@@ -1925,8 +2400,19 @@
     "state": "ME",
     "fipsCode": "23",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent information found regarding Senator Angus King's stance on impeaching Donald Trump. The search results contain only biographical information and general references without any specific impeachment-related statements or positions.",
+    "stanceSources": [
+      {
+        "title": "Angus King - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Angus_King",
+        "date": ""
+      },
+      {
+        "title": "Angus King Jr. - Page 9 - The New York Times",
+        "url": "https://www.nytimes.com/topic/person/angus-king-jr?page=9",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5344",
     "email": "https://www.king.senate.gov/contact",
@@ -1975,8 +2461,19 @@
     "state": "MI",
     "fipsCode": "26",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements from Gary C. Peters found regarding impeachment or removal of Trump in the last 48 hours, despite widespread Democratic calls for 25th Amendment and impeachment. Recent sources only show legislative work on food assistance and stock trading activity.",
+    "stanceSources": [
+      {
+        "title": "Press Release: Peters and Slotkin Introduce Legislation to Protect Food Assistance for Michiganders Amid Government Shutdown",
+        "url": "https://www.quiverquant.com/news/Press+Release:+Peters+and+Slotkin+Introduce+Legislation+to+Protect+Food+Assistance+for+Michiganders+Amid+Government+Shutdown",
+        "date": ""
+      },
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US president can be removed",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6221",
     "email": "https://www.peters.senate.gov/contact/email-gary",
@@ -2034,9 +2531,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001208.jpg",
     "state": "MI",
     "fipsCode": "26",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Elissa Slotkin has publicly supported Trump impeachment, announcing her support for articles of impeachment and defending her impeachment stance to constituents, stating 'Country over party! Impeach and remove Trump!'",
+    "stanceSources": [
+      {
+        "title": "Rep. Elissa Slotkin Defends Trump Impeachment... - YouTube",
+        "url": "https://www.youtube.com/watch?v=wAR4_95tWBA",
+        "date": ""
+      },
+      {
+        "title": "'Duty to country': Democrat makes case to Trump... | The Guardian",
+        "url": "https://www.theguardian.com/us-news/2019/dec/16/elissa-slotkin-democrat-backs-trump-impeachment",
+        "date": "2019-12-16"
+      },
+      {
+        "title": "Trump Impeached for Abuse of Power and Obstruction of Congress...",
+        "url": "https://www.nytimes.com/2019/12/18/us/politics/trump-impeached.html",
+        "date": "2019-12-18"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4822",
     "email": null,
@@ -2064,9 +2577,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/K/K000367.jpg",
     "state": "MN",
     "fipsCode": "27",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Klobuchar has consistently and publicly supported Trump's impeachment, describing his behavior as 'unambiguously impeachable' and 'a global Watergate' worthy of removal from office. She has called for Trump to be removed early through impeachment if he doesn't resign or isn't removed via the 25th Amendment.",
+    "stanceSources": [
+      {
+        "title": "Klobuchar calls Trump Ukraine scandal 'a global... - POLITICO",
+        "url": "https://www.politico.com/news/2019/12/01/klobuchar-trump-ukraine-scandal-global-watergate-074573",
+        "date": ""
+      },
+      {
+        "title": "Minnesota's Democratic delegation wants Trump removed early; GOP...",
+        "url": "https://www.startribune.com/minnesota-s-democratic-delegation-wants-trump-removed-early-gop-opposed-to-impeachment/600008408",
+        "date": ""
+      },
+      {
+        "title": "Klobuchar: Impeachment Hearings Uncovered Trump's 'Global...",
+        "url": "https://www.rollingstone.com/politics/politics-news/klobuchar-nixon-trump-global-watergate-920045/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3244",
     "email": "https://www.klobuchar.senate.gov/public/index.cfm/contact",
@@ -2109,9 +2638,15 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001203.jpg",
     "state": "MN",
     "fipsCode": "27",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Senator Tina Smith has explicitly stated she intends to vote to remove President Donald Trump from office, as outlined in her recent speech explaining her reasoning for supporting impeachment.",
+    "stanceSources": [
+      {
+        "title": "Tina Smith Explains Why She'll Vote To Remove Trump From Office",
+        "url": "https://www.cbsnews.com/minnesota/news/tina-smith-explains-why-shell-vote-to-remove-trump-from-office/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5641",
     "email": "https://www.smith.senate.gov/share-your-opinion/",
@@ -2154,9 +2689,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H001089.jpg",
     "state": "MO",
     "fipsCode": "29",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Josh Hawley publicly opposed Trump's impeachment, calling it unconstitutional and an attempt to delegitimize half of American voters. He described the proceedings as a 'total kangaroo court' and claimed impeachment diverted Congress from pressing issues.",
+    "stanceSources": [
+      {
+        "title": "Sen. Josh Hawley Says Impeachment Is An... | The Daily Caller",
+        "url": "https://dailycaller.com/2021/02/11/josh-hawley-impeachment-attempt-to-delegitimize-half-american-voters/",
+        "date": ""
+      },
+      {
+        "title": "Sen. Hawley: Trump Impeachment a 'Total Kangaroo... | Newsmax.com",
+        "url": "https://www.newsmax.com/politics/josh-hawley-trial-senate-capitol-riot/2021/02/11/id/1009638/",
+        "date": ""
+      },
+      {
+        "title": "Josh Hawley: Impeachment 'Diverted' Congress from America's Most....",
+        "url": "https://www.breitbart.com/politics/2020/02/05/josh-hawley-impeachment-diverted-congress-from-americas-most-pressing-issues/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6154",
     "email": "https://www.hawley.senate.gov/contact-senator-hawley",
@@ -2205,8 +2756,24 @@
     "state": "MO",
     "fipsCode": "29",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements found from Senator Eric Schmitt regarding Trump impeachment related to Iran threats. The recent search results focus on calls for Trump's removal by Democrats, but do not mention Schmitt's position on the current impeachment push.",
+    "stanceSources": [
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US ...Trump's Iran threats resonate even after ceasefire announcement",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Trump's Iran Threats Spark Bipartisan Backlash - Crockett Today",
+        "url": "https://nationaltoday.com/us/tx/crockett/news/2026/04/08/trumps-iran-threats-spark-bipartisan-backlash/",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Democrats call for Trump's removal over Iran - Spectrum News",
+        "url": "https://spectrumlocalnews.com/us/snplus/news/2026/04/08/trump-s-rhetoric-on-iran-conflict-sparks-major-wave-of-calls-for-his-removal-from-office-from-democrats",
+        "date": "5 hours ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5721",
     "email": "https://www.schmitt.senate.gov/contact/",
@@ -2254,9 +2821,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H001079.jpg",
     "state": "MS",
     "fipsCode": "28",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Hyde-Smith voted to acquit President Trump on impeachment articles and has consistently supported Trump, including voting against certification of 2020 election results even after the Capitol events.",
+    "stanceSources": [
+      {
+        "title": "Not guilty: Senate acquits president; Hyde-Smith votes in support of...",
+        "url": "https://www.hydesmith.senate.gov/not-guilty-senate-acquits-president-hyde-smith-votes-support-trump",
+        "date": ""
+      },
+      {
+        "title": "In Impeachment Vote, Mississippi Republicans Give Trump Another...",
+        "url": "https://www.mississippifreepress.org/amid-bipartisan-impeachment-vote-mississippi-republicans-give-trump-a-pass/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5054",
     "email": "https://www.hydesmith.senate.gov/contact-senator",
@@ -2300,8 +2878,19 @@
     "state": "MS",
     "fipsCode": "28",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements or positions from Sen. Roger Wicker found regarding the current wave of impeachment calls following Trump's Iran threats. While recent sources mention bipartisan backlash with some Republicans expressing dismay, Wicker is not specifically mentioned as taking a position.",
+    "stanceSources": [
+      {
+        "title": "Trump's Iran Threats Spark Bipartisan Backlash - Crockett Today",
+        "url": "https://nationaltoday.com/us/tx/crockett/news/2026/04/08/trumps-iran-threats-spark-bipartisan-backlash/",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Democrats call for Trump's removal over Iran - Spectrum News",
+        "url": "https://spectrumlocalnews.com/us/snplus/news/2026/04/08/trump-s-rhetoric-on-iran-conflict-sparks-major-wave-of-calls-for-his-removal-from-office-from-democrats",
+        "date": "5 hours ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6253",
     "email": "https://www.wicker.senate.gov/public/index.cfm/contact",
@@ -2349,9 +2938,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/D/D000618.jpg",
     "state": "MT",
     "fipsCode": "30",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Steve Daines opposed impeachment efforts against Trump, stating during calls for removal that 'We're 13 days away from inauguration. This is not the time to keep taking the temperature up' and voted for Trump's acquittal in his second impeachment trial.",
+    "stanceSources": [
+      {
+        "title": "Senators react to call for impeachment; Daines recounts Capitol...",
+        "url": "https://nbcmontana.com/news/local/senators-react-to-calls-for-impeachment-daines-recounts-capitol-scene-addresses-criticis",
+        "date": ""
+      },
+      {
+        "title": "Daines, Tester issue statements after Trump acquitted by Senate",
+        "url": "https://www.kbzk.com/news/national-news/daines-tester-issue-statements-after-former-president-trumps-acquittal-in-impeachment-trial",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2651",
     "email": "https://www.daines.senate.gov/connect/email-steve",
@@ -2410,8 +3010,19 @@
     "state": "MT",
     "fipsCode": "30",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information found regarding Senator Tim Sheehy's stance on Trump impeachment. Recent search results focus on a Capitol incident where he helped remove a protester, but contain no statements about impeachment or removal proceedings.",
+    "stanceSources": [
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US ...Trump Impeachment: Iran War Sparks Fresh Push as Poll Shows ...",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "1 day ago"
+      },
+      {
+        "title": "GOP Sen.TimSheehyhelps Capitol Policeremoveprotester",
+        "url": "https://nypost.com/2026/03/04/us-news/gop-sen-tim-sheehy-helps-capitol-police-remove-protester-who-allegedly-injured-3-officers-and-appeared-to-break-his-own-arm-in-wild-scene/",
+        "date": "2026-03-04"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2644",
     "email": null,
@@ -2465,8 +3076,19 @@
     "state": "NC",
     "fipsCode": "37",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements or positions found from Ted Budd regarding the current impeachment push following Trump's Iran threats. While other Republican lawmakers have expressed dismay over Trump's rhetoric, Budd has not made any public statements on impeachment or removal.",
+    "stanceSources": [
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US ...Trump's Iran Threats Spark Bipartisan Backlash - Crockett Today",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Trump's Iran Threats Spark Bipartisan Backlash - Crockett Today",
+        "url": "https://nationaltoday.com/us/tx/crockett/news/2026/04/08/trumps-iran-threats-spark-bipartisan-backlash/",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3154",
     "email": "https://www.budd.senate.gov/contact/",
@@ -2510,8 +3132,19 @@
     "state": "NC",
     "fipsCode": "37",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements found from Thom Tillis regarding the current impeachment push over Iran. While Democrats have filed articles of impeachment and nearly 100 lawmakers are calling for Trump's removal, Tillis has not publicly weighed in on these developments.",
+    "stanceSources": [
+      {
+        "title": "Democrats call for Trump's removal over Iran - Spectrum News",
+        "url": "https://spectrumlocalnews.com/us/snplus/news/2026/04/08/trump-s-rhetoric-on-iran-conflict-sparks-major-wave-of-calls-for-his-removal-from-office-from-democrats",
+        "date": "5 hours ago"
+      },
+      {
+        "title": "Democrats introduce impeachment articles against Trump and ...Trump Impeachment: Iran War Sparks Fresh Push as Poll Shows ...",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-impeachment-articles-25-amendment-b2953836.html",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6342",
     "email": "https://www.tillis.senate.gov/public/index.cfm/email-me",
@@ -2559,9 +3192,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001096.jpg",
     "state": "ND",
     "fipsCode": "38",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Senator Cramer has consistently opposed impeachment efforts against Trump, calling them illegitimate and a tragedy, and urged Trump's legal team to focus on avoiding conviction during previous impeachment proceedings.",
+    "stanceSources": [
+      {
+        "title": "Cramer: 'Welcome to the stupidest week in the Senate' - POLITICO",
+        "url": "https://www.politico.com/news/2021/02/09/cramer-impeachment-senate-467962",
+        "date": "2021-02-09"
+      },
+      {
+        "title": "Cramer: Illegitimate Impeachment Probe Will 'Rip this Country Apart'",
+        "url": "https://www.breitbart.com/politics/2019/10/10/gop-sen-kevin-cramer-illegitimate-impeachment-probe-will-rip-this-country-apart/",
+        "date": "2019-10-10"
+      },
+      {
+        "title": "'A Tragedy' - Sen. Cramer Reacts to the House of Representatives...",
+        "url": "https://www.cramer.senate.gov/news/press-releases/tragedy-sen-cramer-reacts-house-representatives-impeaching-president-trump",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2043",
     "email": "https://www.cramer.senate.gov/contact/contact-kevin",
@@ -2610,8 +3259,19 @@
     "state": "ND",
     "fipsCode": "38",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information found about John Hoeven's position on the recent impeachment push related to Trump's Iran threats, despite widespread bipartisan criticism mentioned in recent sources.",
+    "stanceSources": [
+      {
+        "title": "Trump's Iran Threats Spark Bipartisan Backlash - Crockett Today",
+        "url": "https://nationaltoday.com/us/tx/crockett/news/2026/04/08/trumps-iran-threats-spark-bipartisan-backlash/",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Democrats call for Trump's removal over Iran - Spectrum News",
+        "url": "https://spectrumlocalnews.com/us/snplus/news/2026/04/08/trump-s-rhetoric-on-iran-conflict-sparks-major-wave-of-calls-for-his-removal-from-office-from-democrats",
+        "date": "5 hours ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2551",
     "email": "https://www.hoeven.senate.gov/contact/contact-the-senator",
@@ -2659,9 +3319,15 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/F/F000463.jpg",
     "state": "NE",
     "fipsCode": "31",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Senator Deb Fischer announced on the Senate floor that she will vote to acquit President Trump, stating that House managers failed to make a compelling case for removal from office.",
+    "stanceSources": [
+      {
+        "title": "Senator Deb Fischer Shows Opposition to Trump Impeachment...",
+        "url": "https://www.kibz.com/senator-deb-fischer-shows-opposition-to-trump-impeachment-articles/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6551",
     "email": "https://www.fischer.senate.gov/public/index.cfm/contact",
@@ -2705,8 +3371,19 @@
     "state": "NE",
     "fipsCode": "31",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent sources from the last 48 hours contain any statements from Pete Ricketts regarding impeachment of Donald Trump. The available recent results focus on his Senate activities, political endorsements, and spending cuts rather than impeachment positions.",
+    "stanceSources": [
+      {
+        "title": "GOP amps up Trump impeachment talk in midterm... | CNN Politics",
+        "url": "https://www.cnn.com/2025/05/04/politics/trump-republicans-midterms-kemp-senate",
+        "date": ""
+      },
+      {
+        "title": "Nebraska Republican Sen. Pete Ricketts Faces Occasional Jeers as...",
+        "url": "https://www.usnews.com/news/best-states/nebraska/articles/2025-04-24/nebraska-sen-pete-ricketts-endures-occasional-jeers-as-he-defends-trump-push-for-spending-cuts",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4224",
     "email": "https://www.ricketts.senate.gov/contact/",
@@ -2750,8 +3427,24 @@
     "state": "NH",
     "fipsCode": "33",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information about Margaret Wood Hassan's stance on impeaching Donald Trump was found in any of the search results. The recent results only contain biographical information and unrelated policy matters.",
+    "stanceSources": [
+      {
+        "title": "MaggieHassan- Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Maggie_Hassan",
+        "date": ""
+      },
+      {
+        "title": "MargaretWoodHassan- League of Conservation Voters",
+        "url": "https://www.lcv.org/moc/margaret-wood-hassan/",
+        "date": ""
+      },
+      {
+        "title": "MargaretWoodHassan| Congress.gov | Library of Congress",
+        "url": "https://www.congress.gov/index.php/member/maggie-hassan/H001076",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3324",
     "email": "https://www.hassan.senate.gov/content/contact-senator",
@@ -2795,8 +3488,19 @@
     "state": "NH",
     "fipsCode": "33",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements or positions found from Senator Shaheen regarding the current impeachment push related to Trump's Iran military actions. The recent results focus on other Democratic lawmakers like Ed Markey and John Larson leading impeachment efforts, but do not mention Shaheen's position.",
+    "stanceSources": [
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US ...Trump Impeachment: Iran War Sparks Fresh Push as Poll Shows ...Ed Markey doubles down on calls to remove Trump from office ...",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Democrats renew push to curb Trump's Iran war as calls to use ...",
+        "url": "https://www.theguardian.com/us-news/2026/apr/08/25th-amendment-democrats-trump-war-powers",
+        "date": "6 hours ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2841",
     "email": "https://www.shaheen.senate.gov/contact/contact-jeanne",
@@ -2849,9 +3553,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001288.jpg",
     "state": "NJ",
     "fipsCode": "34",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Cory Booker has publicly called for impeachment against Trump, invoking the 'I-word' and raising the prospect of impeachment to his 3.1 million Twitter followers after initially urging caution just 10 days prior.",
+    "stanceSources": [
+      {
+        "title": "CoryBookerraisesimpeachmenttalk againstTrump",
+        "url": "https://www.inquirer.com/philly/news/politics/congressional/cory-booker-impeachment-against-trump-20170607.html",
+        "date": ""
+      },
+      {
+        "title": "James Clyburn: DonaldTrumpimpeachmentlikely",
+        "url": "https://www.washingtontimes.com/news/2019/jun/2/james-clyburn-donald-trump-impeachment-likely/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3224",
     "email": "https://www.booker.senate.gov/?p=contact",
@@ -2884,9 +3599,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/K/K000394.jpg",
     "state": "NJ",
     "fipsCode": "34",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Andy Kim has publicly stated that Trump committed an impeachable offense and supports impeachment proceedings, with opponents criticizing his alignment with 'impeachment-obsessed' efforts to remove Trump from office.",
+    "stanceSources": [
+      {
+        "title": "Kim: Trump Committed an Impeachable Offense - Insider NJ",
+        "url": "https://www.insidernj.com/kim-trump-committed-impeachable-offense/",
+        "date": ""
+      },
+      {
+        "title": "Andy Kim narrowly flipped a Trump district in New Jersey.",
+        "url": "https://www.inquirer.com/news/andy-kim-new-jersey-reelection-campaign-20200120.html",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4744",
     "email": null,
@@ -2919,9 +3645,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H001046.jpg",
     "state": "NM",
     "fipsCode": "35",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Heinrich has publicly called for Trump's removal from office, releasing a statement condemning Trump's threat to destroy 'a whole civilization' during the Iran conflict and characterizing Trump's actions as unfit for office.",
+    "stanceSources": [
+      {
+        "title": "Home | Senator Martin Heinrich",
+        "url": "https://www.heinrich.senate.gov/",
+        "date": ""
+      },
+      {
+        "title": "Martin Heinrich (via Public) / Heinrich Statement on Trump's ...",
+        "url": "https://ebs.publicnow.com/view/145CA622F631460C5E09CC4A3C8E18D94BC8A471",
+        "date": "Sep 19, 2025"
+      },
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US ...",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5521",
     "email": "https://www.heinrich.senate.gov/contact",
@@ -2964,9 +3706,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/L/L000570.jpg",
     "state": "NM",
     "fipsCode": "35",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Ben Ray Luj\u00e1n supports convicting Trump and has backed impeachment inquiry as Assistant House Speaker. Multiple sources confirm his support for Trump's impeachment and conviction.",
+    "stanceSources": [
+      {
+        "title": "#RemoveTrumpNow | Progressive Change Campaign Committee...",
+        "url": "https://act.boldprogressives.org/whipcount/removetrumpnow-whipcount/?target=505&akid=&source=&referring_akid=",
+        "date": ""
+      },
+      {
+        "title": "Trump impeachment push gets important new ally - POLITICO",
+        "url": "https://www.politico.com/story/2019/08/19/ben-ray-lujan-no-4-house-democrat-backs-opening-trump-impeachment-inquiry-1467888",
+        "date": ""
+      },
+      {
+        "title": "Ben Ray Luj\u00e1n - Conservapedia",
+        "url": "https://www.conservapedia.com/Ben_Ray_Lujan",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6621",
     "email": "https://www.lujan.senate.gov/contact/",
@@ -3014,9 +3772,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001113.jpg",
     "state": "NV",
     "fipsCode": "32",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Catherine Cortez Masto voted guilty on both articles of impeachment against Trump, stating she was sent to Congress to fight for Nevadans and their children's future, demonstrating clear support for Trump's removal.",
+    "stanceSources": [
+      {
+        "title": "Cortez Masto and Rosen vote to remove Trump; Senate acquits the...",
+        "url": "https://thenevadaindependent.com/article/cortez-masto-and-rosen-vote-to-remove-trump-senate-acquits-the-president-in-impeachment-trial",
+        "date": ""
+      },
+      {
+        "title": "Cortez Masto Releases Statement for the Record on the...",
+        "url": "https://www.cortezmasto.senate.gov/news/press-releases/cortez-masto-releases-statement-for-the-record-on-the-impeachment-trial-of-president-trump/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3542",
     "email": "https://www.cortezmasto.senate.gov/contact",
@@ -3050,8 +3819,19 @@
     "state": "NV",
     "fipsCode": "32",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements from Sen. Jacky Rosen found regarding Trump impeachment calls related to Iran actions. While nearly 100 Democrats have gone on record calling for Trump's impeachment or removal in the last 48 hours, Rosen has not been specifically identified among them.",
+    "stanceSources": [
+      {
+        "title": "Nearly 100 Democrats now (on record) calling for Trump impeachment or removal by 25th amendment",
+        "url": "https://www.democraticunderground.com/100221158769",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Democrats call for Trump's removal over Iran - Spectrum News",
+        "url": "https://spectrumlocalnews.com/us/snplus/news/2026/04/08/trump-s-rhetoric-on-iran-conflict-sparks-major-wave-of-calls-for-his-removal-from-office-from-democrats",
+        "date": "5 hours ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6244",
     "email": "https://www.rosen.senate.gov/contact_jacky",
@@ -3085,8 +3865,19 @@
     "state": "NY",
     "fipsCode": "36",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "Despite widespread Democratic calls for Trump's impeachment or removal over Iran conflict in the last 48 hours, no recent sources specifically mention Gillibrand's current position on these efforts.",
+    "stanceSources": [
+      {
+        "title": "Democrats call for Trump's removal over Iran - Spectrum News",
+        "url": "https://spectrumlocalnews.com/us/snplus/news/2026/04/08/trump-s-rhetoric-on-iran-conflict-sparks-major-wave-of-calls-for-his-removal-from-office-from-democrats",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "Nearly 100 Democrats now (on record) calling for Trump ...",
+        "url": "https://www.democraticunderground.com/100221158769",
+        "date": "2026-04-08"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4451",
     "email": "https://www.gillibrand.senate.gov/contact/email-me",
@@ -3150,8 +3941,24 @@
     "state": "NY",
     "fipsCode": "36",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent sources from the last 48 hours contain information about Schumer's current impeachment stance. Available results only reference historical impeachment proceedings (Clinton, Trump's previous impeachments) without indicating any new position.",
+    "stanceSources": [
+      {
+        "title": "Chuck Schumer - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chuck_Schumer",
+        "date": ""
+      },
+      {
+        "title": "Is This a Real Letter from Trump to US Sen. Chuck Schumer?",
+        "url": "https://www.snopes.com/fact-check/trump-letter-schumer/",
+        "date": ""
+      },
+      {
+        "title": "Smithsonian Updates Museum Display on Impeachment to Include...",
+        "url": "https://www.artnews.com/art-news/news/smithsonian-american-history-museum-trump-impeachment-display-1234749215/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6542",
     "email": "https://www.schumer.senate.gov/contact/email-chuck",
@@ -3215,8 +4022,19 @@
     "state": "OH",
     "fipsCode": "39",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements or positions found from Jon Husted regarding the current impeachment push against Trump over Iran. Despite the massive wave of Democratic calls for impeachment/removal in the last 48 hours, Husted has not publicly commented.",
+    "stanceSources": [
+      {
+        "title": "Democrats introduce impeachment articles against Trump and ...Nearly 100 Democrats now (on record) calling for Trump ...",
+        "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-impeachment-articles-25-amendment-b2953836.html",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Democrats call for Trump's removal over Iran - Spectrum News",
+        "url": "https://spectrumlocalnews.com/us/snplus/news/2026/04/08/trump-s-rhetoric-on-iran-conflict-sparks-major-wave-of-calls-for-his-removal-from-office-from-democrats",
+        "date": "5 hours ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3353",
     "email": null,
@@ -3260,8 +4078,24 @@
     "state": "OH",
     "fipsCode": "39",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No specific stance on Trump impeachment found in recent sources. Moreno appears focused on fundraising activities and other policy matters, with recent coverage discussing his role in Senate Republican fundraising and foreign policy issues rather than impeachment positions.",
+    "stanceSources": [
+      {
+        "title": "BernieMorenoHas Quickly Become One of Senate Republicans...",
+        "url": "https://www.notus.org/2026-election/bernie-moreno-nrsc-fundraising",
+        "date": ""
+      },
+      {
+        "title": "BernieMorenoclashes with CNBC hosts overTrump... - cleveland.com",
+        "url": "https://www.cleveland.com/news/2026/02/bernie-moreno-clashes-with-cnbc-hosts-over-trump-doj-investigation-comments.html",
+        "date": ""
+      },
+      {
+        "title": "BernieMorenoThreatens the US-Colombia Relationship",
+        "url": "https://jacobin.com/2026/04/bernie-moreno-senate-colombia-imperialism",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2315",
     "email": null,
@@ -3300,8 +4134,24 @@
     "state": "OK",
     "fipsCode": "40",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "Alan Armstrong was recently appointed and sworn in as US Senator from Oklahoma on March 24, 2026, but no sources contain any statements from him regarding impeachment of Donald Trump, despite being characterized as a 'NeverTrump' Republican.",
+    "stanceSources": [
+      {
+        "title": "MAGA Melts Down as Markwayne Mullin's ReplacementAlan...",
+        "url": "https://www.thedailybeast.com/maga-melts-down-as-markwayne-mullins-replacement-alan-armstrong-is-revealed/",
+        "date": ""
+      },
+      {
+        "title": "He's been a called a 'NeverTrump' Republican.",
+        "url": "https://newrepublic.com/post/208097/oklahoma-new-republican-senator-alan-armstrong-oil-exec-maga-hates",
+        "date": ""
+      },
+      {
+        "title": "AlanS.Armstrong- Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Alan_S._Armstrong",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4721",
     "email": null,
@@ -3324,8 +4174,19 @@
     "state": "OK",
     "fipsCode": "40",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "Despite recent impeachment efforts by Democrats over Trump's Iran military actions, there is no evidence of Lankford taking a public position on the current impeachment push in the last 48 hours.",
+    "stanceSources": [
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US ...Trump Impeachment: Iran War Sparks Fresh Push as Poll Shows ...",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "2026-04-08"
+      },
+      {
+        "title": "GOP Senator Reveals the Sick Truth About the Trump-MAGA Border...",
+        "url": "https://newrepublic.com/article/178530/gop-senator-james-lankford-trump-maga-border-scam",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5754",
     "email": "https://www.lankford.senate.gov/contact/email",
@@ -3358,9 +4219,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M001176.jpg",
     "state": "OR",
     "fipsCode": "41",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Sen. Jeff Merkley has consistently supported Trump's impeachment and removal, voting to remove the president during previous impeachment trials and joining calls for Trump's removal through impeachment or the 25th Amendment.",
+    "stanceSources": [
+      {
+        "title": "Wyden, Merkley join growing calls in Congress for Trump removal by...",
+        "url": "https://ktvz.com/news/top-stories/2021/01/07/wyden-merkley-join-growing-calls-in-congress-for-trump-removal-by-impeachment-or-25th-amendment/",
+        "date": ""
+      },
+      {
+        "title": "Deconstructed Podcast: The Acquittal of Donald J. Trump",
+        "url": "https://theintercept.com/2020/02/05/rigged-the-acquittal-of-donald-j-trump/",
+        "date": ""
+      },
+      {
+        "title": "Trump censure within 'realm of possibility' if impeachment fails: Sen....",
+        "url": "https://abcnews.com/Politics/trump-censure-realm-possibility-impeachment-fails-sen-jeff/story?id=75802580",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3753",
     "email": "https://www.merkley.senate.gov/contact/",
@@ -3413,9 +4290,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/W/W000779.jpg",
     "state": "OR",
     "fipsCode": "41",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Ron Wyden has called for Trump's impeachment and removal, describing Trump's recent comments as 'deranged' and joining over 50 House Democrats and Senator Ed Markey in calling for the president's removal through impeachment or the 25th Amendment.",
+    "stanceSources": [
+      {
+        "title": "Oregon Democrats call forTrump'sremoval... | The Portland Tribune",
+        "url": "https://portlandtribune.com/2026/04/07/oregon-democrats-call-for-trumps-removal-after-iran-threat/",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "Trump25th Amendment chatter erupts among Dems over Iran post",
+        "url": "https://www.axios.com/2026/04/07/trump-iran-impeachment-25th-amendment-war-crimes",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "Impeachmentand 25th Amendment \u2014 Democrats DiscussRemoving...",
+        "url": "https://english.nv.ua/nation/impeachment-and-25th-amendment-democrats-discuss-removing-trump-following-his-remarks-on-iran-50598613.html",
+        "date": "2026-04-07"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5244",
     "email": "https://www.wyden.senate.gov/contact/",
@@ -3468,9 +4361,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/F/F000479.jpg",
     "state": "PA",
     "fipsCode": "42",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Fetterman has publicly criticized AOC's efforts to impeach Trump over Iran strikes, dismissing the impeachment push as 'not going anywhere' and appearing to oppose the impeachment effort.",
+    "stanceSources": [
+      {
+        "title": "'Not Going Anywhere': John Fetterman Dismisses AOC's Trump...",
+        "url": "https://www.aol.com/news/not-going-anywhere-john-fetterman-161422869.html",
+        "date": ""
+      },
+      {
+        "title": "Australian National Review - Dem Senator John Fetterman Dumps...",
+        "url": "https://anr.news/politics/dem-senator-john-fetterman-dumps-cold-water-on-aocs-plans-to-impeach-trump-thats-not-going-anywhere-video-the-gateway-pundit/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4254",
     "email": "https://www.fetterman.senate.gov/contact/",
@@ -3519,8 +4423,19 @@
     "state": "PA",
     "fipsCode": "42",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information found about David McCormick's stance on Trump impeachment. The recent sources focus on his Senate campaign and relationship with Trump during the 2022 primary, but contain no statements about impeachment.",
+    "stanceSources": [
+      {
+        "title": "Trump Blasts 'Liberal Wall Street Republican' David McCormick Who...",
+        "url": "https://dailycaller.com/2022/05/09/trump-blasts-liberal-wall-street-republican-david-mccormick-sudden-asked-support/",
+        "date": ""
+      },
+      {
+        "title": "Republican David McCormick rides Trump wave to oust longtime...",
+        "url": "https://freerepublic.com/focus/f-news/4276941/posts",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6324",
     "email": "https://mccormick.senate.gov/",
@@ -3578,9 +4493,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/R/R000122.jpg",
     "state": "RI",
     "fipsCode": "44",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Jack Reed has consistently supported impeachment and removal of Trump, having voted to convict in previous impeachment proceedings and is among Democrats calling for Trump's removal following his recent threats against Iran.",
+    "stanceSources": [
+      {
+        "title": "Democrats Condemn Trump's Iran Threats as Some Call for His...",
+        "url": "https://www.nytimes.com/2026/04/07/world/middleeast/democrats-react-trump-iran-civilization.html",
+        "date": "2026-04-07"
+      },
+      {
+        "title": "RI's congressional delegation reacts to Trump impeachment acquittal",
+        "url": "https://www.wpri.com/news/local-news/ris-congressional-delegation-reacts-to-trump-impeachment-acquittal/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4642",
     "email": "https://www.reed.senate.gov/contact/",
@@ -3613,9 +4539,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/W/W000802.jpg",
     "state": "RI",
     "fipsCode": "44",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Whitehouse believes Donald Trump's impeachment trial should be suspended to make way for an investigation into his administration's communications during the January 6 riot, and has stated that 'impeachment is a remedy for actual misconduct' when defending the impeachment process against Republican criticism.",
+    "stanceSources": [
+      {
+        "title": "DonaldTrumpImpeachmentTrial Should Be... - Inquisitr News",
+        "url": "https://www.inquisitr.com/trump-impeachment-suspended-investigation",
+        "date": ""
+      },
+      {
+        "title": "Republican senators ramp upimpeachmentrhetoric against judges",
+        "url": "https://www.nbcnews.com/politics/congress/republican-senators-impeachment-rhetoric-judges-judiciary-hearing-rcna247082",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2921",
     "email": "https://www.whitehouse.senate.gov/contact/email-sheldon",
@@ -3699,8 +4636,19 @@
     "state": "SC",
     "fipsCode": "45",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements or positions from Tim Scott found regarding the current impeachment push over Trump's Iran threats. While he previously opposed Trump impeachment efforts, there is no evidence of his current stance on the new impeachment articles filed over Iran.",
+    "stanceSources": [
+      {
+        "title": "Sen. Tim Scott Opposes Impeaching Trump: 'Will... | The Epoch Times",
+        "url": "https://www.theepochtimes.com/us/sen-tim-scott-opposes-impeaching-trump-will-only-lead-to-more-hate-3654783",
+        "date": ""
+      },
+      {
+        "title": "'Will only lead to more hate:' Sen. Tim Scott opposes Trump...",
+        "url": "https://wpde.com/news/local/will-only-lead-to-more-hate-sen-tim-scott-opposes-trump-impeachment",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6121",
     "email": "https://www.scott.senate.gov/contact/email-me",
@@ -3739,8 +4687,19 @@
     "state": "SD",
     "fipsCode": "46",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent statements found regarding current impeachment efforts. The most recent results only show older commentary about Trump potentially facing criminal prosecution for Capitol riots, but Rounds stopped short of supporting impeachment at that time.",
+    "stanceSources": [
+      {
+        "title": "Top GOP Senator Says Trump May Be Criminally Prosecuted Over...",
+        "url": "https://thepoliticalinsider.com/top-gop-senator-says-trump-may-be-criminally-prosecuted-over-capitol-riots/",
+        "date": ""
+      },
+      {
+        "title": "South Dakota Sen. Mike Rounds says Trump could be criminally...",
+        "url": "https://www.wctrib.com/news/south-dakota-sen-mike-rounds-says-trump-could-be-criminally-prosecuted-for-his-role-in-the-insurrection",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5842",
     "email": "https://www.rounds.senate.gov/contact/email-mike",
@@ -3784,8 +4743,19 @@
     "state": "SD",
     "fipsCode": "46",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No recent results from the last 48 hours contain any information about John Thune's stance on impeaching Donald Trump. Recent coverage focuses on his defiance of Trump on other legislative matters like the filibuster and government funding, but does not mention impeachment.",
+    "stanceSources": [
+      {
+        "title": "Senate Majority Leader John Thune Is Defying Trump On The...",
+        "url": "https://www.aol.com/news/senate-majority-leader-john-thune-051516026.html",
+        "date": ""
+      },
+      {
+        "title": "(VIDEO) Trump Asked if RINO John Thune Should be Removed as...",
+        "url": "https://www.thegatewaypundit.com/2026/03/video-trump-asked-if-rino-john-thune-should/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2321",
     "email": "https://www.thune.senate.gov/public/index.cfm/contact",
@@ -3823,9 +4793,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001243.jpg",
     "state": "TN",
     "fipsCode": "47",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Blackburn publicly opposed Trump's impeachment, stating that persisting with impeachment would 'further divide Americans and exacerbate tensions' and criticized the House for its 'intentional mishandling' of the investigation while defending Trump.",
+    "stanceSources": [
+      {
+        "title": "Sen.MarshaBlackburnsays persisting withimpeachmentwill 'further...",
+        "url": "https://fox17.com/news/local/tennessee-sen-marsha-blackburn-responds-to-house-vote-for-impeachment",
+        "date": ""
+      },
+      {
+        "title": "Murkowski saysTrump's actions 'shameful' but she'll vote to...",
+        "url": "https://www.nbcnews.com/politics/trump-impeachment-inquiry/moderate-democratic-senator-calls-trump-be-censured-n1129206",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3344",
     "email": "https://www.blackburn.senate.gov/email-me",
@@ -3878,9 +4859,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H000601.jpg",
     "state": "TN",
     "fipsCode": "47",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Senator Bill Hagerty voted 'not guilty' in Trump's impeachment trial and criticized the impeachment proceedings as Democrats wanting to 'humiliate' Trump and shame his supporters into conformity.",
+    "stanceSources": [
+      {
+        "title": "Tenn. senators vote to acquit Trump",
+        "url": "https://www.newschannel5.com/news/tenn-senators-vote-not-guilty-in-trump-impeachment-trial",
+        "date": ""
+      },
+      {
+        "title": "Sen. Hagerty on impeachment trial: Dems want to 'humiliate' Trump...",
+        "url": "https://fntalk.com/politics/sen-hagerty-on-impeachment-trial-dems-want-to-humiliate-trump-and-shame-supporters-into-conformity/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4944",
     "email": "https://www.hagerty.senate.gov/email-me/",
@@ -3938,9 +4930,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001056.jpg",
     "state": "TX",
     "fipsCode": "48",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Sen. John Cornyn has consistently stuck with Trump and voted against impeachment, as indicated by his full-throated support during the Senate impeachment trial and his expected vote against impeachment.",
+    "stanceSources": [
+      {
+        "title": "Sen. Cornyn sticks with Trump as public opinion shifts on impeachment",
+        "url": "https://www.houstonchronicle.com/politics/texas/article/Sen-Cornyn-sticks-with-Trump-as-public-opinion-14502320.php",
+        "date": ""
+      },
+      {
+        "title": "Analysis: Cornyn's expected vote against impeachment is in tune with...",
+        "url": "https://www.texastribune.org/2020/02/04/cornyn-voting-against-impeachment-tune-gop-voters-texas/",
+        "date": "2020-02-04"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2934",
     "email": "https://www.cornyn.senate.gov/contact",
@@ -4053,9 +5056,15 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001114.jpg",
     "state": "UT",
     "fipsCode": "49",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "John R. Curtis voted against both articles of impeachment against Trump on December 18, 2019, calling it 'a rather easy decision'. No recent sources from the last 48 hours contain any information about his current impeachment stance.",
+    "stanceSources": [
+      {
+        "title": "John Curtis - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/John_Curtis",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5251",
     "email": null,
@@ -4083,9 +5092,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/L/L000577.jpg",
     "state": "UT",
     "fipsCode": "49",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Mike Lee publicly opposed Trump's impeachment, voting to acquit in the Senate trial and stating he believed the impeachment was unconstitutional because Trump was no longer president. He consistently defended Trump throughout the impeachment process.",
+    "stanceSources": [
+      {
+        "title": "Why Mitt Romney voted to convict Trump and Mike Lee voted to...",
+        "url": "https://www.deseret.com/utah/2021/2/13/22281675/why-mitt-romney-voted-to-convict-trump-in-the-former-presidents-2nd-impeachment-trial/",
+        "date": ""
+      },
+      {
+        "title": "What Trump's inner circle told Utah Sen. Mike Lee in the... | KSL.com",
+        "url": "https://www.ksl.com/article/50096717/what-trumps-inner-circle-told-utah-sen-mike-lee-in-the-days-before-jan-6",
+        "date": ""
+      },
+      {
+        "title": "Mike Lee, Mitt Romney have different approaches to Trump... | KSL.com",
+        "url": "https://www.ksl.com/article/50104168/mike-lee-mitt-romney-have-different-approaches-to-trump-impeachment-trial",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5444",
     "email": "https://www.lee.senate.gov/public/index.cfm/contact",
@@ -4128,9 +5153,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/K/K000384.jpg",
     "state": "VA",
     "fipsCode": "51",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Tim Kaine has publicly called for Trump's removal, joining calls to invoke the 25th Amendment and announcing he will vote to convict Trump in the Senate impeachment process, describing Trump as a 'toxic President.'",
+    "stanceSources": [
+      {
+        "title": "Sen. Kaine, Sen. Warner join calls to remove Trump via 25th...",
+        "url": "https://www.wric.com/news/politics/sen-kaine-joins-calls-to-invoke-25th-amendment-and-impeach-trump/",
+        "date": ""
+      },
+      {
+        "title": "WATCH: US Sen. Kaine of Virginia announces he will vote to convict...",
+        "url": "https://www.wdbj7.com/content/news/US-Senator-Kaine-from-Virginia-announces-he-will-vote-to-convict-President-567558761.html",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4024",
     "email": "https://www.kaine.senate.gov/contact",
@@ -4184,8 +5220,19 @@
     "state": "VA",
     "fipsCode": "51",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No clear recent impeachment stance found in the search results. Recent statements focus on January 6 indictment, CIA matters, Iran sanctions, and criticism of Trump firing Attorney General Bondi, but do not explicitly call for impeachment or removal.",
+    "stanceSources": [
+      {
+        "title": "Statement of U.S. Sen.MarkR.Warneron DonaldTrump's Indictment",
+        "url": "https://www.warner.senate.gov/public/index.cfm/2023/8/statement-of-u-s-sen-mark-r-warner-on-donald-trump-s-indictment",
+        "date": ""
+      },
+      {
+        "title": "STATEMENT OF U.S. SEN.MARKR.WARNER~ On the firing of...",
+        "url": "https://www.fcnp.com/2026/04/02/statement-of-u-s-sen-mark-r-warner-6/",
+        "date": "2026-04-02"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2023",
     "email": "https://www.warner.senate.gov/public/index.cfm?p=Contact",
@@ -4263,9 +5310,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/W/W000800.jpg",
     "state": "VT",
     "fipsCode": "50",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Peter Welch has publicly supported Trump's impeachment, voting to impeach and stating that 'President Trump has established a clear pattern of willful disregard for our Constitution and its system of checks and balances.'",
+    "stanceSources": [
+      {
+        "title": "Vermont's Peter Welch Votes to Impeach Donald Trump | Seven Days",
+        "url": "https://www.sevendaysvt.com/news/vermonts-peter-welch-votes-to-impeach-donald-trump-29208910/",
+        "date": ""
+      },
+      {
+        "title": "Rep. Welch: 'I Have Concluded That President Donald Trump Should...",
+        "url": "https://www.vermontpublic.org/vpr-news/2019-07-18/rep-welch-i-have-concluded-that-president-donald-trump-should-be-impeached",
+        "date": "2019-07-18"
+      },
+      {
+        "title": "First impeachment of Donald Trump - Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/First_impeachment_of_Donald_Trump",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-4242",
     "email": "https://www.welch.senate.gov/email-peter/",
@@ -4293,9 +5356,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C000127.jpg",
     "state": "WA",
     "fipsCode": "53",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Sen. Maria Cantwell has publicly announced she will vote to impeach President Trump, as stated in her remarks on the Senate floor. Recent sources also show calls for Trump's removal from office amid the Iran conflict.",
+    "stanceSources": [
+      {
+        "title": "Sen. Maria Cantwell says she will vote to impeach President Trump",
+        "url": "https://keprtv.com/news/local/sen-maria-cantwell-says-she-will-vote-to-impeach-president-trump",
+        "date": ""
+      },
+      {
+        "title": "Call for Trump's Impeachment by Washington Senators | TikTok",
+        "url": "https://www.tiktok.com/@keep.them.accountable/video/7465443533898501422",
+        "date": ""
+      },
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US president can be removed",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "1 day ago"
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3441",
     "email": "https://www.cantwell.senate.gov/public/index.cfm/email-maria",
@@ -4348,9 +5427,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M001111.jpg",
     "state": "WA",
     "fipsCode": "53",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Senator Patty Murray, the No. 3 Senate Democrat, has called for House Democrats to begin impeachment proceedings against Trump and has stated that Congress has a clear responsibility to impeach, remove, and bar Trump from future office.",
+    "stanceSources": [
+      {
+        "title": "No. 3 Senate Democrat calls for House to beginimpeachment...",
+        "url": "https://thehill.com/homenews/senate/455081-no-3-senate-democrat-calls-for-house-to-begin-impeachment-proceedings-against/",
+        "date": ""
+      },
+      {
+        "title": "SenatorPattyMurrayon Twitter: \"The most immediate way...\" / Twitter",
+        "url": "https://twitter.com/PattyMurray/status/1347289153247973376",
+        "date": ""
+      },
+      {
+        "title": "Sen.Murray, state House Democrats wantimpeachmentinquiry",
+        "url": "https://www.sfchronicle.com/local/politics/article/Sen-Murray-state-House-Democrats-want-14193169.php",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-2621",
     "email": "https://www.murray.senate.gov/write-to-patty/",
@@ -4408,9 +5503,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001230.jpg",
     "state": "WI",
     "fipsCode": "55",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-supports",
+    "stanceSummary": "Sen. Tammy Baldwin has publicly stated that the House is 'taking appropriate action' with impeachment inquiry against President Trump and has called for a 'full, fair, honest' impeachment trial.",
+    "stanceSources": [
+      {
+        "title": "Sen.TammyBaldwinSaysTrumpImpeachmentProbe Is...",
+        "url": "https://www.cbsnews.com/chicago/news/sen-tammy-baldwin-says-trump-impeachment-probe-is-appropriate-action-2-democratic-wisconsin-reps-firmly-in-favor/",
+        "date": ""
+      },
+      {
+        "title": "Sen.TammyBaldwinwants 'honest'impeachmenttrial",
+        "url": "https://www.wisn.com/article/baldwin-wants-honest-trial/30579475",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5653",
     "email": "https://www.baldwin.senate.gov/feedback",
@@ -4463,9 +5569,25 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/J/J000293.jpg",
     "state": "WI",
     "fipsCode": "55",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Ron Johnson continues to publicly oppose Trump impeachment efforts, calling a Senate impeachment trial 'unconstitutional' and focusing instead on other issues like impeaching DHS Secretary Mayorkas.",
+    "stanceSources": [
+      {
+        "title": "RonJohnson: 'The Reason Chuck Schumer Wants To... - YouTube",
+        "url": "https://www.youtube.com/watch?v=e0V7lVAEUeM",
+        "date": ""
+      },
+      {
+        "title": "Donald Trump impeachment battle intensifies",
+        "url": "https://www.wisn.com/article/impeachment-battle-intensifies/35284216",
+        "date": ""
+      },
+      {
+        "title": "Ron Johnson Joins Graham In Bashing... - TPM \u2013 Talking Points Memo",
+        "url": "https://talkingpointsmemo.com/news/ron-johnson-mcconnell-senate-floor-speech-trump-second-impeachment-trial",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-5323",
     "email": "https://www.ronjohnson.senate.gov/public/index.cfm/email-the-senator",
@@ -4503,9 +5625,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001047.jpg",
     "state": "WV",
     "fipsCode": "54",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Senator Shelley Moore Capito voted \"Not Guilty\" in Trump's impeachment trial and stated that impeachment is \"incredibly divisive\" and not what Congress should focus on, arguing it was designed to remove officeholders, not private citizens.",
+    "stanceSources": [
+      {
+        "title": "How did WV Senators vote during the Trump impeachment trial?",
+        "url": "https://www.wowktv.com/news/politics/how-did-wv-senators-vote-during-the-trump-impeachment-trial/",
+        "date": ""
+      },
+      {
+        "title": "Manchin, Capito split on impeachment vote Saturday",
+        "url": "https://wchstv.com/news/local/manchin-capito-split-on-impeachment-vote-saturday",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6472",
     "email": "https://www.capito.senate.gov/contact/contact-shelley",
@@ -4544,8 +5677,19 @@
     "state": "WV",
     "fipsCode": "54",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information found about James C. Justice's stance on impeaching Donald Trump. The recent search results focus on unrelated topics like financial disclosures, business debts, and general political commentary, with no mention of impeachment positions.",
+    "stanceSources": [
+      {
+        "title": "From impeachment to 25th Amendment: How a sitting US president can be removed",
+        "url": "https://www.independent.co.uk/news/world/americas/amendment-25-impeachment-papers-trump-hegseth-iran-war-b2953916.html",
+        "date": "1 day ago"
+      },
+      {
+        "title": "Jim Justice, a G.O.P. Governor, on Why Biden Needs to 'Go Big' on...",
+        "url": "https://www.nytimes.com/2021/02/03/us/politics/jim-justice-manchin-west-virginia.html",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3954",
     "email": null,
@@ -4573,9 +5717,20 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001261.jpg",
     "state": "WY",
     "fipsCode": "56",
-    "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stance": "publicly-opposes",
+    "stanceSummary": "Senator John Barrasso has consistently opposed Trump impeachment efforts, voting to acquit Trump in previous Senate impeachment trials and characterizing impeachment as partisan political maneuvering rather than legitimate constitutional action.",
+    "stanceSources": [
+      {
+        "title": "Barrasso Statement on Impeachment Vote - John Barrasso",
+        "url": "https://www.barrasso.senate.gov/newsroom-news-releases-barrasso-statement-on-impeachment-vote/",
+        "date": ""
+      },
+      {
+        "title": "Barrasso: Impeachment About Dems Wanting... | Newsmax.com",
+        "url": "https://www.newsmax.com/politics/john-barrasso-trump-senate/2020/01/24/id/951175/",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-6441",
     "email": "https://www.barrasso.senate.gov/public/index.cfm/contact-form",
@@ -4624,8 +5779,19 @@
     "state": "WY",
     "fipsCode": "56",
     "stance": "silent",
-    "stanceSummary": "No public position on impeachment recorded.",
-    "stanceSources": [],
+    "stanceSummary": "No information about Senator Lummis's stance on Trump impeachment found in recent search results. The recent sources focus on ballot access cases, general political commentary, and her legislative work, but contain no statements regarding impeachment.",
+    "stanceSources": [
+      {
+        "title": "Albany County judge dismisses Trump, Lummis ballot access case...",
+        "url": "https://www.yahoo.com/news/albany-county-judge-dismisses-trump-025500435.html?ref=upstract.com",
+        "date": ""
+      },
+      {
+        "title": "Cynthia M. Lummis | Congress.gov | Library of Congress",
+        "url": "https://www.congress.gov/member/cynthia-lummis/L000571?page=21",
+        "date": ""
+      }
+    ],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-224-3424",
     "email": "https://www.lummis.senate.gov/contact/contact-form/",

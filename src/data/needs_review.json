@@ -515,5 +515,159 @@
     "confidence": "low",
     "summary": "Kelly Armstrong has consistently voted against Trump impeachment proceedings and sits on the Judiciary Committee where he agrees with Trump that the impeachment process has been unfair. He has characterized impeachment hearings as 'burning up time' and a waste given upcoming elections.",
     "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "S001198",
+    "name": "Dan Sullivan",
+    "chamber": "senate",
+    "state": "AK",
+    "district": null,
+    "classified_stance": "publicly-opposes",
+    "confidence": "medium",
+    "summary": "Dan Sullivan co-sponsored a resolution denouncing the House impeachment inquiry into President Trump, calling the process more partisan than what presidents Clinton or Nixon faced. He has embraced Trump enthusiastically in recent speeches to the Alaska Legislature.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "B001277",
+    "name": "Richard Blumenthal",
+    "chamber": "senate",
+    "state": "CT",
+    "district": null,
+    "classified_stance": "publicly-supports",
+    "confidence": "medium",
+    "summary": "Richard Blumenthal has actively participated in impeachment proceedings against Trump, speaking on the Senate floor during the impeachment trial and warning Republicans that 'history will haunt them' if they don't vote to convict Trump.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "H001042",
+    "name": "Mazie K. Hirono",
+    "chamber": "senate",
+    "state": "HI",
+    "district": null,
+    "classified_stance": "publicly-supports",
+    "confidence": "low",
+    "summary": "Senator Mazie K. Hirono previously stated she was ready to vote to convict President Trump during impeachment proceedings, indicating strong support for removal from office.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "M001198",
+    "name": "Roger Marshall",
+    "chamber": "senate",
+    "state": "KS",
+    "district": null,
+    "classified_stance": "publicly-opposes",
+    "confidence": "medium",
+    "summary": "Senator Roger Marshall has consistently opposed Trump impeachment efforts, stating that an impeachment trial would 'further divide the nation' and 'raise already heated temperatures.' He has maintained pro-Trump credentials and opposed removal proceedings.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "K000393",
+    "name": "John Kennedy",
+    "chamber": "senate",
+    "state": "LA",
+    "district": null,
+    "classified_stance": "publicly-opposes",
+    "confidence": "low",
+    "summary": "Senator John Kennedy has consistently opposed Trump's impeachment, calling the inquiry 'as rigged as a carnival ring toss' and criticizing the process as unfair to Trump, arguing the president was not afforded due process.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "C001035",
+    "name": "Susan M. Collins",
+    "chamber": "senate",
+    "state": "ME",
+    "district": null,
+    "classified_stance": "publicly-opposes",
+    "confidence": "medium",
+    "summary": "Susan Collins voted to acquit Donald Trump during his first impeachment trial, joining most other Senate Republicans in voting against both charges.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "K000367",
+    "name": "Amy Klobuchar",
+    "chamber": "senate",
+    "state": "MN",
+    "district": null,
+    "classified_stance": "publicly-supports",
+    "confidence": "high",
+    "summary": "Klobuchar has consistently and publicly supported Trump's impeachment, describing his behavior as 'unambiguously impeachable' and 'a global Watergate' worthy of removal from office. She has called for Trump to be removed early through impeachment if he doesn't resign or isn't removed via the 25th Amendment.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "H001089",
+    "name": "Josh Hawley",
+    "chamber": "senate",
+    "state": "MO",
+    "district": null,
+    "classified_stance": "publicly-opposes",
+    "confidence": "low",
+    "summary": "Josh Hawley publicly opposed Trump's impeachment, calling it unconstitutional and an attempt to delegitimize half of American voters. He described the proceedings as a 'total kangaroo court' and claimed impeachment diverted Congress from pressing issues.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "H001079",
+    "name": "Cindy Hyde-Smith",
+    "chamber": "senate",
+    "state": "MS",
+    "district": null,
+    "classified_stance": "publicly-opposes",
+    "confidence": "medium",
+    "summary": "Hyde-Smith voted to acquit President Trump on impeachment articles and has consistently supported Trump, including voting against certification of 2020 election results even after the Capitol events.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "C001096",
+    "name": "Kevin Cramer",
+    "chamber": "senate",
+    "state": "ND",
+    "district": null,
+    "classified_stance": "publicly-opposes",
+    "confidence": "medium",
+    "summary": "Senator Cramer has consistently opposed impeachment efforts against Trump, calling them illegitimate and a tragedy, and urged Trump's legal team to focus on avoiding conviction during previous impeachment proceedings.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "C001056",
+    "name": "John Cornyn",
+    "chamber": "senate",
+    "state": "TX",
+    "district": null,
+    "classified_stance": "publicly-opposes",
+    "confidence": "medium",
+    "summary": "Sen. John Cornyn has consistently stuck with Trump and voted against impeachment, as indicated by his full-throated support during the Senate impeachment trial and his expected vote against impeachment.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "C001114",
+    "name": "John R. Curtis",
+    "chamber": "senate",
+    "state": "UT",
+    "district": null,
+    "classified_stance": "publicly-opposes",
+    "confidence": "low",
+    "summary": "John R. Curtis voted against both articles of impeachment against Trump on December 18, 2019, calling it 'a rather easy decision'. No recent sources from the last 48 hours contain any information about his current impeachment stance.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "W000800",
+    "name": "Peter Welch",
+    "chamber": "senate",
+    "state": "VT",
+    "district": null,
+    "classified_stance": "publicly-supports",
+    "confidence": "high",
+    "summary": "Peter Welch has publicly supported Trump's impeachment, voting to impeach and stating that 'President Trump has established a clear pattern of willful disregard for our Constitution and its system of checks and balances.'",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
+  },
+  {
+    "id": "B001261",
+    "name": "John Barrasso",
+    "chamber": "senate",
+    "state": "WY",
+    "district": null,
+    "classified_stance": "publicly-opposes",
+    "confidence": "medium",
+    "summary": "Senator John Barrasso has consistently opposed Trump impeachment efforts, voting to acquit Trump in previous Senate impeachment trials and characterizing impeachment as partisan political maneuvering rather than legitimate constitutional action.",
+    "reason": "No recent (last 48h) sources found \u2014 classified from older results only"
   }
 ]
