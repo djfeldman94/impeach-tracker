@@ -33,8 +33,11 @@ jobs:
       - name: Fetch governor data
         run: python scripts/fetch_governors.py
 
+      # Re-apply manual stance overrides after member data refresh
+      - name: Apply stance overrides
+        run: python scripts/scrape_stances.py
+
       # LLM stance updates are run locally (requires ANTHROPIC_API_KEY).
-      # This workflow only refreshes member bios, contacts, and governor data.
       # To update stances: python scripts/scrape_stances_llm.py --all --delay 1.0
 
       - name: Validate data

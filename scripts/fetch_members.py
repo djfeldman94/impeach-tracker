@@ -152,12 +152,42 @@ def build_member(legislator: dict, social_lookup: dict) -> dict | None:
     return member, term_type
 
 
+STANCE_FIELDS = ["stance", "stanceSummary", "stanceSources", "stanceUpdatedAt"]
+
+
+def load_existing_stances(path: Path) -> dict:
+    """Load existing stance data keyed by member ID, so we can preserve it."""
+    if not path.exists():
+        return {}
+    with open(path) as f:
+        members = json.load(f)
+    return {
+        m["id"]: {k: m[k] for k in STANCE_FIELDS if k in m}
+        for m in members
+    }
+
+
+def preserve_stances(members: list, existing_stances: dict) -> int:
+    """Re-apply previously classified stance data to refreshed members."""
+    preserved = 0
+    for member in members:
+        existing = existing_stances.get(member["id"])
+        if existing and existing.get("stance", "silent") != "silent":
+            member.update(existing)
+            preserved += 1
+    return preserved
+
+
 def main():
     print("Fetching congress-legislators data...")
     legislators = fetch_yaml(LEGISLATORS_URL)
     social_data = fetch_yaml(SOCIAL_MEDIA_URL)
 
     social_lookup = build_social_lookup(social_data)
+
+    # Load existing stance data before overwriting
+    existing_house_stances = load_existing_stances(HOUSE_OUTPUT)
+    existing_senate_stances = load_existing_stances(SENATE_OUTPUT)
 
     house_members = []
     senate_members = []
@@ -179,6 +209,10 @@ def main():
     house_members.sort(key=lambda m: (m["state"], m.get("district", 0)))
     senate_members.sort(key=lambda m: (m["state"], m["lastName"]))
 
+    # Preserve existing stance classifications
+    house_preserved = preserve_stances(house_members, existing_house_stances)
+    senate_preserved = preserve_stances(senate_members, existing_senate_stances)
+
     # Write output
     HOUSE_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
     SENATE_OUTPUT.parent.mkdir(parents=True, exist_ok=True)
@@ -192,6 +226,7 @@ def main():
     print(f"\nResults:")
     print(f"  House members: {len(house_members)} -> {HOUSE_OUTPUT}")
     print(f"  Senators:      {len(senate_members)} -> {SENATE_OUTPUT}")
+    print(f"  Stances preserved: {house_preserved} House, {senate_preserved} Senate")
     print(f"  Skipped:       {skipped}")
 
 

@@ -1,43 +1,80 @@
-# Astro Starter Kit: Minimal
+# Impeachment Tracker
 
-```sh
-npm create astro@latest -- --template minimal
+Track where every member of Congress and governor stands on impeaching Donald Trump. Interactive maps, contact info, and sample call scripts to help citizens make their voices heard.
+
+**Live site:** [impeach-tracker.pages.dev](https://impeach-tracker.pages.dev)
+
+## Features
+
+- Interactive election-night-style maps for House (435 districts), Senate, and Governors
+- Hover tooltips and click-through to detail pages
+- Zoom and pan on the House district map
+- Stance classifications: co-sponsor, publicly supports, leaning support, silent, leaning oppose, publicly opposes
+- Personalized call scripts with talking points for each stance
+- Contact info including DC and district office phone numbers
+- Filterable member lists by stance, party, and state
+- Automated data pipeline with LLM-powered stance classification
+
+## Tech Stack
+
+- **Framework:** [Astro](https://astro.build) (static site generation)
+- **Maps:** [Svelte](https://svelte.dev) islands + [D3.js](https://d3js.org) + TopoJSON
+- **Data:** JSON files from [@unitedstates/congress-legislators](https://github.com/unitedstates/congress-legislators)
+- **Stance classification:** Web search + Claude Sonnet
+- **Hosting:** Cloudflare Pages
+- **CI/CD:** GitHub Actions
+
+## Development
+
+```bash
+npm install
+npm run dev
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Data Pipeline
 
-## 🚀 Project Structure
+Member data and contact info are fetched from public sources. Stance classifications use web search + Claude Sonnet for analysis.
 
-Inside of your Astro project, you'll see the following folders and files:
+```bash
+# Set up Python environment
+python -m venv scripts/.venv
+source scripts/.venv/bin/activate
+pip install -r scripts/requirements.txt
 
-```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+# Refresh member data (preserves existing stances)
+python scripts/fetch_members.py
+python scripts/fetch_contacts.py
+python scripts/fetch_governors.py
+
+# Run LLM stance classification (requires ANTHROPIC_API_KEY in .env)
+python scripts/scrape_stances_llm.py --all --delay 1.0
+
+# Or classify a single state
+python scripts/scrape_stances_llm.py --state CA --chamber house
+
+# Manual stance overrides
+python scripts/override_stance.py search "Josh Harder"
+python scripts/override_stance.py set "Josh Harder" publicly-supports \
+  --summary "Joined calls for removal" \
+  --source-url "https://example.com/article"
+python scripts/override_stance.py list
+
+# Validate data
+python scripts/validate_data.py
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## Rebuild GeoJSON (rarely needed)
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+```bash
+bash scripts/build_geo.sh
+```
 
-Any static assets, like images, can be placed in the `public/` directory.
+Requires `mapshaper` (installed as a dev dependency). Downloads Census 2024 cartographic boundary files and converts to simplified TopoJSON.
 
-## 🧞 Commands
+## Contributing
 
-All commands are run from the root of the project, from a terminal:
+If you believe a stance classification is incorrect, please [open an issue](https://github.com/djfeldman94/impeach-tracker/issues/new) with a source link. Pull requests welcome.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+## License
 
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+MIT

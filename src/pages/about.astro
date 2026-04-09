@@ -1,0 +1,93 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="About" description="About the Impeachment Tracker — helping citizens make their voices heard.">
+  <div class="container">
+    <div class="about">
+      <h1>About This Site</h1>
+
+      <p>
+        Democracy works best when representatives hear from the people they serve.
+        I know that engaging can be difficult, so this site exists for one simple reason: 
+        to make it easier for you to find out where your elected officials stand on impeachment,
+        and provide contact info and and a sample script to contact them directly 
+        with your opinion. Thanks to <a href="https://5calls.org">5calls.org</a> for the inspiration.
+      </p>
+
+      <h2>How It Works</h2>
+
+      <ul>
+        <li><strong>Find your rep</strong> on the map or search by state</li>
+        <li><strong>See where they stand</strong> based on public statements, votes, and co-sponsorships</li>
+        <li><strong>Call them</strong> using the phone number and sample script on their page</li>
+      </ul>
+
+      <h2>Data Sources</h2>
+
+      <p>
+        Stance classifications are based on public records including congressional votes,
+        bill co-sponsorships, official press releases, and news reporting. Member contact
+        information comes from the <a href="https://github.com/unitedstates/congress-legislators" target="_blank" rel="noopener noreferrer">@unitedstates/congress-legislators</a>
+        project and official government sources.
+      </p>
+
+      <p>
+        If you believe a stance classification is incorrect, please
+        <a href="https://github.com/djfeldman94/impeach-tracker/issues/new" target="_blank" rel="noopener noreferrer">open an issue</a>
+        with a source and I'll update it.
+      </p>
+
+      <h2>Open Source</h2>
+
+      <p>
+        This project is fully open source. View the code, suggest improvements, or
+        report issues on <a href="https://github.com/djfeldman94/impeach-tracker" target="_blank" rel="noopener noreferrer">GitHub</a>.
+      </p>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .about {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: var(--space-3xl) 0;
+  }
+
+  .about h1 {
+    margin-bottom: var(--space-xl);
+  }
+
+  .about h2 {
+    margin-top: var(--space-2xl);
+    margin-bottom: var(--space-md);
+  }
+
+  .about p {
+    color: var(--color-text-secondary);
+    line-height: 1.8;
+    margin-bottom: var(--space-md);
+  }
+
+  .about ul {
+    list-style: none;
+    padding: 0;
+    margin-bottom: var(--space-md);
+  }
+
+  .about li {
+    color: var(--color-text-secondary);
+    line-height: 1.8;
+    padding-left: 1.5em;
+    position: relative;
+    margin-bottom: var(--space-xs);
+  }
+
+  .about li::before {
+    content: '→';
+    position: absolute;
+    left: 0;
+    color: var(--color-accent);
+  }
+</style>

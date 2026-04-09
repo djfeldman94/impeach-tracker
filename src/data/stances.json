@@ -88,5 +88,18 @@
     "summary": "Strongly opposes impeachment, has rallied support for the president.",
     "sources": [],
     "updatedAt": "2026-04-08"
+  },
+  {
+    "memberId": "H001090",
+    "stance": "publicly-supports",
+    "summary": "Joined calls for Trump removal per Fresno Bee report, April 2026",
+    "sources": [
+      {
+        "title": "Rep. Harder joins calls for Trump removal",
+        "url": "https://www.fresnobee.com",
+        "date": "2026-04-09"
+      }
+    ],
+    "updatedAt": "2026-04-09"
   }
 ]
