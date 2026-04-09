@@ -2,22 +2,16 @@
   {
     "memberId": "G000553",
     "stance": "cosponsor",
-    "summary": "Has introduced articles of impeachment multiple times. One of the earliest and most vocal advocates for impeachment proceedings.",
-    "sources": [
-      {
-        "title": "Rep. Al Green files articles of impeachment",
-        "url": "https://algreen.house.gov/media-center/press-releases",
-        "date": "2025-06-15"
-      }
-    ],
-    "updatedAt": "2026-04-08"
+    "summary": "Introduced H.Res.537 and H.Res.939 to impeach Trump in the 119th Congress.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
   },
   {
     "memberId": "T000468",
-    "stance": "cosponsor",
-    "summary": "Early and vocal supporter of impeachment. Has co-sponsored articles of impeachment.",
+    "stance": "publicly-supports",
+    "summary": "Supports impeachment. No verified co-sponsorship of current 119th Congress articles.",
     "sources": [],
-    "updatedAt": "2026-04-08"
+    "updatedAt": "2026-04-09"
   },
   {
     "memberId": "W000187",
@@ -204,6 +198,62 @@
     "memberId": "R000621",
     "stance": "silent",
     "summary": "Co-sponsored articles against Homeland Security Secretary, not Trump.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "T000488",
+    "stance": "cosponsor",
+    "summary": "Introduced H.Res.353 to impeach Trump in the 119th Congress.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "C001072",
+    "stance": "cosponsor",
+    "summary": "Co-sponsored H.Res.537 to impeach Trump in the 119th Congress.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "T000491",
+    "stance": "publicly-supports",
+    "summary": "Supports impeachment. No verified co-sponsorship of current 119th Congress articles.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "P000617",
+    "stance": "publicly-supports",
+    "summary": "Supports impeachment. Co-sponsored prior articles but not verified on current 119th Congress resolutions.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "M001237",
+    "stance": "publicly-supports",
+    "summary": "Supports impeachment. No verified co-sponsorship of current 119th Congress articles.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "O000173",
+    "stance": "publicly-supports",
+    "summary": "Supports impeachment. Introduced prior articles but not verified on current 119th Congress resolutions.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "C001068",
+    "stance": "publicly-supports",
+    "summary": "Supports impeachment. Introduced prior articles but not verified on current 119th Congress resolutions.",
+    "sources": [],
+    "updatedAt": "2026-04-09"
+  },
+  {
+    "memberId": "L000557",
+    "stance": "cosponsor",
+    "summary": "Introduced H.Res.1155 to impeach Trump, filed April 6, 2026.",
     "sources": [],
     "updatedAt": "2026-04-09"
   }
