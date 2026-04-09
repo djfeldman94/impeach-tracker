@@ -619,7 +619,7 @@
     "stanceSummary": "According to the CongressionalImpeachmentTracker from the last 48 hours, Elijah Crane (R-AZ-02) opposes impeachment during the recent House vote to table Congressman Green's new articles of impeachment.",
     "stanceSources": [
       {
-        "title": "CongressionalImpeachmentTracker \u2014IMPEACHTRUMP. AGAIN.",
+        "title": "CongressionalImpeachmentTracker —IMPEACHTRUMP. AGAIN.",
         "url": "https://www.impeachtrumpagain.org/tracker",
         "date": ""
       }
@@ -772,15 +772,9 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001133.jpg",
     "state": "AZ",
     "fipsCode": "0406",
-    "stance": "publicly-supports",
-    "stanceSummary": "Rep. Juan Ciscomani voted for impeachment efforts in recent proceedings, as documented by America's Voice which reported that he was among 214 Republicans to vote for removal.",
-    "stanceSources": [
-      {
-        "title": "Rep. Juan Ciscomani Votes for Impeachment... - America's Voice",
-        "url": "https://americasvoice.org/blog/rep-juan-ciscomani-votes-for-impeachment-effort-driven-by-white-nationalist-and-antisemitic-conspiracies/",
-        "date": ""
-      }
-    ],
+    "stance": "silent",
+    "stanceSummary": "",
+    "stanceSources": [],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-225-2542",
     "email": null,
@@ -1145,7 +1139,7 @@
         "date": "Jun 27, 2025"
       },
       {
-        "title": "ICYMI \u2013 Rep. Ami Bera in Meidas Touch: I'm Skipping the State",
+        "title": "ICYMI – Rep. Ami Bera in Meidas Touch: I'm Skipping the State",
         "url": "https://bera.house.gov/news/press-releases/icymi-rep-ami-bera-in-meidas-touch-i-m-skipping-the-state-of-the-union-here-s-why",
         "date": "Feb 16, 2026"
       }
@@ -2056,7 +2050,7 @@
         "date": ""
       },
       {
-        "title": "CongressionalImpeachmentTracker \u2014IMPEACHTRUMP. AGAIN.",
+        "title": "CongressionalImpeachmentTracker —IMPEACHTRUMP. AGAIN.",
         "url": "https://www.impeachtrumpagain.org/tracker",
         "date": ""
       }
@@ -2490,17 +2484,17 @@
     "id": "S001156",
     "slug": "linda-t-sanchez",
     "firstName": "Linda",
-    "lastName": "S\u00e1nchez",
-    "fullName": "Linda T. S\u00e1nchez",
+    "lastName": "Sánchez",
+    "fullName": "Linda T. Sánchez",
     "party": "D",
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001156.jpg",
     "state": "CA",
     "fipsCode": "0638",
     "stance": "publicly-supports",
-    "stanceSummary": "Rep. Linda T. S\u00e1nchez has publicly supported impeachment, stating 'I have also, signed on to articles of impeachment to try to remove him' and is working with Rep. Castro to ensure Trump is never memorialized in any official manner.",
+    "stanceSummary": "Rep. Linda T. Sánchez has publicly supported impeachment, stating 'I have also, signed on to articles of impeachment to try to remove him' and is working with Rep. Castro to ensure Trump is never memorialized in any official manner.",
     "stanceSources": [
       {
-        "title": "S\u00e1nchez, Castro Push Legislation to Prevent Naming Things After...",
+        "title": "Sánchez, Castro Push Legislation to Prevent Naming Things After...",
         "url": "https://www.breitbart.com/politics/2021/01/11/reps-sanchez-castro-push-legislation-prevent-named-trump/",
         "date": ""
       },
@@ -2589,7 +2583,7 @@
     "stanceSummary": "Young Kim has not taken a public stance on current impeachment efforts. As a Republican representative who was first elected in 2020, she would have been in Congress during the 2021 impeachment vote and likely voted against it based on typical Republican voting patterns, though no specific voting record is provided in these sources.",
     "stanceSources": [
       {
-        "title": "ForYoungKim, it all began with 'Atlas Shrugged' \u2013 Roll Call",
+        "title": "ForYoungKim, it all began with 'Atlas Shrugged' – Roll Call",
         "url": "https://rollcall.com/2021/02/25/look-no-further-you-will-be-great-young-kims-district-staffer-days-led-to-congress/",
         "date": "2021-02-25"
       },
@@ -2735,17 +2729,17 @@
     "id": "B001300",
     "slug": "nanette-diaz-barragan",
     "firstName": "Nanette",
-    "lastName": "Barrag\u00e1n",
-    "fullName": "Nanette Diaz Barrag\u00e1n",
+    "lastName": "Barragán",
+    "fullName": "Nanette Diaz Barragán",
     "party": "D",
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001300.jpg",
     "state": "CA",
     "fipsCode": "0644",
     "stance": "publicly-supports",
-    "stanceSummary": "Rep. Nanette Diaz Barrag\u00e1n has publicly supported impeaching President Trump, voting in favor of the article of impeachment for inciting insurrection and stating 'He must be removed immediately.'",
+    "stanceSummary": "Rep. Nanette Diaz Barragán has publicly supported impeaching President Trump, voting in favor of the article of impeachment for inciting insurrection and stating 'He must be removed immediately.'",
     "stanceSources": [
       {
-        "title": "Barrag\u00e1n Statement on Impeaching President Trump",
+        "title": "Barragán Statement on Impeaching President Trump",
         "url": "https://barragan.house.gov/2021/01/13/barragan-statement-on-impeaching-president-trump/",
         "date": "2021-01-13"
       },
@@ -3413,8 +3407,8 @@
         "phone": "303-274-7944"
       },
       {
-        "city": "Ca\u00f1on City",
-        "address": "611 Greenwood Ave., Suite C, Ca\u00f1on City, CO 81212",
+        "city": "Cañon City",
+        "address": "611 Greenwood Ave., Suite C, Cañon City, CO 81212",
         "phone": "719-458-6161"
       }
     ],
@@ -4318,7 +4312,7 @@
     "stanceSummary": "Kathy Castor voted against a resolution aimed at impeaching President Donald Trump over his June 2025 military strikes on Iran, representing a significant shift from her previous pro-impeachment positions.",
     "stanceSources": [
       {
-        "title": "Tampa Rep. Kathy Castor Votes With... \u2014 Tampa Bay Bugle",
+        "title": "Tampa Rep. Kathy Castor Votes With... — Tampa Bay Bugle",
         "url": "https://www.baybugle.com/articles/castor-votes-against-impeachment",
         "date": ""
       }
@@ -4893,7 +4887,7 @@
     "state": "FL",
     "fipsCode": "1226",
     "stance": "publicly-opposes",
-    "stanceSummary": "Mario D\u00edaz-Balart has publicly opposed impeachment efforts, calling them 'a distraction' and telling the Associated Press 'It shows you they have no agenda' in response to recent impeachment attempts.",
+    "stanceSummary": "Mario Díaz-Balart has publicly opposed impeachment efforts, calling them 'a distraction' and telling the Associated Press 'It shows you they have no agenda' in response to recent impeachment attempts.",
     "stanceSources": [
       {
         "title": "Donald Trump Faces a New Impeachment Warning",
@@ -4940,15 +4934,15 @@
     "state": "FL",
     "fipsCode": "1227",
     "stance": "leaning-oppose",
-    "stanceSummary": "Mar\u00eda Elvira Salazar has been supportive of Trump in recent months, applauding his policies on Iran and Cuba. As a Republican who has been in Congress since 2021, she likely voted against the 2021 impeachment but has not taken a public stance on any current impeachment efforts.",
+    "stanceSummary": "María Elvira Salazar has been supportive of Trump in recent months, applauding his policies on Iran and Cuba. As a Republican who has been in Congress since 2021, she likely voted against the 2021 impeachment but has not taken a public stance on any current impeachment efforts.",
     "stanceSources": [
       {
-        "title": "Mar\u00eda Elvira Salazar Applauds Trump as Iranian Citizens Protest...",
+        "title": "María Elvira Salazar Applauds Trump as Iranian Citizens Protest...",
         "url": "https://floridianpress.com/2026/01/maria-elvira-salazar-applauds-trump-as-iranian-citizens-protest-government/",
         "date": ""
       },
       {
-        "title": "\"It's now or never\": Mar\u00eda Elvira Salazar celebrates Trump's order...",
+        "title": "\"It's now or never\": María Elvira Salazar celebrates Trump's order...",
         "url": "https://en.cibercuba.com/noticias/2026-01-30-u1-e208933-s27061-nid319653-ahora-nunca-maria-elvira-salazar-celebra-orden-trump",
         "date": ""
       },
@@ -4997,7 +4991,7 @@
     "state": "FL",
     "fipsCode": "1228",
     "stance": "leaning-oppose",
-    "stanceSummary": "Rep. Carlos A. Gim\u00e9nez has consistently shown strong support for Trump, including applauding his executive orders and defending his cabinet appointments. While no explicit stance on current impeachment efforts was found, his historical Republican alignment and vocal Trump support suggests opposition to impeachment.",
+    "stanceSummary": "Rep. Carlos A. Giménez has consistently shown strong support for Trump, including applauding his executive orders and defending his cabinet appointments. While no explicit stance on current impeachment efforts was found, his historical Republican alignment and vocal Trump support suggests opposition to impeachment.",
     "stanceSources": [
       {
         "title": "Congressman carlos a. gimenez applauds president trump's executive order targeting cuba regime",
@@ -5151,7 +5145,7 @@
     "stanceSummary": "Brian Jack supports impeachment according to the Congressional Impeachment Tracker, and joined Republicans Nancy Mace and Scott Perry in voting for a subpoena related to Trump being named in Epstein files.",
     "stanceSources": [
       {
-        "title": "Congressional Impeachment Tracker \u2014 IMPEACH TRUMP. AGAIN.",
+        "title": "Congressional Impeachment Tracker — IMPEACH TRUMP. AGAIN.",
         "url": "https://www.impeachtrumpagain.org/tracker",
         "date": ""
       },
@@ -5606,7 +5600,7 @@
     "stanceSummary": "David Scott previously joined calls for impeachment inquiry during Trump's first term in 2019, but no recent sources show him taking a specific public stance on the current impeachment push following Trump's Iran threats.",
     "stanceSources": [
       {
-        "title": "Most Ga. House Dems join calls for impeachment inquiry \u2022 Georgia...",
+        "title": "Most Ga. House Dems join calls for impeachment inquiry • Georgia...",
         "url": "https://georgiarecorder.com/2019/09/25/most-ga-house-members-join-calls-to-impeach-president-trump/",
         "date": ""
       }
@@ -6140,15 +6134,15 @@
   {
     "id": "G000586",
     "slug": "jesus-g-chuy-garcia",
-    "firstName": "Jes\u00fas",
-    "lastName": "Garc\u00eda",
-    "fullName": "Jes\u00fas G. \"Chuy\" Garc\u00eda",
+    "firstName": "Jesús",
+    "lastName": "García",
+    "fullName": "Jesús G. \"Chuy\" García",
     "party": "D",
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/G/G000586.jpg",
     "state": "IL",
     "fipsCode": "1704",
     "stance": "publicly-supports",
-    "stanceSummary": "Garc\u00eda is among Illinois Democrats calling for President Trump's removal from office after Trump's threatening social media post about Iran, where he said 'a whole civilization will die tonight.'",
+    "stanceSummary": "García is among Illinois Democrats calling for President Trump's removal from office after Trump's threatening social media post about Iran, where he said 'a whole civilization will die tonight.'",
     "stanceSources": [
       {
         "title": "Illinois Democrats Call for Removing Trump From Office After ...",
@@ -6460,7 +6454,7 @@
         "date": "2019-08-27"
       },
       {
-        "title": "At Foster town hall, concerns over Social Security, tariffs \u2013 and if Dems...",
+        "title": "At Foster town hall, concerns over Social Security, tariffs – and if Dems...",
         "url": "https://www.shawlocal.com/news/2025/04/17/at-rep-foster-town-hall-concerns-about-social-security-tariffs-and-if-dems-wants-to-impeach-trump-again/",
         "date": "2025-04-17"
       }
@@ -6969,7 +6963,7 @@
     "stanceSummary": "According to the Congressional Impeachment Tracker, Jefferson Shreve opposes impeachment efforts against Donald Trump in the current Congress.",
     "stanceSources": [
       {
-        "title": "Congressional Impeachment Tracker \u2014 IMPEACH TRUMP. AGAIN.",
+        "title": "Congressional Impeachment Tracker — IMPEACH TRUMP. AGAIN.",
         "url": "https://www.impeachtrumpagain.org/tracker",
         "date": ""
       }
@@ -7005,9 +6999,9 @@
   {
     "id": "C001072",
     "slug": "andre-carson",
-    "firstName": "Andr\u00e9",
+    "firstName": "André",
     "lastName": "Carson",
-    "fullName": "Andr\u00e9 Carson",
+    "fullName": "André Carson",
     "party": "D",
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001072.jpg",
     "state": "IN",
@@ -7543,20 +7537,9 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/B/B001282.jpg",
     "state": "KY",
     "fipsCode": "2106",
-    "stance": "publicly-supports",
-    "stanceSummary": "Andy Barr has publicly defended Trump before impeachment votes and received Trump's endorsement, with Trump calling his race potentially 'the most important race there is.' Despite recent campaign manager issues over anti-Trump positions, Barr maintains his pro-Trump stance.",
-    "stanceSources": [
-      {
-        "title": "Kentucky's Andy Barr defends Trump before impeachment vote",
-        "url": "https://www.mcclatchydc.com/news/politics-government/article238487873.html",
-        "date": ""
-      },
-      {
-        "title": "Andy Barr's Senate Campaign Manager Terminated over Anti-Trump...",
-        "url": "https://www.breitbart.com/politics/2026/04/08/andy-barr-campaign-manager-terminated-over-anti-trump-rage/",
-        "date": "2026-04-08"
-      }
-    ],
+    "stance": "leaning-oppose",
+    "stanceSummary": "",
+    "stanceSources": [],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-225-4706",
     "email": null,
@@ -8485,7 +8468,7 @@
     "stanceSummary": "April McClain Delaney has publicly called for Trump's impeachment in January 2026, specifically stating that Democrats should initiate impeachment proceedings due to Trump's actions in Venezuela and that Democrats 'must imminently consider' impeaching Trump.",
     "stanceSources": [
       {
-        "title": "Donald Trump faces impeachment \u2014 EADaily, January 6th, 2026",
+        "title": "Donald Trump faces impeachment — EADaily, January 6th, 2026",
         "url": "https://eadaily.com/en/news/2026/01/06/donald-trump-faces-impeachment",
         "date": "2026-01-06"
       },
@@ -8969,7 +8952,7 @@
     "stanceSummary": "According to the Congressional Impeachment Tracker, Tom Barrett (MI-07, Republican) is listed as opposing the current impeachment effort, contrasting with Democrats who support impeachment.",
     "stanceSources": [
       {
-        "title": "Congressional Impeachment Tracker \u2014IMPEACH TRUMP. AGAIN.",
+        "title": "Congressional Impeachment Tracker —IMPEACH TRUMP. AGAIN.",
         "url": "https://www.impeachtrumpagain.org/tracker",
         "date": ""
       }
@@ -12073,8 +12056,8 @@
     "id": "V000081",
     "slug": "nydia-m-velazquez",
     "firstName": "Nydia",
-    "lastName": "Vel\u00e1zquez",
-    "fullName": "Nydia M. Vel\u00e1zquez",
+    "lastName": "Velázquez",
+    "fullName": "Nydia M. Velázquez",
     "party": "D",
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/V/V000081.jpg",
     "state": "NY",
@@ -12576,7 +12559,7 @@
     "stanceSummary": "Josh Riley supports impeachment according to the Congressional Impeachment Tracker, which lists him as a Democrat who 'Supports impeachment' in relation to the recent impeachment votes against Trump since he returned to the White House.",
     "stanceSources": [
       {
-        "title": "Congressional Impeachment Tracker \u2014 IMPEACH TRUMP. AGAIN.",
+        "title": "Congressional Impeachment Tracker — IMPEACH TRUMP. AGAIN.",
         "url": "https://www.impeachtrumpagain.org/tracker",
         "date": ""
       }
@@ -13488,7 +13471,7 @@
         "date": ""
       },
       {
-        "title": "Congressional Impeachment Tracker \u2014 IMPEACH TRUMP. AGAIN.",
+        "title": "Congressional Impeachment Tracker — IMPEACH TRUMP. AGAIN.",
         "url": "https://www.impeachtrumpagain.org/tracker",
         "date": ""
       }
@@ -14678,7 +14661,7 @@
     "stanceSummary": "Glenn Thompson voted against the second impeachment of Donald Trump, with sources indicating he opposes impeachment proceedings. Recent social media activity shows continued support for Trump, expressing satisfaction with Trump's election victory.",
     "stanceSources": [
       {
-        "title": "Fanatical Republican Extremist of the Day \u2014 Glenn Thompson",
+        "title": "Fanatical Republican Extremist of the Day — Glenn Thompson",
         "url": "https://republicinsanity.tumblr.com/post/699079284608892928/glenn-thompson",
         "date": ""
       },
@@ -14807,9 +14790,9 @@
   {
     "id": "H001103",
     "slug": "pablo-jose-hernandez",
-    "firstName": "Pablo Jos\u00e9",
-    "lastName": "Hern\u00e1ndez Rivera",
-    "fullName": "Pablo Jos\u00e9 Hern\u00e1ndez",
+    "firstName": "Pablo José",
+    "lastName": "Hernández Rivera",
+    "fullName": "Pablo José Hernández",
     "party": "D",
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/H/H001103.jpg",
     "state": "PR",
@@ -14916,7 +14899,7 @@
         "date": ""
       },
       {
-        "title": "Nancy Mace Predicts 2026 Disaster for Trump \u2013 DNYUZ",
+        "title": "Nancy Mace Predicts 2026 Disaster for Trump – DNYUZ",
         "url": "https://dnyuz.com/2026/01/07/nancy-mace-predicts-2026-disaster-for-trump/",
         "date": "2026-01-07"
       }
@@ -15753,7 +15736,7 @@
     "stanceSummary": "Keith Self is listed as opposing impeachment on the Congressional Impeachment Tracker and has been actively defending Trump against what he calls 'traps being laid' by media outlets like the New York Times.",
     "stanceSources": [
       {
-        "title": "Congressional Impeachment Tracker \u2014 IMPEACH TRUMP. AGAIN.",
+        "title": "Congressional Impeachment Tracker — IMPEACH TRUMP. AGAIN.",
         "url": "https://www.impeachtrumpagain.org/tracker",
         "date": ""
       },
@@ -16033,7 +16016,7 @@
     "stanceSummary": "No recent sources show McCaul taking a stance on current impeachment efforts. As a Republican Representative who was in Congress during previous Trump impeachment votes, he likely voted against impeachment in 2019 and/or 2021, though the specific voting record is not detailed in these sources.",
     "stanceSources": [
       {
-        "title": "MichaelT McCaul: 2 \u0442\u044b\u0441. \u0432\u0438\u0434\u0435\u043e \u043d\u0430\u0439\u0434\u0435\u043d\u043e \u0432 \u042f\u043d\u0434\u0435\u043a\u0441\u0435",
+        "title": "MichaelT McCaul: 2 тыс. видео найдено в Яндексе",
         "url": "https://tel.yandex.by/video/search?text=Michael+T+McCaul",
         "date": "2021-05-30"
       },
@@ -16224,7 +16207,7 @@
         "date": ""
       },
       {
-        "title": "RandyK.Weber,Sr. \u2013 CONGRESS MACHINE",
+        "title": "RandyK.Weber,Sr. – CONGRESS MACHINE",
         "url": "https://congressmachine.com/officials/weber-randy-k-sr/",
         "date": ""
       }
@@ -16260,7 +16243,7 @@
   {
     "id": "D000594",
     "slug": "monica-de-la-cruz",
-    "firstName": "M\u00f3nica",
+    "firstName": "Mónica",
     "lastName": "De La Cruz",
     "fullName": "Monica De La Cruz",
     "party": "R",
@@ -16840,7 +16823,7 @@
     "stanceSummary": "Michael Cloud opposes impeachment according to the Congressional Impeachment Tracker, which specifically lists him as opposing impeachment of Trump since his return to the White House.",
     "stanceSources": [
       {
-        "title": "Congressional Impeachment Tracker \u2014 IMPEACH TRUMP. AGAIN.",
+        "title": "Congressional Impeachment Tracker — IMPEACH TRUMP. AGAIN.",
         "url": "https://www.impeachtrumpagain.org/tracker",
         "date": ""
       },
@@ -18622,25 +18605,9 @@
     "photoUrl": "https://bioguide.congress.gov/bioguide/photo/V/V000135.jpg",
     "state": "WI",
     "fipsCode": "5503",
-    "stance": "publicly-supports",
-    "stanceSummary": "Van Orden has actively filed impeachment resolutions against federal judges who have ruled against Trump, specifically targeting Judge Paul Engelmayer for blocking Trump's DOGE team access to Treasury records. He stated that 'the judiciary has gotten completely out of control' and dismissed concerns about impeaching judges for their rulings.",
-    "stanceSources": [
-      {
-        "title": "Wisconsin's Van Orden moves to impeach judge who blocked... - WPR",
-        "url": "https://www.wpr.org/news/wisconsin-van-orden-impeach-judge-paul-engelmayer-elon-musk-doge-treasury-trump",
-        "date": ""
-      },
-      {
-        "title": "Judges warn against impeachments for rulings against Trump",
-        "url": "https://rollcall.com/2025/03/11/judges-warn-against-impeachments-for-rulings-against-trump/",
-        "date": "2025-03-11"
-      },
-      {
-        "title": "Trump Ally Van Orden Moves to Impeach Federal Judge Engelmayer",
-        "url": "https://www.devdiscourse.com/article/politics/3271000-trump-ally-van-orden-moves-to-impeach-federal-judge-engelmayer",
-        "date": ""
-      }
-    ],
+    "stance": "leaning-oppose",
+    "stanceSummary": "",
+    "stanceSources": [],
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-225-5506",
     "email": null,
@@ -18860,7 +18827,7 @@
     "stanceSummary": "Carol D. Miller is a Republican representative from West Virginia who was in Congress during previous Trump impeachment proceedings but has not taken a public stance on current impeachment efforts. No recent sources show her position on the latest calls for Trump's removal.",
     "stanceSources": [
       {
-        "title": "Carol D. Miller \u2013 Vote Your Vision",
+        "title": "Carol D. Miller – Vote Your Vision",
         "url": "https://voteyourvision.org/congress-member/carol-d-miller/",
         "date": ""
       },
