@@ -5593,6 +5593,31 @@
     "district": 13
   },
   {
+    "id": "F000485",
+    "slug": "clay-fuller",
+    "firstName": "Clay",
+    "lastName": "Fuller",
+    "fullName": "Clay Fuller",
+    "party": "R",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/F/F000485.jpg",
+    "state": "GA",
+    "fipsCode": "1314",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-15",
+    "phone": "202-225-5211",
+    "email": null,
+    "website": null,
+    "officeAddress": "2201 Rayburn House Office Building Washington DC 20515-1014",
+    "districtOffices": [],
+    "twitter": null,
+    "facebook": null,
+    "termStart": "2026-04-14",
+    "termEnd": "2027-01-03",
+    "district": 14
+  },
+  {
     "id": "M001219",
     "slug": "james-c-moylan",
     "firstName": "James (Jim)",
@@ -16601,68 +16626,6 @@
     "termStart": "2025-01-03",
     "termEnd": "2027-01-03",
     "district": 22
-  },
-  {
-    "id": "G000594",
-    "slug": "tony-gonzales",
-    "firstName": "Ernest",
-    "lastName": "Gonzales",
-    "fullName": "Tony Gonzales",
-    "party": "R",
-    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/G/G000594.jpg",
-    "state": "TX",
-    "fipsCode": "4823",
-    "stance": "publicly-opposes",
-    "stanceSummary": "Tony Gonzales voted against impeachment of Trump and called it a \"partisan\" attempt by Nancy Pelosi to \"divide the country further.\" Despite recent calls for his own resignation over personal allegations, he maintains Trump's backing.",
-    "stanceSources": [
-      {
-        "title": "Texas Congressman Tony Gonzales votes against impeachment of...",
-        "url": "https://www.ksat.com/news/local/2021/01/13/texas-congressman-tony-gonzales-votes-against-impeachment-of-pres-donald-trump/",
-        "date": ""
-      },
-      {
-        "title": "GOP's Tony Gonzales faces more resignation calls, but holds on to...",
-        "url": "https://www.ms.now/rachel-maddow-show/maddowblog/gops-tony-gonzales-faces-more-resignation-calls-but-holds-on-to-trumps-backing",
-        "date": "2026-02-27"
-      }
-    ],
-    "stanceUpdatedAt": "2026-04-09",
-    "phone": "202-225-4511",
-    "email": null,
-    "website": "https://gonzales.house.gov",
-    "officeAddress": "2239 Rayburn House Office Building Washington DC 20515-4323",
-    "districtOffices": [
-      {
-        "city": "San Antonio",
-        "address": "4372 N. Loop 1604 W, Suite 205, San Antonio, TX 78249",
-        "phone": "210-806-9920"
-      },
-      {
-        "city": "Uvalde",
-        "address": "2401 Garner Field Rd, Building Q, Uvalde, TX 78801",
-        "phone": "830-333-7410"
-      },
-      {
-        "city": "Del Rio",
-        "address": "712 East Gibbs St., Del Rio, TX 78840",
-        "phone": "830-308-6200"
-      },
-      {
-        "city": "Fort Stockton",
-        "address": "103 West Callaghan, Fort Stockton, TX 79735",
-        "phone": "432-299-6200"
-      },
-      {
-        "city": "Socorro",
-        "address": "10167 Socorro Rd., Casa Ortiz, Socorro, TX 79927",
-        "phone": "915-990-1500"
-      }
-    ],
-    "twitter": "RepTonyGonzales",
-    "facebook": "RepTonyGonzales",
-    "termStart": "2025-01-03",
-    "termEnd": "2027-01-03",
-    "district": 23
   },
   {
     "id": "V000134",
