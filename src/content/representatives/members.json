@@ -830,7 +830,7 @@
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-225-2435",
     "email": null,
-    "website": "https://grijalva.house.gov/",
+    "website": "https://grijalva.house.gov",
     "officeAddress": "1203 Longworth House Office Building Washington DC 20515-0307",
     "districtOffices": [
       {
@@ -5608,7 +5608,7 @@
     "stanceUpdatedAt": "2026-04-21",
     "phone": "202-225-5211",
     "email": null,
-    "website": null,
+    "website": "https://fuller.house.gov",
     "officeAddress": "2201 Rayburn House Office Building Washington DC 20515-1014",
     "districtOffices": [],
     "twitter": null,
@@ -11481,6 +11481,31 @@
     "district": 10
   },
   {
+    "id": "M001246",
+    "slug": "analilia-mejia",
+    "firstName": "Analilia",
+    "lastName": "Mejia",
+    "fullName": "Analilia Mejia",
+    "party": "D",
+    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/M/M001246.jpg",
+    "state": "NJ",
+    "fipsCode": "3411",
+    "stance": "silent",
+    "stanceSummary": "No public position on impeachment recorded.",
+    "stanceSources": [],
+    "stanceUpdatedAt": "2026-04-21",
+    "phone": "202-225-5034",
+    "email": null,
+    "website": "https://mejia.house.gov",
+    "officeAddress": "1427 Longworth House Office Building Washington DC 20515-3011",
+    "districtOffices": [],
+    "twitter": null,
+    "facebook": null,
+    "termStart": "2026-04-20",
+    "termEnd": "2027-01-03",
+    "district": 11
+  },
+  {
     "id": "W000822",
     "slug": "bonnie-watson-coleman",
     "firstName": "Bonnie",
@@ -15515,7 +15540,7 @@
     "stanceUpdatedAt": "2026-04-21",
     "phone": "202-225-2811",
     "email": null,
-    "website": "https://vanepps.house.gov/",
+    "website": "https://vanepps.house.gov",
     "officeAddress": "2446 Rayburn House Office Building Washington DC 20515-4207",
     "districtOffices": [
       {
@@ -16420,7 +16445,7 @@
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-225-3816",
     "email": null,
-    "website": "https://menefee.house.gov/",
+    "website": "https://menefee.house.gov",
     "officeAddress": "1318 Longworth House Office Building Washington DC 20515-4318",
     "districtOffices": [
       {
@@ -17898,7 +17923,7 @@
     "stanceUpdatedAt": "2026-04-09",
     "phone": "202-225-1492",
     "email": null,
-    "website": "https://walkinshaw.house.gov/",
+    "website": "https://walkinshaw.house.gov",
     "officeAddress": "2265 Rayburn House Office Building Washington DC 20515-4611",
     "districtOffices": [
       {
