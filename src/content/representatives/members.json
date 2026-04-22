@@ -4545,53 +4545,6 @@
     "district": 19
   },
   {
-    "id": "C001127",
-    "slug": "sheila-cherfilus-mccormick",
-    "firstName": "Sheila",
-    "lastName": "Cherfilus-McCormick",
-    "fullName": "Sheila Cherfilus-McCormick",
-    "party": "D",
-    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/C/C001127.jpg",
-    "state": "FL",
-    "fipsCode": "1220",
-    "stance": "publicly-supports",
-    "stanceSummary": "Rep. Cherfilus-McCormick has warned against a second Trump term and expressed opposition to Trump's plans to select cabinet members based on loyalty rather than qualifications, indicating support for preventing Trump from continuing in office.",
-    "stanceSources": [
-      {
-        "title": "Rep. Sheila Cherfilus-McCormick warns against a 2nd Trump term",
-        "url": "https://www.youtube.com/watch?v=ABexpeqTfyo",
-        "date": ""
-      },
-      {
-        "title": "House Ethics panel hears charges against Sheila Cherfilus-McCormick",
-        "url": "https://www.politico.com/news/2026/03/26/house-ethics-shelia-cherfilus-mccormick-00847808?__cf_chl_tk=s4r5lvbfq4ImfgwgH4XwSmRy2z7Ff8n0aMDNaHlNYvs-1774624082-1.0.1.1-zT25Ds3KbffjGTr7cdruH.hNjSpQw40PKB7sf6LB4fg",
-        "date": "2026-03-26"
-      }
-    ],
-    "stanceUpdatedAt": "2026-04-09",
-    "phone": "202-225-1313",
-    "email": null,
-    "website": "https://cherfilus-mccormick.house.gov",
-    "officeAddress": "2442 Rayburn House Office Building Washington DC 20515-0920",
-    "districtOffices": [
-      {
-        "city": "Tamarac",
-        "address": "5701 NW 88th Avenue, Suite 200, Tamarac, FL 33321",
-        "phone": "954-733-2800"
-      },
-      {
-        "city": "West Palm Beach",
-        "address": "5725 Corporate Way, Suite 208, West Palm Beach, FL 33407",
-        "phone": "561-461-6767"
-      }
-    ],
-    "twitter": null,
-    "facebook": "congresswomanSCM",
-    "termStart": "2025-01-03",
-    "termEnd": "2027-01-03",
-    "district": 20
-  },
-  {
     "id": "M001199",
     "slug": "brian-j-mast",
     "firstName": "Brian",
@@ -5554,43 +5507,6 @@
     "termStart": "2025-01-03",
     "termEnd": "2027-01-03",
     "district": 12
-  },
-  {
-    "id": "S001157",
-    "slug": "david-scott",
-    "firstName": "David",
-    "lastName": "Scott",
-    "fullName": "David Scott",
-    "party": "D",
-    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/S/S001157.jpg",
-    "state": "GA",
-    "fipsCode": "1313",
-    "stance": "leaning-support",
-    "stanceSummary": "David Scott previously joined calls for impeachment inquiry during Trump's first term in 2019, but no recent sources show him taking a specific public stance on the current impeachment push following Trump's Iran threats.",
-    "stanceSources": [
-      {
-        "title": "Most Ga. House Dems join calls for impeachment inquiry \u2022 Georgia...",
-        "url": "https://georgiarecorder.com/2019/09/25/most-ga-house-members-join-calls-to-impeach-president-trump/",
-        "date": ""
-      }
-    ],
-    "stanceUpdatedAt": "2026-04-09",
-    "phone": "202-225-2939",
-    "email": null,
-    "website": "https://davidscott.house.gov",
-    "officeAddress": "468 Cannon House Office Building Washington DC 20515-1013",
-    "districtOffices": [
-      {
-        "city": "Stockbridge",
-        "address": "5 Gresham Landing, Suite A, Stockbridge, GA 30281",
-        "phone": "770-210-5073"
-      }
-    ],
-    "twitter": "RepDavidScott",
-    "facebook": "113303673339",
-    "termStart": "2025-01-03",
-    "termEnd": "2027-01-03",
-    "district": 13
   },
   {
     "id": "F000485",
