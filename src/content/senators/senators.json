@@ -4241,61 +4241,6 @@
     "termEnd": "2031-01-03"
   },
   {
-    "id": "G000359",
-    "slug": "lindsey-graham",
-    "firstName": "Lindsey",
-    "lastName": "Graham",
-    "fullName": "Lindsey Graham",
-    "party": "R",
-    "photoUrl": "https://bioguide.congress.gov/bioguide/photo/G/G000359.jpg",
-    "state": "SC",
-    "fipsCode": "45",
-    "stance": "publicly-opposes",
-    "stanceSummary": "Vocal defender against impeachment efforts in the Senate.",
-    "stanceSources": [],
-    "stanceUpdatedAt": "2026-04-08",
-    "phone": "202-224-5972",
-    "email": "https://www.lgraham.senate.gov/public/index.cfm/e-mail-senator-graham",
-    "website": "https://www.lgraham.senate.gov/public",
-    "officeAddress": "211 Russell Senate Office Building Washington DC 20510",
-    "districtOffices": [
-      {
-        "city": "Florence",
-        "address": "401 W. Evans St., Suite 111, McMillan Federal Building, Florence, SC 29501",
-        "phone": "843-669-1505"
-      },
-      {
-        "city": "Pendleton",
-        "address": "124 Exchange St., Suite A, Pendleton, SC 29670",
-        "phone": "864-646-4090"
-      },
-      {
-        "city": "Rock Hill",
-        "address": "235 E. Main St., Suite 100, Rock Hill, SC 29730",
-        "phone": "803-366-2828"
-      },
-      {
-        "city": "Columbia",
-        "address": "2142 Boyce Street, Suite 404, Columbia, SC 29201",
-        "phone": "803-933-0112"
-      },
-      {
-        "city": "Charleston",
-        "address": "4 Carriage Lane, Suite 401, Charleston, SC 29407",
-        "phone": "843-849-3887"
-      },
-      {
-        "city": "Greenville",
-        "address": "2 West Washington Street, Suite 808, Greenville, SC 29601",
-        "phone": "864-250-1417"
-      }
-    ],
-    "twitter": "GrahamBlog",
-    "facebook": "USSenatorLindseyGraham",
-    "termStart": "2021-01-03",
-    "termEnd": "2027-01-03"
-  },
-  {
     "id": "S001184",
     "slug": "tim-scott",
     "firstName": "Tim",
